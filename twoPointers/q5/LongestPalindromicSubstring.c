@@ -2,6 +2,11 @@
 #include <string.h>
 #include <stdlib.h>
 
+/*
+Input: s = "babad"
+Output: "bab"
+Explanation: "aba" is also a valid answer.
+*/
 int expandAroundCenter(const char *s, int left, int right)
 {
     int n = strlen(s);
