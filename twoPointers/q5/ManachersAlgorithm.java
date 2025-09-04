@@ -2,6 +2,7 @@
 Input: s = "babad"
 Output: "bab"
 Explanation: "aba" is also a valid answer.
+PreProcess Initialize Expand Update Track
 
 Complexity Analysis:
 Time Complexity: O(n)
@@ -53,8 +54,6 @@ public class ManachersAlgorithm {
         int start = (centerIndex - maxLen) / 2;
         return s.substring(start, start + maxLen);
     }
-
-    // PreProcess Initialize Expand Update Track
 
     public static void main(String[] args) {
         String s = "babad";
