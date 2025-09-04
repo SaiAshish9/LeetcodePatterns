@@ -5,7 +5,8 @@
 - 🚀 [LeetCode2.0](https://leetcodev2.vercel.app/)  
 - 📄 [Patterns PDF](https://github.com/SaiAshish9/PDF_Notes/blob/main/Problem%20Solving%20Patterns_compressed.pdf)  
 - 🧮 [Matrix Patterns (Notion)](https://weak-bunny-372.notion.site/Matrix-Patterns-11544a9e7db180cf9308f9473cfe4f85?pvs=74)  
-- 📊 [DP Patterns PDF](https://github.com/SaiAshish9/PDF_Notes/blob/main/DP_Conceptual_Patterns.pdf)  
+- 📊 [DP Patterns PDF](https://github.com/SaiAshish9/PDF_Notes/blob/main/DP_Conceptual_Patterns.pdf)
+- ✨ [Beginner DSA Sheet](https://www.notion.so/Begineer-DSA-Sheet-Patterns-1dd44a9e7db180868c60c7318b13a602)
 
 ---
 
