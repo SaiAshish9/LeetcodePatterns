@@ -1,3 +1,27 @@
+/*
+Input: intervals = [[1,3],[2,6],[8,10],[15,18]]
+Output: [[1,6],[8,10],[15,18]]
+Explanation: Since intervals [1,3] and [2,6] overlaps, merge them into [1,6].
+
+Brute Force: O(nlogn) + O(n^2) time | O(n) space
+1. Sort the intervals based on the starting time.   O(nlogn)
+2. Create a result list to store the merged intervals.
+3. Iterate through the sorted intervals and for each interval:   
+    a. If the result list is empty or the current interval does not overlap with the last interval in the result list, add it to the result list.
+    b. If there is an overlap, merge the current interval with the last interval in the result list by updating the end time of the last interval to be the maximum of the two end times.   O(n^2)
+4. Return the result list as an array. O(n) space for the result list.
+
+Optimal Approach: O(nlogn) time | O(n) space
+1. Sort the intervals based on the starting time.   O(nlogn)                            
+2. Create a result list to store the merged intervals.
+3. Initialize a variable to keep track of the current interval being merged.
+4. Iterate through the sorted intervals starting from the second interval:
+    a. If the current interval overlaps with the next interval, update the end time of the current interval to be the maximum of the two end times.
+    b. If there is no overlap, add the current interval to the result list and update the current interval to be the next interval.  O(n)               
+5. After the loop, add the last current interval to the result list.    O(n)        
+6. Return the result list as an array. O(n) space for the result list.      
+ */
+
 package twoPointers.mergeIntervals;
 
 import java.util.*;
