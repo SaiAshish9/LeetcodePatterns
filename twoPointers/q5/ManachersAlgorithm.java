@@ -1,10 +1,15 @@
-package twoPointers.q5;
-
 /*
 Input: s = "babad"
 Output: "bab"
 Explanation: "aba" is also a valid answer.
+
+Complexity Analysis:
+Time Complexity: O(n)
+Space Complexity: O(n)
 */
+
+package twoPointers.q5;
+
 public class ManachersAlgorithm {
 
     private static String preprocess(String s) {

@@ -1,3 +1,13 @@
+/*
+Input: s = "babad"
+Output: "bab"
+Explanation: "aba" is also a valid answer.
+
+Complexity Analysis:
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
