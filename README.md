@@ -34,6 +34,6 @@ java twoPointers.q5.LongestPalindromicSubstring
     
     1. [Longest Palindromic Substring](./twoPointers/q5/LongestPalindromicSubstring.java)
 
----
+--
 
 Thank You.
