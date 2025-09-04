@@ -2,7 +2,22 @@
 Input: s = "babad"
 Output: "bab"
 Explanation: "aba" is also a valid answer.
+
+Brute Force Approach: Check all substrings
+- O(n^3) time complexity
+- O(1) space complexity
+
+Optimized Approach: Expand Around Center
+
+Complexity Analysis:
+- O(n^2) time complexity
+- O(1) space complexity
+
+Most Optimal Approach: Manacher's Algorithm
+- O(n) time complexity
+- O(n) space complexity
 */
+
 package twoPointers.q5;
 
 public class LongestPalindromicSubstring {
