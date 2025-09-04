@@ -23,7 +23,6 @@ java twoPointers.q5.LongestPalindromicSubstring
 - ✨ [Beginner DSA Sheet](https://www.notion.so/Begineer-DSA-Sheet-Patterns-1dd44a9e7db180868c60c7318b13a602)
 - ⚡️ [Sai Ashish's Portfolio Sheet](https://saiashish9.vercel.app/en/dsa?category=2)
 
-
 ---
 
 ## 💻 Online Tool for Execution
