@@ -29,4 +29,4 @@ java twoPointers.q5.LongestPalindromicSubstring
 
 1. **Two Pointers (14)**
     
-    1. [Longest Palindromic Substring](./5/LongestPalindromicSubstring.java)
+    1. [Longest Palindromic Substring](./twoPointers/q5/LongestPalindromicSubstring.java)
