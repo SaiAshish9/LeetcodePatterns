@@ -21,7 +21,7 @@ clang++ twoPointers/q5/LongestPalindromicSubstring.cpp -o output && ./output  # 
 clang twoPointers/q5/LongestPalindromicSubstring.c -o c.out && ./c.out
 
 # Compile & Run Java
-javac two_pointers/q5/LongestPalindromicSubstring.java
+javac twoPointers/q5/LongestPalindromicSubstring.java
 java twoPointers.q5.LongestPalindromicSubstring
 ```
 
