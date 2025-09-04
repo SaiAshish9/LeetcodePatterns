@@ -27,6 +27,6 @@ java twoPointers.q5.LongestPalindromicSubstring
 
 ## 📂 Contents (14)
 
-1. **Two Pointers (14)**
+1. **Two Pointers (1-14, 14)**
     
     1. [Longest Palindromic Substring](./twoPointers/q5/LongestPalindromicSubstring.java)
