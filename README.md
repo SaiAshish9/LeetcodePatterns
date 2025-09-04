@@ -39,7 +39,8 @@ java twoPointers.q5.LongestPalindromicSubstring
     
     1. [Longest Palindromic Substring](./twoPointers/q5/LongestPalindromicSubstring.java)
     2. [Manacher’s Algorithm](./twoPointers/q5/ManachersAlgorithm.java)
-
+    3. [Container WIth Most Water](./twoPointers/q11/ContainerWithMostWater.java)
+    4. [3Sum](./twoPointers/q15/ThreeSum.java)
 ---
 
 Thank You.
