@@ -9,6 +9,8 @@
 
 ## 💻 Online Tool for Execution
 - [Programiz Java Online Compiler](https://www.programiz.com/java-programming/online-compiler/)
+- [Programiz C Online Compiler](https://www.programiz.com/c-programming/online-compiler/)
+- [Programiz C++ Online Compiler](https://www.programiz.com/cpp-programming/online-compiler/)
 
 ---
 
