@@ -45,7 +45,7 @@ java twoPointers.q5.LongestPalindromicSubstring
    6. [Trapping Rain Water](./twoPointers/q42/TrappingRainWater.java)
    7. [Sort Colors](./twoPointers/q75/SortColors.java) (Dutch National Flag Algorithm)
    8. [Valid Palindrome](./twoPointers/q125/ValidPalindrome.java)
-   9. [Linked List Cycle](./twoPointers/q141/LinkedListCycle.java)
+   9. [Linked List Cycle](./twoPointers/q141/LinkedListCycle.java) (Tortoise and Hare Algorithm)
    10. [Move Zeroes](./twoPointers/q283/MoveZeroes.java)
    11. [Reverse Vowels Of A String](./twoPointers/q345/ReverseVowelsOfAString.java)
    12. [Valid Triangle Number](./twoPointers/q611/ValidTriangleNumber.java)
