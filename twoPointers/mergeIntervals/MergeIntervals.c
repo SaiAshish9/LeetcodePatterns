@@ -19,7 +19,18 @@ Optimal Approach: O(nlogn) time | O(n) space
     a. If the current interval overlaps with the next interval, update the end time of the current interval to be the maximum of the two end times.
     b. If there is no overlap, add the current interval to the result list and update the current interval to be the next interval.  O(n)               
 5. After the loop, add the last current interval to the result list.    O(n)        
-6. Return the result list as an array. O(n) space for the result list.      
+6. Return the result list as an array. O(n) space for the result list.    
+
+Dry Run:    
+1. Sort the intervals: [[1,3],[2,6],[8,10],[15,18]] -> [[1,3],[2,6],[8,10],[15,18]]
+2. Initialize result list: []
+3. Set current interval to [1,3]
+4. Iterate through intervals:
+    a. Compare [1,3] with [2,6]: Overlap exists, update current interval to [1,6]
+    b. Compare [1,6] with [8,10]: No overlap, add [1,6] to result list, update current interval to [8,10]
+    c. Compare [8,10] with [15,18]: No overlap, add [8,10] to result list, update current interval to [15,18]
+5. Add last current interval [15,18] to result list: [[1,6],[8,10],[15,18]]
+6. Return result list as array: [[1,6],[8,10],[15,18]]
  */
 
 #include <stdio.h>

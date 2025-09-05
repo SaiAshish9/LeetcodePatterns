@@ -16,6 +16,14 @@ Complexity Analysis:
 Most Optimal Approach: Manacher's Algorithm
 - O(n) time complexity
 - O(n) space complexity
+
+Dry Run:
+s = "babad"
+i = 0, len1 = 1, len2 = 0, maxLen = 1, start = 0
+i = 1, len1 = 3, len2 = 0, maxLen = 3, start = 0
+i = 2, len1 = 1, len2 = 0, maxLen = 3, start = 0
+i = 3, len1 = 3, len2 = 0, maxLen = 3, start = 2 start = 0
+Result: "bab"
 */
 
 package twoPointers.q5;
