@@ -23,6 +23,26 @@ Optimal Approach:
 4. Return max_area.
 Time Complexity: O(n)
 Space Complexity: O(1)
+
+Dry Run:
+1. Initialize left = 0, right = 8, maxArea = 0.
+2. Calculate area: width = 8, height = min(1, 7) = 1, area = 8 * 1 = 8, maxArea = 8             
+3. Move left pointer: left = 1, right = 8
+4. Calculate area: width = 7, height = min(8, 7) = 7, area = 7 * 7 = 49, maxArea = 49
+5. Move right pointer: left = 1, right = 7
+6. Calculate area: width = 6, height = min(8, 3) = 3, area = 6 * 3 = 18, maxArea = 49
+7. Move right pointer: left = 1, right = 6
+8. Calculate area: width = 5, height = min(8, 8) = 8, area = 5 * 8 = 40, maxArea = 49
+9. Move right pointer: left = 1, right = 5
+10. Calculate area: width = 4, height = min(8, 4) = 4, area = 4 * 4 = 16, maxArea = 49
+11. Move right pointer: left = 1, right = 4
+12. Calculate area: width = 3, height = min(8, 5) = 5, area = 3 * 5 = 15, maxArea = 49
+13. Move right pointer: left = 1, right = 3
+14. Calculate area: width = 2, height = min(8, 2) = 2, area = 2 * 2 = 4, maxArea = 49
+15. Move right pointer: left = 1, right = 2                                         
+16. Calculate area: width = 1, height = min(8, 6) = 6, area = 1 * 6 = 6, maxArea = 49
+17. Move right pointer: left = 1, right = 1
+18. Exit loop as left is not less than right.   
 */
 
 #include <stdio.h>
