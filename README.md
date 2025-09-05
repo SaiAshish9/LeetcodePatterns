@@ -55,7 +55,7 @@ java twoPointers.q5.LongestPalindromicSubstring
 
 2. **Sliding Window (16-27, 11)**
 
-   1. [](./twoPointers/q/.java)
+   1. [MaxSumSubArrayOfSizeK](./twoPointers/q/MaxSumSubArrayOfSizeK.java)
    2. [](./twoPointers/q/.java)
    3. [](./twoPointers/q/.java)
    4. [](./twoPointers/q/.java)
