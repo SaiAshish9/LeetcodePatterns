@@ -1,3 +1,21 @@
+/*
+Input: nums = [2,0,2,1,1,0]
+Output: [0,0,1,1,2,2]  
+
+Brute Force: Sort the array using any sorting algorithm. O(nlogn)
+
+Optimal Approach: Dutch National Flag Algorithm (Three Pointers: low, mid, high)
+Time Complexity: O(n)
+Space Complexity: O(1)
+
+Dry Run:
+Initial: nums = [2,0,2,1,1,0], low = 0, mid = 0, high = 5
+1st Iteration: nums = [0,0,2,1,1,2], low = 1, mid = 1, high = 4
+2nd Iteration: nums = [0,0,2,1,1,2], low = 1, mid = 2, high = 4
+3rd Iteration: nums = [0,0,1,1,2,2], low = 1, mid = 3, high = 3
+4th Iteration: nums = [0,0,1,1,2,2], low = 2, mid = 4, high = 2
+End: nums = [0,0,1,1,2,2]
+*/
 package twoPointers.q75;
 
 import java.util.Arrays;

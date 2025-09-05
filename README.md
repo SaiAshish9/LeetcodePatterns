@@ -43,7 +43,7 @@ java twoPointers.q5.LongestPalindromicSubstring
    4. [3Sum](./twoPointers/q15/ThreeSum.java)
    5. [Remove Duplicates From Sorted Array](./twoPointers/q26/RemoveDuplicatesFromSortedArray.java)
    6. [Trapping Rain Water](./twoPointers/q42/TrappingRainWater.java)
-   7. [Sort Colors](./twoPointers/q75/SortColors.java)
+   7. [Sort Colors](./twoPointers/q75/SortColors.java) (Dutch National Flag Algorithm)
    8. [Valid Palindrome](./twoPointers/q125/ValidPalindrome)
    9. [Linked List Cycle](./twoPointers/q141/LinkedListCycle)
    10. [Move Zeroes](./twoPointers/q283/MoveZeroes)
