@@ -43,6 +43,15 @@ java twoPointers.q5.LongestPalindromicSubstring
    4. [3Sum](./twoPointers/q15/ThreeSum.java)
    5. [Remove Duplicates From Sorted Array](./twoPointers/q26/RemoveDuplicatesFromSortedArray.java)
    6. [Trapping Rain Water](./twoPointers/q42/TrappingRainWater.java)
+   7. [](./twoPointers/q/)
+   8. [](./twoPointers/q/)
+   9. [](./twoPointers/q/)
+   10. [](./twoPointers/q/)
+   11. [](./twoPointers/q/)
+   12. [](./twoPointers/q/)
+   13. [](./twoPointers/q/)
+   14. [](./twoPointers/q/)
+   15. [](./twoPointers/q/)
 
 ---
 
