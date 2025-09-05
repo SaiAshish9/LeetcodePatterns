@@ -16,9 +16,9 @@ java twoPointers.q5.LongestPalindromicSubstring
 
 ## 📘 Resources
 
-- 🚀 [LeetCode2.0](https://leetcodev2.vercel.app/)  
-- 📄 [Patterns PDF](https://github.com/SaiAshish9/PDF_Notes/blob/main/Problem%20Solving%20Patterns_compressed.pdf)  
-- 🧮 [Matrix Patterns (Notion)](https://weak-bunny-372.notion.site/Matrix-Patterns-11544a9e7db180cf9308f9473cfe4f85?pvs=74)  
+- 🚀 [LeetCode2.0](https://leetcodev2.vercel.app/)
+- 📄 [Patterns PDF](https://github.com/SaiAshish9/PDF_Notes/blob/main/Problem%20Solving%20Patterns_compressed.pdf)
+- 🧮 [Matrix Patterns (Notion)](https://weak-bunny-372.notion.site/Matrix-Patterns-11544a9e7db180cf9308f9473cfe4f85?pvs=74)
 - 📊 [DP Patterns PDF](https://github.com/SaiAshish9/PDF_Notes/blob/main/DP_Conceptual_Patterns.pdf)
 - ✨ [Beginner DSA Sheet](https://www.notion.so/Begineer-DSA-Sheet-Patterns-1dd44a9e7db180868c60c7318b13a602)
 - ⚡️ [Sai Ashish's Portfolio Sheet](https://saiashish9.vercel.app/en/dsa?category=2)
@@ -26,6 +26,7 @@ java twoPointers.q5.LongestPalindromicSubstring
 ---
 
 ## 💻 Online Tool for Execution
+
 - [Programiz Java Online Compiler](https://www.programiz.com/java-programming/online-compiler/)
 - [Programiz C Online Compiler](https://www.programiz.com/c-programming/online-compiler/)
 - [Programiz C++ Online Compiler](https://www.programiz.com/cpp-programming/online-compiler/)
@@ -35,11 +36,14 @@ java twoPointers.q5.LongestPalindromicSubstring
 ## 📂 Contents (15)
 
 1. **Two Pointers (1-15, 15)**
-    
-    1. [Longest Palindromic Substring](./twoPointers/q5/LongestPalindromicSubstring.java)
-    2. [Manacher’s Algorithm](./twoPointers/q5/ManachersAlgorithm.java)
-    3. [Container WIth Most Water](./twoPointers/q11/ContainerWithMostWater.java)
-    4. [3Sum](./twoPointers/q15/ThreeSum.java)
+
+   1. [Longest Palindromic Substring](./twoPointers/q5/LongestPalindromicSubstring.java)
+   2. [Manacher’s Algorithm](./twoPointers/q5/ManachersAlgorithm.java)
+   3. [Container WIth Most Water](./twoPointers/q11/ContainerWithMostWater.java)
+   4. [3Sum](./twoPointers/q15/ThreeSum.java)
+   5. [Remove Duplicates From Sorted Array](./twoPointers/q26/RemoveDuplicatesFromSortedArray.java)
+   6. [Trapping Rain Water](./twoPointers/q42/TrappingRainWater.java)
+
 ---
 
 Thank You.
