@@ -44,14 +44,14 @@ java twoPointers.q5.LongestPalindromicSubstring
    5. [Remove Duplicates From Sorted Array](./twoPointers/q26/RemoveDuplicatesFromSortedArray.java)
    6. [Trapping Rain Water](./twoPointers/q42/TrappingRainWater.java)
    7. [Sort Colors](./twoPointers/q75/SortColors.java)
-   8. [](./twoPointers/q/)
-   9. [](./twoPointers/q/)
-   10. [](./twoPointers/q/)
-   11. [](./twoPointers/q/)
-   12. [](./twoPointers/q/)
-   13. [](./twoPointers/q/)
-   14. [](./twoPointers/q/)
-   15. [](./twoPointers/q/)
+   8. [Valid Palindrome](./twoPointers/q125/)
+   9. [Linked List Cycle](./twoPointers/q141/)
+   10. [Move Zeroes](./twoPointers/q283/)
+   11. [Reverse Vowels Of A String](./twoPointers/q345/)
+   12. [Valid Triangle Number](./twoPointers/q611/)
+   13. [Find K Closest Elements](./twoPointers/q658/)
+   14. [Squares Of A Sorted Array](./twoPointers/q977/)
+   15. [Merge Intervals](./twoPointers/q/)
 
 ---
 
