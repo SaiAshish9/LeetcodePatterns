@@ -33,7 +33,7 @@ java twoPointers.q5.LongestPalindromicSubstring
 
 ---
 
-## 📂 Contents (26)
+## 📂 Contents (27)
 
 1. **Two Pointers (1-15, 15)**
 
@@ -53,19 +53,20 @@ java twoPointers.q5.LongestPalindromicSubstring
    14. [Squares Of A Sorted Array](./twoPointers/q977/SquaresOfASortedArray.java)
    15. [Merge Intervals](./twoPointers/mergeIntervals/MergeIntervals.java)
 
-2. **Sliding Window (16-27, 11)**
+2. **Sliding Window (16-28, 12)**
 
-   1. [MaxSumSubArrayOfSizeK](./slidingWindow/maxSumSubArrayOfSizeK/MaxSumSubArrayOfSizeK.java)
-   2. [MaxSumSubArray](./twoPointers/maxSumSubArray/.java) (Kadane Algorithm)
-   3. [](./twoPointers/q/.java)
-   4. [](./twoPointers/q/.java)
-   5. [](./twoPointers/q/.java)
-   6. [](./twoPointers/q/.java)
-   7. [](./twoPointers/q/.java)
-   8. [](./twoPointers/q/.java)
-   9. [](./twoPointers/q/.java)
-   10. [](./twoPointers/q/.java)
-   11. [](./twoPointers/q/.java)
+   1. [Maximum Sum SubArray Of Size K](./slidingWindow/maxSumSubArrayOfSizeK/MaxSumSubArrayOfSizeK.java)
+   2. [Maximum Sum SubArray](./slidingWindow/maxSumSubArray/MaxSumSubArray.java) (Kadane Algorithm)
+   3. [Run Length Coding](./slidingWindow/runLengthCoding/RunLengthCoding.java)
+   4. [Longest Substring Without Repeating Characters](./slidingWindow/q3/longestSubstringWithoutRepeatingCharacters.java)
+   5. [Longest Substring with At Most Two Distinct Characters](./slidingWindow/q159/longestSubstringWithAtMostTwoDistinctCharacters.java)
+   6. [Minimum Size SubArray Sum](./slidingWindow/q209/MinimumSizeSubarraySum.java)
+   7. [Sliding Window Maximum](./slidingWindow/q239/SlidingWindowMaximum.java)
+   8. [Max Consecutive Ones II](./slidingWindow/q487/MaxConsecutiveOnesII.java)
+   9. [SubArray Product Less Than K](./slidingWindow/q713/SubArrayProductLessThanK.java)
+   10. [Frequency of the Most Frequent Element](./slidingWindow/q1838/FrequencyOfTheMostFrequentElement.java)
+   11. [Count Number of Nice Subarrays](./slidingWindow/q1248/CountNumberOfNiceSubarrays.java)
+   12. [Kth Smallest SubArray Sum](./slidingWindow/q1918/KthSmallestSubArraySum.java) 
 
 ---
 
