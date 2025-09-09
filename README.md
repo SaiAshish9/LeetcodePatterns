@@ -59,7 +59,7 @@ java twoPointers.q5.LongestPalindromicSubstring
    2. [Maximum Sum SubArray](./slidingWindow/maxSumSubArray/MaxSumSubArray.java) (Kadane Algorithm)
    3. [Run Length Coding](./slidingWindow/runLengthCoding/RunLengthCoding.java)
    4. [Longest Substring Without Repeating Characters](./slidingWindow/q3/longestSubstringWithoutRepeatingCharacters.java)
-   5. [Longest Substring with At Most Two Distinct Characters](./slidingWindow/q159/longestSubstringWithAtMostTwoDistinctCharacters.java)
+   5. [Longest Substring with At Most Two Distinct Characters](./slidingWindow/q159/LongestSubstringWithAtMostTwoDistinctCharacters.java)
    6. [Minimum Size SubArray Sum](./slidingWindow/q209/MinimumSizeSubarraySum.java)
    7. [Sliding Window Maximum](./slidingWindow/q239/SlidingWindowMaximum.java)
    8. [Max Consecutive Ones II](./slidingWindow/q487/MaxConsecutiveOnesII.java)
