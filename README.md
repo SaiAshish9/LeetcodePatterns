@@ -64,7 +64,7 @@ java twoPointers.q5.LongestPalindromicSubstring
    7. [Sliding Window Maximum](./slidingWindow/q239/SlidingWindowMaximum.java)
    8. [Max Consecutive Ones II](./slidingWindow/q487/MaxConsecutiveOnesII.java)
    9. [SubArray Product Less Than K](./slidingWindow/q713/SubArrayProductLessThanK.java)
-   10. [Count Number of Nice Subarrays](./slidingWindow/q1248/CountNumberOfNiceSubarrays.java)
+   10. [Count Number of Nice Subarrays](./slidingWindow/q1248/CountNumberOfNiceSubarrays)
    11. [Frequency of the Most Frequent Element](./slidingWindow/q1838/FrequencyOfTheMostFrequentElement.java)
    12. [Kth Smallest SubArray Sum](./slidingWindow/q1918/KthSmallestSubArraySum.java) 
 
