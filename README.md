@@ -51,12 +51,12 @@ java twoPointers.q5.LongestPalindromicSubstring
    12. [Valid Triangle Number](./twoPointers/q611/ValidTriangleNumber.java)
    13. [Find K Closest Elements](./twoPointers/q658/FindKClosestElements.java)
    14. [Squares Of A Sorted Array](./twoPointers/q977/SquaresOfASortedArray.java)
-   15. [Merge Intervals](./twoPointers/q/MergeIntervals.java)
+   15. [Merge Intervals](./twoPointers/mergeIntervals/MergeIntervals.java)
 
 2. **Sliding Window (16-27, 11)**
 
-   1. [MaxSumSubArrayOfSizeK](./slidingWindow/q/MaxSumSubArrayOfSizeK.java)
-   2. [MaxSumSubArray](./twoPointers/q/.java) (Kadane Algorithm)
+   1. [MaxSumSubArrayOfSizeK](./slidingWindow/maxSumSubArrayOfSizeK/MaxSumSubArrayOfSizeK.java)
+   2. [MaxSumSubArray](./twoPointers/maxSumSubArray/.java) (Kadane Algorithm)
    3. [](./twoPointers/q/.java)
    4. [](./twoPointers/q/.java)
    5. [](./twoPointers/q/.java)
