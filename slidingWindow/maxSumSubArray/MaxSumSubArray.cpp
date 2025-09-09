@@ -60,9 +60,11 @@ int maxSubArraySum(const vector<int>& nums) {
 }
 
 int main() {
-    vector<int> arr = {1, 4, 2, 10, 2, 3, 1, 0, 20};
+    int arr[] = {1, 4, 2, 10, 2, 3, 1, 0, 20};
+    int n = sizeof(arr) / sizeof(arr[0]);
+    vector<int> nums(arr, arr + n);
 
-    int result = maxSubArraySum(arr);
+    int result = maxSubArraySum(nums);
     cout << "Max Subarray Sum = " << result << endl; // 43
 
     return 0;
