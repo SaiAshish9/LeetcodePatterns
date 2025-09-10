@@ -37,6 +37,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 - [Programiz C++ Online Compiler](https://www.programiz.com/cpp-programming/online-compiler/)
 
 <img width="394" height="241" alt="Screenshot 2025-09-10 at 10 52 26 PM" src="https://github.com/user-attachments/assets/56d69cba-6027-4f65-811d-50610ad397de" />
+
 ---
 
 ## 📂 Contents (55+)
@@ -115,6 +116,11 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    4. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/.java)
 
 6. **Monotonic Queue**
+   
+   1. [Deque]()
+   2. [Shortest Subarray with Sum at Least K]()
+   3. [Sliding Window Maximum]()
+   4. [Maximum Sum Circular Subarray]()
 
 ---
 
