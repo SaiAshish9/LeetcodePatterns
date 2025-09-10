@@ -2,7 +2,7 @@
 
 ```bash
 # Compile & Run C++
-clang++ twoPointers/q5/LongestPalindromicSubstring.cpp -o cpp.out && ./cpp.out  
+clang++ twoPointers/q5/LongestPalindromicSubstring.cpp -o cpp.out && ./cpp.out
 # use -std=c++17 if needed
 
 # Compile & Run C
@@ -42,21 +42,24 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 1. **Two Pointers (1-18, 18)**
 
-   1. [Longest Palindromic Substring](./twoPointers/q5/LongestPalindromicSubstring.java)
-   2. [Manacher’s Algorithm](./twoPointers/q5/ManachersAlgorithm.java)
-   3. [Container WIth Most Water](./twoPointers/q11/ContainerWithMostWater.java)
-   4. [3Sum](./twoPointers/q15/ThreeSum.java)
-   5. [Remove Duplicates From Sorted Array](./twoPointers/q26/RemoveDuplicatesFromSortedArray.java)
-   6. [Trapping Rain Water](./twoPointers/q42/TrappingRainWater.java)
-   7. [Sort Colors](./twoPointers/q75/SortColors.java) (Dutch National Flag Algorithm)
-   8. [Valid Palindrome](./twoPointers/q125/ValidPalindrome.java)
-   9. [Linked List Cycle](./twoPointers/q141/LinkedListCycle.java) (Tortoise and Hare Algorithm)
-   10. [Move Zeroes](./twoPointers/q283/MoveZeroes.java)
-   11. [Reverse Vowels Of A String](./twoPointers/q345/ReverseVowelsOfAString.java)
-   12. [Valid Triangle Number](./twoPointers/q611/ValidTriangleNumber.java)
-   13. [Find K Closest Elements](./twoPointers/q658/FindKClosestElements.java)
-   14. [Squares Of A Sorted Array](./twoPointers/q977/SquaresOfASortedArray.java)
-   15. [Merge Intervals](./twoPointers/mergeIntervals/MergeIntervals.java)
+   1. [Standard Two Pointers](./twoPointers/standardTwoPointers/StandardTwoPointers.java)
+   2. [Two Pointers Using Set](./twoPointers/twoPointersUsingSet/TwoPointersUsingSet.java)
+   3. [Find Pair With Given Difference](./twoPointers/findPairWithGivenDifference/FindPairWithGivenDifference.java)
+   4. [Longest Palindromic Substring](./twoPointers/q5/LongestPalindromicSubstring.java)
+   5. [Manacher’s Algorithm](./twoPointers/q5/ManachersAlgorithm.java)
+   6. [Container WIth Most Water](./twoPointers/q11/ContainerWithMostWater.java)
+   7. [3Sum](./twoPointers/q15/ThreeSum.java)
+   8. [Remove Duplicates From Sorted Array](./twoPointers/q26/RemoveDuplicatesFromSortedArray.java)
+   9. [Trapping Rain Water](./twoPointers/q42/TrappingRainWater.java)
+   10. [Sort Colors](./twoPointers/q75/SortColors.java) (Dutch National Flag Algorithm)
+   11. [Valid Palindrome](./twoPointers/q125/ValidPalindrome.java)
+   12. [Linked List Cycle](./twoPointers/q141/LinkedListCycle.java) (Tortoise and Hare Algorithm)
+   13. [Move Zeroes](./twoPointers/q283/MoveZeroes.java)
+   14. [Reverse Vowels Of A String](./twoPointers/q345/ReverseVowelsOfAString.java)
+   15. [Valid Triangle Number](./twoPointers/q611/ValidTriangleNumber.java)
+   16. [Find K Closest Elements](./twoPointers/q658/FindKClosestElements.java)
+   17. [Squares Of A Sorted Array](./twoPointers/q977/SquaresOfASortedArray.java)
+   18. [Merge Intervals](./twoPointers/mergeIntervals/MergeIntervals.java)
 
 2. **Sliding Window (16-28, 13)**
 
@@ -71,7 +74,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    9. [SubArray Product Less Than K](./slidingWindow/q713/SubArrayProductLessThanK.java)
    10. [Count Number of Nice Subarrays](./slidingWindow/q1248/CountNumberOfNiceSubarrays)
    11. [Frequency of the Most Frequent Element](./slidingWindow/q1838/FrequencyOfTheMostFrequentElement.java)
-   12. [Kth Smallest SubArray Sum](./slidingWindow/q1918/KthSmallestSubArraySum.java) 
+   12. [Kth Smallest SubArray Sum](./slidingWindow/q1918/KthSmallestSubArraySum.java)
 
 3. **Binary Search (29-40, 12)**
 
@@ -82,17 +85,17 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    5. [Lower Bound](./binarySearch/lowerBound/LowerBound.java)
    6. [Search in Rotated Sorted Array](./binarySearch/q33/SearchInRotatedSortedArray.java) → (Binary Search on Rotated Array)
    7. [Find First and Last Position of Element in Sorted Array](./binarySearch/q34/MaxSumSubArrayOfSizeK.java)
-    → (Binary Search + Lower & Upper Bound)
-   8. [Sqrt(x)](./binarySearch/q69/Sqrt.java) 
-   → (Binary Search on a Mathematical Function) 
+      → (Binary Search + Lower & Upper Bound)
+   8. [Sqrt(x)](./binarySearch/q69/Sqrt.java)
+      → (Binary Search on a Mathematical Function)
    9. [Search a 2D Matrix](./binarySearch/q74/SearchA2DMatrix.java)
-    → (Binary Search on 2D Grid)
+      → (Binary Search on 2D Grid)
    10. [Find Minimum in Rotated Sorted Array](./binarySearch/q153/FindMinimumInRotatedSortedArray.java)
-    → (Binary Search on Rotated Array) 
+       → (Binary Search on Rotated Array)
    11. [Find Peak Element](./binarySearch/q162/FindPeakElement.java)
-    → (Binary Search for Peak Finding)
+       → (Binary Search for Peak Finding)
    12. [Minimum Time to Complete Trips](./binarySearch/q2187/MinimumTimeToCompleteTripes.java)
-    → (Binary Search on Answer)
+       → (Binary Search on Answer)
 
 4. **Prefix Sum (41-46, 6)**
 
