@@ -61,7 +61,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    17. [Squares Of A Sorted Array](./twoPointers/q977/SquaresOfASortedArray.java)
    18. [Merge Intervals](./twoPointers/mergeIntervals/MergeIntervals.java)
 
-2. **Sliding Window (16-28, 13)**
+2. **Sliding Window (19-31, 13)**
 
    1. [Maximum Sum SubArray Of Size K](./slidingWindow/maxSumSubArrayOfSizeK/MaxSumSubArrayOfSizeK.java)
    2. [Maximum Sum SubArray](./slidingWindow/maxSumSubArray/MaxSumSubArray.java) (Kadane Algorithm)
@@ -76,7 +76,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    11. [Frequency of the Most Frequent Element](./slidingWindow/q1838/FrequencyOfTheMostFrequentElement.java)
    12. [Kth Smallest SubArray Sum](./slidingWindow/q1918/KthSmallestSubArraySum.java)
 
-3. **Binary Search (29-40, 12)**
+3. **Binary Search (32-43, 12)**
 
    1. [Normal Binary Search](./binarySearch/normalBinarySearch/NormalBinarySearch.java)
    2. [Next Greater Element (NGE, Upper Bound)](./binarySearch/nextGreaterElement/NextGraeterElement.java)
@@ -97,7 +97,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    12. [Minimum Time to Complete Trips](./binarySearch/q2187/MinimumTimeToCompleteTripes.java)
        → (Binary Search on Answer)
 
-4. **Prefix Sum (41-46, 6)**
+4. **Prefix Sum (44-49, 6)**
 
    1. [Normal Prefix Sum](./prefixSum/normalPrefixSum/NormalPrefixSum.java)
    2. [Product of Array Except Self](./prefixSum/q238/ProductOfArrayExceptSelf.java) 
@@ -105,6 +105,9 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    4. [Shortest SubArray with Sum at Least K](./prefixSum/q862/ShortestSubArrayWithSumAtLeastK.java) → (Sliding Window + Monotonic Queue, Hard Level)
    5. [SubArray Sums Divisible by K](./prefixSum/q974/SubArraySumsDivisibleByK.java) → (Prefix Sum + Modulo Technique for Efficient Counting)
    6. [Contiguous Array](./prefixSum/q525/ContiguousArray.java) → (Prefix Sum + HashMap for Tracking Equal 0s and 1s)
+
+5. **Binary Search + Prefix Sum (50-55, 6)**
+
 
 ---
 
