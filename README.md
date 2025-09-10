@@ -2,7 +2,8 @@
 
 ```bash
 # Compile & Run C++
-clang++ twoPointers/q5/LongestPalindromicSubstring.cpp -o cpp.out && ./cpp.out  # use -std=c++17 if needed
+clang++ twoPointers/q5/LongestPalindromicSubstring.cpp -o cpp.out && ./cpp.out  
+# use -std=c++17 if needed
 
 # Compile & Run C
 clang twoPointers/q5/LongestPalindromicSubstring.c -o c.out && ./c.out
@@ -37,9 +38,9 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 ---
 
-## 📂 Contents (46+)
+## 📂 Contents (49+)
 
-1. **Two Pointers (1-15, 15)**
+1. **Two Pointers (1-18, 18)**
 
    1. [Longest Palindromic Substring](./twoPointers/q5/LongestPalindromicSubstring.java)
    2. [Manacher’s Algorithm](./twoPointers/q5/ManachersAlgorithm.java)
