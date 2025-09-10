@@ -48,7 +48,7 @@ package slidingWindow.q1248;
 
 public class CountNumberOfNiceSubarrays {
 
-    public static int countNumberOfSubArrays(int[] nums, int k) {
+    private static int countNumberOfSubArrays(int[] nums, int k) {
         return atMost(nums, k) - atMost(nums, k - 1);
     }
 
