@@ -10,6 +10,10 @@ clang twoPointers/q5/LongestPalindromicSubstring.c -o c.out && ./c.out
 # Compile & Run Java
 javac twoPointers/q5/LongestPalindromicSubstring.java
 java twoPointers.q5.LongestPalindromicSubstring
+
+OR
+
+java twoPointers/q5/LongestPalindromicSubstring.java
 ```
 
 <img width="100%" height="100%" alt="Screenshot 2025-09-04 at 2 57 13 PM" src="https://github.com/user-attachments/assets/8c356156-8c83-4851-b00f-343bf40ccc07" />
