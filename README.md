@@ -100,11 +100,11 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 4. **Prefix Sum (41-46, 6)**
 
    1. [Normal Prefix Sum](./prefixSum/normalPrefixSum/NormalPrefixSum.java)
-   2. [Product of Array Except Self](./prefixSum/q238/ProductOfArrayExceptSelf.java)
-   3. [SubArray Sum Equals K](./prefixSum/q560/SubArraySumEqualsK.java)
-   4. [Shortest SubArray with Sum at Least K](./prefixSum/q862/ShortestSubArrayWithSumAtLeastK.java)
-   5. [SubArray Sums Divisible by K](./prefixSum/q974/SubArraySumsDivisibleByK.java)
-   6. [Contiguous Array](./prefixSum/q525/ContiguousArray.java)
+   2. [Product of Array Except Self](./prefixSum/q238/ProductOfArrayExceptSelf.java) 
+   3. [SubArray Sum Equals K](./prefixSum/q560/SubArraySumEqualsK.java) → (Prefix Sum + HashMap, Classic SubArray Problem)
+   4. [Shortest SubArray with Sum at Least K](./prefixSum/q862/ShortestSubArrayWithSumAtLeastK.java) → (Sliding Window + Monotonic Queue, Hard Level)
+   5. [SubArray Sums Divisible by K](./prefixSum/q974/SubArraySumsDivisibleByK.java) → (Prefix Sum + Modulo Technique for Efficient Counting)
+   6. [Contiguous Array](./prefixSum/q525/ContiguousArray.java) → (Prefix Sum + HashMap for Tracking Equal 0s and 1s)
 
 ---
 
