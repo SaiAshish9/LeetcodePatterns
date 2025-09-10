@@ -33,7 +33,7 @@ java twoPointers.q5.LongestPalindromicSubstring
 
 ---
 
-## 📂 Contents (27)
+## 📂 Contents (39+)
 
 1. **Two Pointers (1-15, 15)**
 
@@ -67,6 +67,27 @@ java twoPointers.q5.LongestPalindromicSubstring
    10. [Count Number of Nice Subarrays](./slidingWindow/q1248/CountNumberOfNiceSubarrays)
    11. [Frequency of the Most Frequent Element](./slidingWindow/q1838/FrequencyOfTheMostFrequentElement.java)
    12. [Kth Smallest SubArray Sum](./slidingWindow/q1918/KthSmallestSubArraySum.java) 
+
+3. **Binary Search (28-40, 12)**
+
+   1. [Normal Binary Search](./binarySearch/normalBinarySearch/NormalBinarySearch.java)
+   2. [Next Greater Element (NGE, Upper Bound)](./binarySearch/nextGreaterElement/NextGraeterElement.java)
+   3. [Next Smaller Element (NSE, Lower Bound - 1)](./binarySearch/nextSmallerElement/NextSmallerElement.java)
+   4. [Upper Bound](./binarySearch/upperBound/UpperBound.java)
+   5. [Lower Bound](./binarySearch/lowerBound/LowerBound.java)
+   6. [Search in Rotated Sorted Array](./binarySearch/q33/SearchInRotatedSortedArray.java) → (Binary Search on Rotated Array)
+   7. [Find First and Last Position of Element in Sorted Array](./binarySearch/q34/MaxSumSubArrayOfSizeK.java)
+    → (Binary Search + Lower & Upper Bound)
+   8. [Sqrt(x)](./binarySearch/q69/Sqrt.java) 
+   → (Binary Search on a Mathematical Function) 
+   9. [Search a 2D Matrix](./binarySearch/q74/SearchA2DMatrix.java)
+    → (Binary Search on 2D Grid)
+   10. [Find Minimum in Rotated Sorted Array](./binarySearch/q153/FindMinimumInRotatedSortedArray.java)
+    → (Binary Search on Rotated Array) 
+   11. [Find Peak Element](./binarySearch/q162/FindPeakElement.java)
+    → (Binary Search for Peak Finding)
+   12. [Minimum Time to Complete Trips](./binarySearch/q2187/MinimumTimeToCompleteTripes.java)
+    → (Binary Search on Answer)
 
 ---
 
