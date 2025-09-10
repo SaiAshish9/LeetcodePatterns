@@ -29,11 +29,6 @@ Result: "bab"
 #include <iostream>
 using namespace std;
 
-int main()
-{
-    cout << longestPalindrome("babad") << endl; // bab
-}
-
 int expandAroundCenter(string s, int left, int right)
 {
     while (left >= 0 && right < s.length() && s[left] == s[right])
@@ -62,4 +57,9 @@ int longestPalindrome(string s)
         }
     }
     return s.substr(start, maxLen).length();
+}
+
+int main()
+{
+    cout << longestPalindrome("babad") << endl; // bab
 }
