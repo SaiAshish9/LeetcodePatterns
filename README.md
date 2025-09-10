@@ -95,7 +95,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 4. **Prefix Sum (41-46, 6)**
 
-   1. [Normal Prefix Sum](./binarySearch/normalPrefixSum/NormalPrefixSum.java)
+   1. [Normal Prefix Sum](./prefixSum/normalPrefixSum/NormalPrefixSum.java)
 
 ---
 
