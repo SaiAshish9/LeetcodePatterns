@@ -37,7 +37,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 ---
 
-## 📂 Contents (39+)
+## 📂 Contents (40+)
 
 1. **Two Pointers (1-15, 15)**
 
@@ -57,7 +57,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    14. [Squares Of A Sorted Array](./twoPointers/q977/SquaresOfASortedArray.java)
    15. [Merge Intervals](./twoPointers/mergeIntervals/MergeIntervals.java)
 
-2. **Sliding Window (16-28, 12)**
+2. **Sliding Window (16-28, 13)**
 
    1. [Maximum Sum SubArray Of Size K](./slidingWindow/maxSumSubArrayOfSizeK/MaxSumSubArrayOfSizeK.java)
    2. [Maximum Sum SubArray](./slidingWindow/maxSumSubArray/MaxSumSubArray.java) (Kadane Algorithm)
@@ -72,7 +72,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    11. [Frequency of the Most Frequent Element](./slidingWindow/q1838/FrequencyOfTheMostFrequentElement.java)
    12. [Kth Smallest SubArray Sum](./slidingWindow/q1918/KthSmallestSubArraySum.java) 
 
-3. **Binary Search (28-40, 12)**
+3. **Binary Search (29-40, 12)**
 
    1. [Normal Binary Search](./binarySearch/normalBinarySearch/NormalBinarySearch.java)
    2. [Next Greater Element (NGE, Upper Bound)](./binarySearch/nextGreaterElement/NextGraeterElement.java)
@@ -92,6 +92,10 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     → (Binary Search for Peak Finding)
    12. [Minimum Time to Complete Trips](./binarySearch/q2187/MinimumTimeToCompleteTripes.java)
     → (Binary Search on Answer)
+
+4. **Prefix Sum (41-46, 6)**
+
+   1. [Normal Prefix Sum](./binarySearch/normalPrefixSum/NormalPrefixSum.java)
 
 ---
 
