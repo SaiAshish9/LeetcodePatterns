@@ -110,7 +110,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 5. **Binary Search + Prefix Sum (50-55, 6)**
 
-   1. [Split Array Largest Sum](./binarySearchAndPrefixSum/q/.java)
+   1. [Split Array Largest Sum](./binarySearchAndPrefixSum/q410/.java)
    2. [Koko Eating Bananas](./binarySearchAndPrefixSum/q875/.java)
    3. [Minimum Number Of Days To Make M Bouquets](./binarySearchAndPrefixSum/q1482/.java)
    4. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/.java)
@@ -125,24 +125,24 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 7. **Priority Queue (62 - 78, 17)**
 
-   1. Implementation using Comparator
-   2. Implementation using Comparable
-   3. Dijkstra’s Algorithm (shortest path)
-   4. A* Algorithm
-   5. Top K Largest Elements
-   6. Top K Frequent Elements
-   7. Median in a stream
-   8. HuffMann Coding
-   9. Merge K Sorted Lists
-   10. Kth Largest Element in an Array (Stream)
-   11. Kth Largest Integer in the Array
-   12. Kth Smallest Element in a Sorted Matrix ({matrix[row+1][col], row + 1, col})
-   13. Kth Smallest Prime Fraction
-   14. Maximum Product After K Increments
-   15. The K Weakest Rows in a Matrix
-   16. Top K Frequent Words
-   17. CPU Task Scheduling
-   18. Minimum Cost to Merge Stones / Optimal Merge PatternP
+   1. [Implementation using Comparator]()
+   2. [Implementation using Comparable]()
+   3. [Dijkstra’s Algorithm (shortest path)]()
+   4. [A* Algorithm]()
+   5. [Top K Largest Elements]()
+   6. [Top K Frequent Elements]()
+   7. [Median In A stream]()
+   8. [HuffMann Coding]()
+   9. [Merge K Sorted Lists]()
+   10. [Kth Largest Element In An Array (Stream)]()
+   11. [Kth Largest Integer In The Array]()
+   12. [Kth Smallest Element In A Sorted Matrix ({matrix[row+1][col], row + 1, col})]()
+   13. [Kth Smallest Prime Fraction]()
+   14. [Maximum Product After K Increments]()
+   15. [The K Weakest Rows In A Matrix]()
+   16. [Top K Frequent Words]()
+   17. [CPU Task Scheduling]()
+   18. [Minimum Cost to Merge Stones / Optimal Merge Pattern]()
 
 ---
 
