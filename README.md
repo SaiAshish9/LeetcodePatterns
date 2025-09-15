@@ -103,10 +103,10 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
    1. [Normal Prefix Sum](./prefixSum/normalPrefixSum/NormalPrefixSum.java)
    2. [Product of Array Except Self](./prefixSum/q238/ProductOfArrayExceptSelf.java)
-   3. [SubArray Sum Equals K](./prefixSum/q560/SubArraySumEqualsK.java) → (Prefix Sum + HashMap, Classic SubArray Problem)
-   4. [Shortest SubArray with Sum at Least K](./prefixSum/q862/ShortestSubArrayWithSumAtLeastK.java) → (Sliding Window + Monotonic Queue, Hard Level)
-   5. [SubArray Sums Divisible by K](./prefixSum/q974/SubArraySumsDivisibleByK.java) → (Prefix Sum + Modulo Technique for Efficient Counting)
-   6. [Contiguous Array](./prefixSum/q525/ContiguousArray.java) → (Prefix Sum + HashMap for Tracking Equal 0s and 1s)
+   3. [Contiguous Array](./prefixSum/q525/ContiguousArray.java) → (Prefix Sum + HashMap for Tracking Equal 0s and 1s)
+   4. [SubArray Sum Equals K](./prefixSum/q560/SubArraySumEqualsK.java) → (Prefix Sum + HashMap, Classic SubArray Problem)
+   5. [Shortest SubArray with Sum at Least K](./prefixSum/q862/ShortestSubArrayWithSumAtLeastK.java) → (Sliding Window + Monotonic Queue, Hard Level)
+   6. [SubArray Sums Divisible by K](./prefixSum/q974/SubArraySumsDivisibleByK.java) → (Prefix Sum + Modulo Technique for Efficient Counting)
 
 5. **Binary Search + Prefix Sum (50-55, 6)**
 
@@ -134,15 +134,15 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    7. [Median In A stream]()
    8. [HuffMann Coding]()
    9. [Merge K Sorted Lists]()
-   10. [Kth Largest Element In An Array (Stream)]()
-   11. [Kth Largest Integer In The Array]()
-   12. [Kth Smallest Element In A Sorted Matrix ({matrix[row+1][col], row + 1, col})]()
-   13. [Kth Smallest Prime Fraction]()
-   14. [Maximum Product After K Increments]()
-   15. [The K Weakest Rows In A Matrix]()
-   16. [Top K Frequent Words]()
-   17. [CPU Task Scheduling]()
-   18. [Minimum Cost to Merge Stones / Optimal Merge Pattern]()
+   10. [Minimum Cost to Merge Stones / Optimal Merge Pattern]()
+   11. [Kth Smallest Element In A Sorted Matrix ({matrix[row+1][col], row + 1, col})]()
+   12. [CPU Task Scheduling]()
+   13. [Top K Frequent Words](q692)
+   14. [Kth Largest Element In a Stream](q703)
+   15. [Kth Smallest Prime Fraction](q786)
+   16. [The K Weakest Rows In A Matrix](q1337)
+   17. [Kth Largest Integer In The Array](q1985)
+   18. [Maximum Product After K Increments](q2233)
 
 8. **Queue (80-82, 3)**
 
@@ -168,6 +168,23 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    14. [Next Greater Node In Linked List](q1019)
    15. [Minimum Cost Tree From Leaf Values](q1130)
 
+10. **Stack (98-,)**
+
+    1. [Stack Implementation]
+    2. [Valid Parentheses](20)
+    3. [Longest Valid Parentheses](32)
+    4. [Simplify Path](71)
+    5. [Min Stack](155)
+    6. [Flatten Nested List Iterator](341)
+    7. [Longest Absolute File Path](388)
+    8. [N-ary Tree PreOrder Traversal](589)
+    9. [Max Stack](716)
+    10. [Asteroid Collision](735)
+    11. [Maximum Frequency Stack](895)
+    12. [Removing Stars From a String](2300)
+    13. [Robot Collisions](2751)
+
+11. **Sorting ()**
 ---
 
 Thank You.
