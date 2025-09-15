@@ -115,12 +115,13 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    3. [Minimum Number Of Days To Make M Bouquets](./binarySearchAndPrefixSum/q1482/.java)
    4. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/.java)
 
-6. **Monotonic Queue**
+6. **Monotonic Queue (56-61, 6)**
    
-   1. [Deque]()
+   1. [Deque Implementation]()
    2. [Shortest Subarray with Sum at Least K]()
    3. [Sliding Window Maximum]()
    4. [Maximum Sum Circular Subarray]()
+   5. [Jump Game VI]()
 
 ---
 
