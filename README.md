@@ -168,25 +168,66 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    14. [Next Greater Node In Linked List](q1019)
    15. [Minimum Cost Tree From Leaf Values](q1130)
 
-10. **Stack (98-,)**
+10. **Stack (98-112, 13)**
 
-   1. [Stack Implementation]
-   2. [Valid Parentheses](20)
-   3. [Longest Valid Parentheses](32)
-   4. [Simplify Path](71)
-   5. [Min Stack](155)
-   6. [Flatten Nested List Iterator](341)
-   7. [Longest Absolute File Path](388)
-   8. [N-ary Tree PreOrder Traversal](589)
-   9. [Max Stack](716)
-   10. [Asteroid Collision](735)
-   11. [Maximum Frequency Stack](895)
-   12. [Removing Stars From a String](2300)
-   13. [Robot Collisions](2751)
+    1. [Stack Implementation]()
+    2. [Valid Parentheses](20)
+    3. [Longest Valid Parentheses](32)
+    4. [Simplify Path](71)
+    5. [Min Stack](155)
+    6. [Flatten Nested List Iterator](341)
+    7. [Longest Absolute File Path](388)
+    8. [N-ary Tree PreOrder Traversal](589)
+    9. [Max Stack](716)
+    10. [Asteroid Collision](735)
+    11. [Maximum Frequency Stack](895)
+    12. [Removing Stars From a String](2300)
+    13. [Robot Collisions](2751)
 
-11. **Sorting ()**
+11. **Sorting (113-129, 16)**
 
-   
+    1. [Comparison: Bubble (Stable)]()
+    2. [Comparison: Insertion (Stable)]()
+    3. [Comparison: Tim]()
+    4. [Comparison: Merge (Stable)]()
+    5. [Comparison: Heap]()
+    6. [Comparison: Tree]()
+    7. [Comparison: Shell]()
+    8. [Comparison: Quick]()
+    9. [Comparison: Randomized Quick Sort]()
+    10. [Comparison: QuickSelect]()
+    11. [Comparison: Randomized QuickSelect]()
+    12. [Index Based: Count]()
+    13. [Index Based: Bin/Bucket]()
+    14. [Index Based: Radix]()
+    15. [Max Distinct Elements After K Operations]()
+
+12. **Binary Tree PreOrder Traversal (130-144, 15)**:
+
+    1. [Implementation]()
+    2. [Stack Implementation]()
+    3. [Construct Binary Tree from PreOrder and InOrder Traversal](q105)
+    4. [Construct Binary Tree from InOrder and PostOrder Traversal](q106)
+    5. [Path Sum](q112)
+    6. [Flatten Binary Tree to Linked List](q114)
+    7. [Populating Next Right Pointers in Each Node](q116)
+    8. [Sum Root to Leaf Numbers](q129)
+    9. [Binary Tree Paths](q257)
+    10. [Serialize and Deserialize Binary Tree](q297)
+    11. [Sum of Left Leaves](q404)
+    12. [Diameter of Binary Tree](q543)
+    13. [Second Minimum Node In a Binary Tree](q671)
+    14. [Subtree of Another Tree](q572)
+    15. [Sum of Root To Leaf Binary Numbers](q1022)
+
+13. **Binary Tree InOrder Traversal (145-148, 15)**:
+
+    1. [Implementation]()
+    2. [Stack Implementation]()
+    3. [Construct Binary Tree from PreOrder and InOrder Traversal](q105)
+    4. [Construct Binary Tree from InOrder and PostOrder Traversal](q106)
+
+
 ---
 
 Thank You.
