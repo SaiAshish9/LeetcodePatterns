@@ -261,6 +261,26 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     8. [Vertical Order Traversal Of A Binary Tree](q987)
     9. [Longest ZigZag Path In A Binary Tree](q1372)
 
+17. **Binary Search Tree (175, 1)**:
+
+    1. [Insert, Delete And Search Operations]()
+
+18. **Binary Search Tree PreOrder Traversal (176-178, 3)**:
+
+    1. [Convert Sorted Array to Binary Search Tree](q108)
+    2. [Convert Sorted List to Binary Search Tree](q109)
+    3. [Split BST](q778)
+
+19. **Binary Search Tree InOrder Traversal (179-181, 3)**:
+
+    1. [Kth Smallest Element in a BST](q230) 
+    2. [Find Mode in Binary Search Tree](q501)
+    3. [Minimum Absolute Difference in BST](q530)
+
+20. **Binary Search Tree PostOrder Traversal (182-183, 2)**:
+
+    1. [Lowest Common Ancestor of a Binary Search Tree](q235)
+    2. [Delete Node in a BST](q450)
 ---
 
 Thank You.
