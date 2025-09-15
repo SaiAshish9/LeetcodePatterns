@@ -170,21 +170,23 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 10. **Stack (98-,)**
 
-    1. [Stack Implementation]
-    2. [Valid Parentheses](20)
-    3. [Longest Valid Parentheses](32)
-    4. [Simplify Path](71)
-    5. [Min Stack](155)
-    6. [Flatten Nested List Iterator](341)
-    7. [Longest Absolute File Path](388)
-    8. [N-ary Tree PreOrder Traversal](589)
-    9. [Max Stack](716)
-    10. [Asteroid Collision](735)
-    11. [Maximum Frequency Stack](895)
-    12. [Removing Stars From a String](2300)
-    13. [Robot Collisions](2751)
+   1. [Stack Implementation]
+   2. [Valid Parentheses](20)
+   3. [Longest Valid Parentheses](32)
+   4. [Simplify Path](71)
+   5. [Min Stack](155)
+   6. [Flatten Nested List Iterator](341)
+   7. [Longest Absolute File Path](388)
+   8. [N-ary Tree PreOrder Traversal](589)
+   9. [Max Stack](716)
+   10. [Asteroid Collision](735)
+   11. [Maximum Frequency Stack](895)
+   12. [Removing Stars From a String](2300)
+   13. [Robot Collisions](2751)
 
 11. **Sorting ()**
+
+   
 ---
 
 Thank You.
