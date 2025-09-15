@@ -273,7 +273,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 19. **Binary Search Tree InOrder Traversal (179-181, 3)**:
 
-    1. [Kth Smallest Element in a BST](q230) 
+    1. [Kth Smallest Element in a BST](q230)
     2. [Find Mode in Binary Search Tree](q501)
     3. [Minimum Absolute Difference in BST](q530)
 
@@ -281,6 +281,17 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Lowest Common Ancestor of a Binary Search Tree](q235)
     2. [Delete Node in a BST](q450)
+
+21. **Graph (184-190, 7)**:
+
+    1. [Clone Graph](q133) – Graph traversal + HashMap for visited nodes
+    2. [Is Graph Bipartite?](q785) – BFS/DFS with coloring
+    3. [Cheapest Flights Within K Stops](q787) - Dijkstra and Prims Algorithm
+    4. [Find Eventual Safe States](q802) – Reverse graph + cycle detection
+    5. [Sum of Distances in Tree] – Tree DP (postorder + preorder)
+    6. [Shortest Path with Alternating Colors] – BFS with state (color) tracking
+    7. [Frog Position After T Seconds] – DFS + probability distribution
+
 ---
 
 Thank You.
