@@ -102,7 +102,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 4. **Prefix Sum (44-49, 6)**
 
    1. [Normal Prefix Sum](./prefixSum/normalPrefixSum/NormalPrefixSum.java)
-   2. [Product of Array Except Self](./prefixSum/q238/ProductOfArrayExceptSelf.java) 
+   2. [Product of Array Except Self](./prefixSum/q238/ProductOfArrayExceptSelf.java)
    3. [SubArray Sum Equals K](./prefixSum/q560/SubArraySumEqualsK.java) → (Prefix Sum + HashMap, Classic SubArray Problem)
    4. [Shortest SubArray with Sum at Least K](./prefixSum/q862/ShortestSubArrayWithSumAtLeastK.java) → (Sliding Window + Monotonic Queue, Hard Level)
    5. [SubArray Sums Divisible by K](./prefixSum/q974/SubArraySumsDivisibleByK.java) → (Prefix Sum + Modulo Technique for Efficient Counting)
@@ -116,12 +116,33 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    4. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/.java)
 
 6. **Monotonic Queue (56-61, 6)**
-   
+
    1. [Deque Implementation]()
    2. [Shortest Subarray with Sum at Least K]()
    3. [Sliding Window Maximum]()
    4. [Maximum Sum Circular Subarray]()
    5. [Jump Game VI]()
+
+7. **Priority Queue (62 - 78, 17)**
+
+   1. Implementation using Comparator
+   2. Implementation using Comparable
+   3. Dijkstra’s Algorithm (shortest path)
+   4. A* Algorithm
+   5. Top K Largest Elements
+   6. Top K Frequent Elements
+   7. Median in a stream
+   8. HuffMann Coding
+   9. Merge K Sorted Lists
+   10. Kth Largest Element in an Array (Stream)
+   11. Kth Largest Integer in the Array
+   12. Kth Smallest Element in a Sorted Matrix ({matrix[row+1][col], row + 1, col})
+   13. Kth Smallest Prime Fraction
+   14. Maximum Product After K Increments
+   15. The K Weakest Rows in a Matrix
+   16. Top K Frequent Words
+   17. CPU Task Scheduling
+   18. Minimum Cost to Merge Stones / Optimal Merge PatternP
 
 ---
 
