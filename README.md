@@ -110,10 +110,10 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 5. **Binary Search + Prefix Sum (50-55, 6)**
 
-   1. [Split Array Largest Sum](./binarySearchAndPrefixSum/q410/.java)
-   2. [Koko Eating Bananas](./binarySearchAndPrefixSum/q875/.java)
-   3. [Minimum Number Of Days To Make M Bouquets](./binarySearchAndPrefixSum/q1482/.java)
-   4. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/.java)
+   1. [Split Array Largest Sum](./binarySearchAndPrefixSum/q410/SplitArrayLargestSum.java)
+   2. [Koko Eating Bananas](./binarySearchAndPrefixSum/q875/KokoEatingBananas.java)
+   3. [Minimum Number Of Days To Make M Bouquets](./binarySearchAndPrefixSum/q1482/MinimumNumberOfDaysToMakeMBouquets.java)
+   4. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/MinimumTimeToCompleteTrips.java)
 
 6. **Monotonic Queue (56-61, 6)**
 
@@ -123,7 +123,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    4. [Maximum Sum Circular Subarray]()
    5. [Jump Game VI]()
 
-7. **Priority Queue (62 - 78, 17)**
+7. **Priority Queue (62 - 79, 18)**
 
    1. [Implementation using Comparator]()
    2. [Implementation using Comparable]()
