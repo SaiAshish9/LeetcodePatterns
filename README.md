@@ -150,7 +150,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    2. [Implement Stack using Queues](q225)
    3. [Implement Queue using Stacks](q232)
 
-9. **Monotonic Stack (83- , )**
+9. **Monotonic Stack (83-97, 15)**
 
    1. [Next Greater Elements]()
    2. [Next Smaller Elements]()
