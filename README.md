@@ -115,7 +115,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    3. [Minimum Number Of Days To Make M Bouquets](./binarySearchAndPrefixSum/q1482/MinimumNumberOfDaysToMakeMBouquets.java)
    4. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/MinimumTimeToCompleteTrips.java)
 
-6. **Monotonic Queue (56-61, 6)**
+6. **Monotonic Queue (56-61, 5)**
 
    1. [Deque Implementation]()
    2. [Shortest Subarray with Sum at Least K]()
@@ -123,12 +123,12 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    4. [Maximum Sum Circular Subarray]()
    5. [Jump Game VI]()
 
-7. **Priority Queue (62 - 79, 18)**
+7. **Priority Queue (62-79, 18)**
 
    1. [Implementation using Comparator]()
    2. [Implementation using Comparable]()
    3. [Dijkstra’s Algorithm (shortest path)]()
-   4. [A* Algorithm]()
+   4. [A\* Algorithm]()
    5. [Top K Largest Elements]()
    6. [Top K Frequent Elements]()
    7. [Median In A stream]()
@@ -143,6 +143,30 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    16. [Top K Frequent Words]()
    17. [CPU Task Scheduling]()
    18. [Minimum Cost to Merge Stones / Optimal Merge Pattern]()
+
+8. **Queue (80-82, 3)**
+
+   1. [Queue Implementation]()
+   2. [Implement Stack using Queues](q225)
+   3. [Implement Queue using Stacks](q232)
+
+9. **Monotonic Stack (83- , )**
+
+   1. [Next Greater Elements]()
+   2. [Next Smaller Elements]()
+   3. [Prev Greater Elements]()
+   4. [Prev Smaller Elements]()
+   5. [Largest Rectangle in Histogram](q84)
+   6. [Remove Duplicate Letters](q316)
+   7. [Remove K Digits](q402)
+   8. [132 Pattern](q456)
+   9. [Next Greater Element I](q496)
+   10. [Next Greater Element II](q503)
+   11. [Max Chunks To Make Sorted II](q768)
+   12. [Max Chunks To Make Sorted](q769)
+   13. [Online Stock Span](q901)
+   14. [Next Greater Node In Linked List](q1019)
+   15. [Minimum Cost Tree From Leaf Values](q1130)
 
 ---
 
