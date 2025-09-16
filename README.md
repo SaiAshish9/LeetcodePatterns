@@ -345,12 +345,12 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 28. **Matrixes (225-249, 25)**
 
-    1. [Number of Islands](q200)
-    2. [Island Perimeter](q463)
-    3. [Max Area of Island](q695)
+    1. [Islands: Number of Islands](q200)
+    2. [Islands: Island Perimeter](q463)
+    3. [Islands: Max Area of Island](q695)
     4. [Rotting Oranges](q994)
-    5. [Number of Closed Islands](q1234)
-    6. [Count Sub Islands](q1905)
+    5. [Islands: Number of Closed Islands](q1234)
+    6. [Islands: Count Sub Islands](q1905)
     7. [Valid Sudoku](q36)
     8. [Rotate Image](q48)
     9. [Spiral Matrix](q54)
@@ -362,7 +362,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     15. [Dungeon Game](q174)
     16. [Search a 2D Matrix II](q240)
     17. [Diagonal Traverse](q498)
-    18. [Flood Fill](q733)
+    18. [Islands: Flood Fill](q733)
     19. [Spiral Matrix III](q885)
     20. [Find Winner on a Tic Tac Toe Game](q1275)
     21. [Spiral Matrix IV](q2326)
