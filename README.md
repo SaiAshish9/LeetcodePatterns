@@ -567,6 +567,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 57. **DFS ()**:
 
     1. [All Paths From Source To Destination]()
+    2. [Valid Arrangement of Pairs]()
 
 ---
 
