@@ -387,13 +387,19 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     4. [Graph Valid Tree](q261)
     5. [Number of Connected Components in an Undirected Graph](q323)
 
-33. **Shortest Path Algorithms ()**:
+32. **Shortest Path Algorithms ()**:
 
     1. [Single Source Shortest Path: Dijkstra]()
-    2. [All Pairs Shortest Path: Bellman-Ford]()
-    3.
+    2. [Single Source Shortest Path With Negative Weights: Bellman-Ford]()
+    3. [All Pairs Shortest Path: Flyod Warshall]()
+    4. [A\* Search]()
+    5. [Network Delay Time]()
+    6. [Uber Travel Agent]()
+    7. [Microsoft OA]()
 
-32. **Dynamic Programming (, )**
+<!-- [All Paths From Source To Destination]()  -->
+
+33. **Dynamic Programming (, )**
 
     1. [LRU Cache](q200)
     2. [LFU Cache]()
@@ -401,7 +407,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     4. [Max Stack]()
     5. [Snake And Ladders]()
 
-33. **Design (, )**
+34. **Design (, )**
 
     1. [LRU Cache](q200)
     2. [LFU Cache]()
