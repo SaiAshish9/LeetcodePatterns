@@ -614,8 +614,8 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Max value with fractional items]()
 
-62. 
-Interval DP 8 It is used when the problem involves choosing the optimal way to divide or merge subintervals of a range, string, or array. You typically solve subproblems defined on intervals [i, j].
+62. **Interval DP**:
+
 a Burst Balloons
 b Matrix Chain Multiplication c Palindrome Partitioning
  Palindrome Partitioning II Minimum Cuts for Palindrome Partitioning)  Scramble String
