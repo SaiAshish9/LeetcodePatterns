@@ -552,24 +552,53 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Implementation]()
 
-55. **Design (354-, )**
+55. **Design (354-360, 7)**
 
     1. [LRU Cache](q200)
     2. [LFU Cache](q460)
     3. [MRU Cache]()
     4. [Max Stack](q716)
     5. [Snake And Ladders](q909)
+    6. [Tree Sort]()
+    7. [HashSet](q705)
 
-56. **Dynamic Programming (, )**
+56. **Linear Dynamic Programming (, )**
 
-    1. []()
+    1. [Climbing Stairs]()
+    2. [House Robber]()
+    3. [House Robber 2]()
+    4. [Jump Game]()
+    5. [Jump Game 2]()
+    6. [Jump Game 3]()
+    7. [Jump Game 4]()
+    8. [Jump Game 5]()
+    9. [Jump Game 6]()
+    10. [Jump Game 7]()
+    11. [Jump Game 8]()
+    12. [Maximum SubArray]()
+    13. [Decode Ways]()
+    14. [Fibonacci Number]()
+    15. [N-th Tribonacci Number]()
 
-57. **DFS ()**:
+57. **0/1 Bounded Knapsack (Subset Sum, Boolean DP) (, )**
+
+    1. [Classic 0/1 Knapsack]()
+    2. [Subset Sum DFS]()
+    3. [Subset Sum]()
+    4. [Count of Subsets With Given Sum]()
+    5. [Partition Equal Subset Sum]()
+    6. [Target Sum]()
+    7. [Ones And Zeroes]()
+    8. [Minimum Subset Sum Difference]()
+    9. [Nutanix OA1]()
+    10. [Nutanix OA2]()
+
+58. **DFS ()**:
 
     1. [All Paths From Source To Destination]()
     2. [Valid Arrangement of Pairs]()
 
-58. **Additional ()**:
+59. **Additional ()**:
 
 ---
 
