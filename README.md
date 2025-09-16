@@ -343,7 +343,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     21. [Smallest String Starting From Leaf](q988)
     22. [The Knight’s Tour](q2664) – Try all knight moves with visited tracking and backtrack
 
-28. **Matrixes (225-246, 22)**
+28. **Matrixes (225-249, 25)**
 
     1. [Number of Islands](q200)
     2. [Island Perimeter](q463)
@@ -351,24 +351,27 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     4. [Rotting Oranges](q994)
     5. [Number of Closed Islands](q1234)
     6. [Count Sub Islands](q1905)
-    7. [Flood Fill]()
-    8. [Spiral Matrix]()
-    9. [Word Search]()
-    10. [Spiral Matrix II]()
-    11. [Diagonal Traverse]()
-    12. [Search a 2D Matrix]()
-    13. [Search a 2D Matrix II]()
-    14. [Set Matrix Zeroes]()
-    15. [Word Search]()
-    16. [Surrounded Regions]()
-    17. [Dungeon Game]()
-    18. [Rotate Image]()
-    19. [Valid Sudoku]() 10. [Rotate Matrix Clockwise by 1 cell]()
-    20. [Rotate Matrix AntiClockwise by 1 cell]()
-    21. [Coupang: Directions Q]()
-    22. [Find Winner on a Tic Tac Toe Game](q1275)
+    7. [Valid Sudoku](q36)
+    8. [Rotate Image](q48)
+    9. [Spiral Matrix](q54)
+    10. [Spiral Matrix II](q59)
+    11. [Set Matrix Zeroes](q73)
+    12. [Search a 2D Matrix](q74)
+    13. [Word Search](q79)
+    14. [Surrounded Regions](q130)
+    15. [Dungeon Game](q174)
+    16. [Search a 2D Matrix II](q240)
+    17. [Diagonal Traverse](q498)
+    18. [Flood Fill](q733)
+    19. [Spiral Matrix III](q885)
+    20. [Find Winner on a Tic Tac Toe Game](q1275)
+    21. [Spiral Matrix IV](q2326)
+    22. [Rotate Matrix Clockwise by 1 cell]()
+    23. [Rotate Matrix AntiClockwise by 1 cell]()
+    24. [Coupang: Directions Q]()
+    25. [Count number of subMatrixes with all 1]()
 
-28. **Design (247-, )**
+29. **Design (247-, )**
 
     1. [LRU Cache](q200)
     2. [LFU Cache]()
