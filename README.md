@@ -178,23 +178,26 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     12. [Removing Stars From a String](2300)
     13. [Robot Collisions](2751)
 
-11. **Sorting (113-129, 16)**
+11. **Sorting (113-129, 18)**
 
     1. [Comparison: Bubble (Stable)]()
     2. [Comparison: Insertion (Stable)]()
-    3. [Comparison: Tim]()
-    4. [Comparison: Merge (Stable)]()
-    5. [Comparison: Heap]()
-    6. [Comparison: Tree]()
-    7. [Comparison: Shell]()
-    8. [Comparison: Quick]()
-    9. [Comparison: Randomized Quick Sort]()
-    10. [Comparison: QuickSelect]()
-    11. [Comparison: Randomized QuickSelect]()
-    12. [Index Based: Count]()
-    13. [Index Based: Bin/Bucket]()
-    14. [Index Based: Radix]()
-    15. [Max Distinct Elements After K Operations]()
+    3. [Comparison: Selection (Stable)]()
+    4. [Comparison: Tim]()
+    5. [Comparison: Merge (Stable)]()
+    6. [Comparison: Merge Two Sorted Arrays (Stable)]()
+    7. [Comparison: Merge Four Sorted Arrays (Stable)]()
+    8. [Comparison: Heap]()
+    9. [Comparison: Tree]()
+    10. [Comparison: Shell]()
+    11. [Comparison: Quick]()
+    12. [Comparison: Randomized Quick Sort]()
+    13. [Comparison: QuickSelect]()
+    14. [Comparison: Randomized QuickSelect]()
+    15. [Index Based: Count]()
+    16. [Index Based: Bin/Bucket]()
+    17. [Index Based: Radix]()
+    18. [Max Distinct Elements After K Operations]()
 
 12. **Binary Tree PreOrder Traversal (130-144, 15)**:
 
@@ -315,27 +318,28 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 27. **Backtracking (202-224, 23)**:
 
     1. [Time Converter]()
-    2. [Letter Combinations of a Phone Number](q17) 4. [Generate Parentheses](q22)
-    3. [Sudoku Solver](q37)
-    4. [Combination Sum](q39)
-    5. [Combination Sum II](q40)
-    6. [Permutations](q46)
-    7. [Permutations 2](q47)
-    8. [N-Queens](q47)
-    9. [N-Queens II](q52)
-    10. [Combinations](q77)
-    11. [Subsets](q78)
-    12. [Word Search](q79)
-    13. [Restore IP Addresses](q93)
-    14. [Word Ladder II](q126)
-    15. [Palindrome Partitioning](q131)
-    16. [Word Break II](q140)
-    17. [Target Sum](q494)
-    18. [Letter Case Permutation](q784)
-    19. [All Paths From Source to Target](q797)
-    20. [Unique Paths III](q980)
-    21. [Smallest String Starting From Leaf](q988)
-    22. [The Knight’s Tour](q2664)
+    2. [Letter Combinations of a Phone Number](q17)
+    3. [Generate Parentheses](q22)
+    4. [Sudoku Solver](q37)
+    5. [Combination Sum](q39)
+    6. [Combination Sum II](q40)
+    7. [Permutations](q46)
+    8. [Permutations 2](q47)
+    9. [N-Queens](q47)
+    10. [N-Queens II](q52)
+    11. [Combinations](q77)
+    12. [Subsets](q78)
+    13. [Word Search](q79)
+    14. [Restore IP Addresses](q93)
+    15. [Word Ladder II](q126)
+    16. [Palindrome Partitioning](q131)
+    17. [Word Break II](q140)
+    18. [Target Sum](q494)
+    19. [Letter Case Permutation](q784)
+    20. [All Paths From Source to Target](q797)
+    21. [Unique Paths III](q980)
+    22. [Smallest String Starting From Leaf](q988)
+    23. [The Knight’s Tour](q2664)
 
 28. **Matrixes (225-249, 25)**
 
@@ -373,17 +377,17 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 30. **Minimum Spanning Tree: Kruskal Algorithm (252-253, 2)**:
 
     1. [Implementation]()
-    2. [Optimize Water Distribution in a Village](q1168) 
+    2. [Optimize Water Distribution in a Village](q1168)
 
 31. **Union Find (254-258 , 5)**:
-    
+
     1. [Union By Size]()
     2. [Union By Rank]()
     3. [Cycle Detection]()
     4. [Graph Valid Tree](q261)
     5. [Number of Connected Components in an Undirected Graph](q323)
 
-90. **Dynamic Programming (, )**
+32. **Dynamic Programming (, )**
 
     1. [LRU Cache](q200)
     2. [LFU Cache]()
@@ -391,7 +395,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     4. [Max Stack]()
     5. [Snake And Ladders]()
 
-90. **Design (, )**
+33. **Design (, )**
 
     1. [LRU Cache](q200)
     2. [LFU Cache]()
