@@ -41,7 +41,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 ---
 
-## 📂 Contents (55+)
+## 📂 Contents (514+)
 
 1. **Two Pointers (1-18, 18)**
 
