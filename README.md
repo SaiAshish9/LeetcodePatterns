@@ -562,7 +562,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     6. [Tree Sort]()
     7. [HashSet](q705)
 
-56. **Linear Dynamic Programming (, )**
+56. **Linear Dynamic Programming (361-375, 15)**
 
     1. [Climbing Stairs]()
     2. [House Robber]()
@@ -580,7 +580,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     14. [Fibonacci Number]()
     15. [N-th Tribonacci Number]()
 
-57. **0/1 Bounded Knapsack (Subset Sum, Boolean DP) (, )**
+57. **0/1 Bounded Knapsack (Subset Sum, Boolean DP) (376-385, 10)**
 
     1. [Classic 0/1 Knapsack]()
     2. [Subset Sum DFS]()
@@ -590,8 +590,8 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     6. [Target Sum]()
     7. [Ones And Zeroes]()
     8. [Minimum Subset Sum Difference]()
-    9. [Nutanix OA1]()
-    10. [Nutanix OA2]()
+    9. [Nutanix OA1: Manufacturing Unit]()
+    10. [Nutanix OA2: Intervals]()
 
 58. **DFS ()**:
 
