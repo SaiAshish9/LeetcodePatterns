@@ -26,6 +26,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 - 🧮 [Matrix Patterns (Notion)](https://weak-bunny-372.notion.site/Matrix-Patterns-11544a9e7db180cf9308f9473cfe4f85?pvs=74)
 - 📊 [DP Patterns PDF](https://github.com/SaiAshish9/PDF_Notes/blob/main/DP_Conceptual_Patterns.pdf)
 - ✨ [Beginner DSA Sheet](https://www.notion.so/Begineer-DSA-Sheet-Patterns-1dd44a9e7db180868c60c7318b13a602)
+- 🎉 [Presentation](https://www.linkedin.com/posts/%F0%9F%9A%80-sai-ashish-237784188_conceptual-beginner-sheet-activity-7322197686881845248-y3-g)
 - ⚡️ [Sai Ashish's Portfolio Sheet](https://saiashish9.vercel.app/en/dsa?category=2)
 
 ---
