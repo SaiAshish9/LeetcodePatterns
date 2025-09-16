@@ -423,26 +423,26 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Detection]()
 
-39. **Math (274-, 1)**:
+39. **Math (274-292, 19)**:
 
     1. [Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space]()
     2. [Reverse Integer](q7)
     3. [Palindrome Number](q9)
-    4. [Factorial Trailing Zeroes]()
-    5. [Pow(x,n)]()
-    6. [Sqrt(x)]()
-    7. [Power of 2]()
-    8. [Power of 3]()
-    9. [Power of 4]()
-    10. [Base 7]()
-    11. [Convert to base of 2]()
-    12. [Convert to base of -2]()
-    13. [Base 2 To Base 6]()
-    14. [Armstrong Number]()
-    15. [Count anagrams]()
-    16. [Find Minimum Operations to Make All Elements Divisible by Three]()
-    17. [Permutation Sequence]()
-    18. [Three Equal Parts]()
+    4. [Factorial Trailing Zeroes](q172)
+    5. [Pow(x,n)](q50)
+    6. [Permutation Sequence](q60)
+    7. [Sqrt(x)](q69)
+    8. [Power of 2](q231)
+    9. [Power of 3](q326)
+    10. [Power of 4](q342)
+    11. [Base 7](q504)
+    12. [Three Equal Parts](q927)
+    13. [Convert to base of -2](q1017)
+    14. [Armstrong Number](q1134)
+    15. [Count Anagrams](q2514)
+    16. [Find Minimum Operations to Make All Elements Divisible by Three](q3190)
+    17. [Base 2 To Base 6]()
+    18. [Convert to base of 2]()
     19. [Count of pairs that can be removed from Array without changing the Mean]()
 
 40. **Line Sweep**:
