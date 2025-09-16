@@ -501,7 +501,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Implementation]()
 
-50. **Greedy (318- 329, 12)**:
+50. **Greedy (318-329, 12)**:
 
     1. [Fractional Knapsack]()
     2. [Activity Selection]()
@@ -516,6 +516,41 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     11. [Minimum Number of Arrows to Burst Balloons ]()
     12. [Partition Labels]()
 
+51. **Hash Table (330-336, 7)**:
+
+    1. [Two Sum]()
+    2. [Design HashMap]()
+    3. [Group Anagrams]()
+    4. [Insert Delete GetRandom O(1)]()
+    5. [Ransom Note]()
+    6. [4Sum II]()
+    7. [Valid Anagram]()
+
+52. **Segment Tree (337-345, 9)**:
+
+    1. [Implementation]()
+    2. [What is the sum from index l to r?]()
+    3. [What is the minimum value between l and r? (Range Minimum Query (RMQ))]()
+    4. [Minimum/Maximum]()
+    5. [GCD]()
+    6. [Range Sum Query - Mutable](q307)
+    7. [Count of Smaller Numbers After Self](q315)
+    8. [Range Module](q715)
+    9. [My Calendar III](q732)
+
+53. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
+
+    1. [Implementation]()
+    2. [Range Sum Query - Mutable](q307)
+    3. [Count of Smaller Numbers After Self](q315)
+    4. [Count of Range Sum]()
+    5. [Reverse Pairs]()
+    6. [Create Sorted Array through Instructions Inversion Count]()
+    7. [K-th smallest/largest elements Dynamic frequency counting]()
+
+54. **Traveling Salesman Problem (353, 1)**
+
+    1. [Implementation]()
 
 <!-- [All Paths From Source To Destination]()  -->
 
