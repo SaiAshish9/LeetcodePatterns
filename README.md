@@ -552,13 +552,13 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Implementation]()
 
-55. **Design (, )**
+55. **Design (354-, )**
 
     1. [LRU Cache](q200)
-    2. [LFU Cache]()
+    2. [LFU Cache](q460)
     3. [MRU Cache]()
-    4. [Max Stack]()
-    5. [Snake And Ladders]()
+    4. [Max Stack](q716)
+    5. [Snake And Ladders](q909)
 
 56. **Dynamic Programming (, )**
 
