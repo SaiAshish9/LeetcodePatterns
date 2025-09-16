@@ -455,6 +455,20 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Implementation]()
 
+42. **Randomized**:
+
+    1. [Kth Largest Element in an Array](q215)
+    2. [Linked List Random Node](q382)
+    3. [Shuffle an Array](q384)
+
+43. **Reservoir Sampling**:
+
+    1. [Linked List Random Node](q382)
+
+44. **Rejection Sampling**:
+
+    1. [Implement Rand10() Using Rand7()](q470)
+
 <!-- [All Paths From Source To Destination]()  -->
 
 33. **Dynamic Programming (, )**
