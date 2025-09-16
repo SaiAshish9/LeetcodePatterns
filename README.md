@@ -387,7 +387,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     4. [Graph Valid Tree](q261)
     5. [Number of Connected Components in an Undirected Graph](q323)
 
-32. **Shortest Path Algorithms ()**:
+32. **Shortest Path Algorithms (259-265, 7)**:
 
     1. [Single Source Shortest Path: Dijkstra]()
     2. [Single Source Shortest Path With Negative Weights: Bellman-Ford]()
@@ -396,6 +396,15 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     5. [Network Delay Time]()
     6. [Uber Travel Agent]()
     7. [Microsoft OA]()
+
+33. **Strongly Connected Components (266-268, 3)**:
+
+    1. [Kosaraju Algorithm]()
+    2. [Tarjan's Algorithm]()
+    3. [Critical Components in a Network]()
+
+
+
 
 <!-- [All Paths From Source To Destination]()  -->
 
