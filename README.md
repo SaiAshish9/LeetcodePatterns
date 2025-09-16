@@ -580,7 +580,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     14. [Fibonacci Number]()
     15. [N-th Tribonacci Number]()
 
-57. **0/1 Bounded Knapsack (Subset Sum, Boolean DP) (376-385, 10)**:
+57. **0/1 Bounded Knapsack DP (Subset Sum, Boolean DP) (376-385, 10)**:
 
     1. [Classic 0/1 Knapsack]()
     2. [Subset Sum DFS]()
@@ -593,7 +593,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     9. [Nutanix OA1: Manufacturing Unit]()
     10. [Nutanix OA2: Intervals]()
 
-58. **Unbounded Knapsack (386-391, 6)**:
+58. **Unbounded Knapsack DP (386-391, 6)**:
 
     1. [Coin Change]()
     2. [Coin Change 2]()
@@ -602,12 +602,33 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     5. [Perfect Squares]()
     6. [Combination Sum IV]()
 
-58. **DFS ()**:
+59. **Limited Supply Bounded Knapsack DP (392, 1)**:
+
+    1. [Coin Change with Limited Supply]()
+
+60. **Multiple Knapsack DP (393, 1)**:
+
+    1. [Maximum Units on a Truck]()
+
+61. **Fractional Knapsack DP (394, 1)**:
+
+    1. [Max value with fractional items]()
+
+62. 
+Interval DP 8 It is used when the problem involves choosing the optimal way to divide or merge subintervals of a range, string, or array. You typically solve subproblems defined on intervals [i, j].
+a Burst Balloons
+b Matrix Chain Multiplication c Palindrome Partitioning
+ Palindrome Partitioning II Minimum Cuts for Palindrome Partitioning)  Scramble String
+ Strange Printer
+ Evaluate Expression to True Boolean Parenthesization)
+ Minimum Score Triangulation of Polygon
+
+63. **DFS ()**:
 
     1. [All Paths From Source To Destination]()
     2. [Valid Arrangement of Pairs]()
 
-59. **Additional ()**:
+64. **Additional ()**:
 
 ---
 
