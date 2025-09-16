@@ -178,7 +178,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     12. [Removing Stars From a String](2300)
     13. [Robot Collisions](2751)
 
-11. **Sorting (113-129, 18)**
+11. **Sorting (113-130, 18)**
 
     1. [Comparison: Bubble (Stable)]()
     2. [Comparison: Insertion (Stable)]()
@@ -199,7 +199,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     17. [Index Based: Radix]()
     18. [Max Distinct Elements After K Operations]()
 
-12. **Binary Tree PreOrder Traversal (130-144, 15)**:
+12. **Binary Tree PreOrder Traversal (131-145, 15)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
@@ -217,14 +217,14 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     14. [Subtree of Another Tree](q572)
     15. [Sum of Root To Leaf Binary Numbers](q1022)
 
-13. **Binary Tree InOrder Traversal (145-148, 4)**:
+13. **Binary Tree InOrder Traversal (146-149, 4)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
     3. [Construct Binary Tree from PreOrder and InOrder Traversal](q105)
     4. [Construct Binary Tree from InOrder and PostOrder Traversal](q106)
 
-14. **Binary Tree PostOrder Traversal (149-157, 8)**:
+14. **Binary Tree PostOrder Traversal (150-157, 8)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
