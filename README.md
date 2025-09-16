@@ -85,28 +85,22 @@ java twoPointers/q5/LongestPalindromicSubstring.java
    3. [Next Smaller Element (NSE, Lower Bound - 1)](./binarySearch/nextSmallerElement/NextSmallerElement.java)
    4. [Upper Bound](./binarySearch/upperBound/UpperBound.java)
    5. [Lower Bound](./binarySearch/lowerBound/LowerBound.java)
-   6. [Search in Rotated Sorted Array](./binarySearch/q33/SearchInRotatedSortedArray.java) → (Binary Search on Rotated Array)
+   6. [Search in Rotated Sorted Array](./binarySearch/q33/SearchInRotatedSortedArray.java)
    7. [Find First and Last Position of Element in Sorted Array](./binarySearch/q34/MaxSumSubArrayOfSizeK.java)
-      → (Binary Search + Lower & Upper Bound)
    8. [Sqrt(x)](./binarySearch/q69/Sqrt.java)
-      → (Binary Search on a Mathematical Function)
    9. [Search a 2D Matrix](./binarySearch/q74/SearchA2DMatrix.java)
-      → (Binary Search on 2D Grid)
    10. [Find Minimum in Rotated Sorted Array](./binarySearch/q153/FindMinimumInRotatedSortedArray.java)
-       → (Binary Search on Rotated Array)
    11. [Find Peak Element](./binarySearch/q162/FindPeakElement.java)
-       → (Binary Search for Peak Finding)
    12. [Minimum Time to Complete Trips](./binarySearch/q2187/MinimumTimeToCompleteTripes.java)
-       → (Binary Search on Answer)
 
 4. **Prefix Sum (44-49, 6)**
 
    1. [Normal Prefix Sum](./prefixSum/normalPrefixSum/NormalPrefixSum.java)
    2. [Product of Array Except Self](./prefixSum/q238/ProductOfArrayExceptSelf.java)
-   3. [Contiguous Array](./prefixSum/q525/ContiguousArray.java) → (Prefix Sum + HashMap for Tracking Equal 0s and 1s)
-   4. [SubArray Sum Equals K](./prefixSum/q560/SubArraySumEqualsK.java) → (Prefix Sum + HashMap, Classic SubArray Problem)
-   5. [Shortest SubArray with Sum at Least K](./prefixSum/q862/ShortestSubArrayWithSumAtLeastK.java) → (Sliding Window + Monotonic Queue, Hard Level)
-   6. [SubArray Sums Divisible by K](./prefixSum/q974/SubArraySumsDivisibleByK.java) → (Prefix Sum + Modulo Technique for Efficient Counting)
+   3. [Contiguous Array](./prefixSum/q525/ContiguousArray.java)
+   4. [SubArray Sum Equals K](./prefixSum/q560/SubArraySumEqualsK.java)
+   5. [Shortest SubArray with Sum at Least K](./prefixSum/q862/ShortestSubArrayWithSumAtLeastK.java)
+   6. [SubArray Sums Divisible by K](./prefixSum/q974/SubArraySumsDivisibleByK.java)
 
 5. **Binary Search + Prefix Sum (50-55, 6)**
 
@@ -322,26 +316,26 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Time Converter]()
     2. [Letter Combinations of a Phone Number](q17) 4. [Generate Parentheses](q22)
-    3. [Sudoku Solver](q37) – Fill cells recursively with valid digits using backtracking.
+    3. [Sudoku Solver](q37)
     4. [Combination Sum](q39)
     5. [Combination Sum II](q40)
     6. [Permutations](q46)
     7. [Permutations 2](q47)
-    8. [N-Queens](q47) – Place queens row by row avoiding column and diagonal conflicts.
+    8. [N-Queens](q47)
     9. [N-Queens II](q52)
     10. [Combinations](q77)
     11. [Subsets](q78)
-    12. [Word Search](q79) – DFS with backtracking to match word on a 2D grid.
+    12. [Word Search](q79)
     13. [Restore IP Addresses](q93)
-    14. [Word Ladder II](q126) – BFS to build graph, then backtrack all shortest paths.
+    14. [Word Ladder II](q126)
     15. [Palindrome Partitioning](q131)
-    16. [Word Break II](q140) – Recursively partition string using dictionary with memoization.
-    17. [Target Sum](q494) – Backtrack to add/subtract numbers to reach target.
-    18. [Letter Case Permutation](q784) – Explore all case changes using backtracking.
-    19. [All Paths From Source to Target](q797) – DFS all paths from node 0 to n - 1.
-    20. [Unique Paths III](q980) – DFS all valid paths visiting every cell exactly once.
+    16. [Word Break II](q140)
+    17. [Target Sum](q494)
+    18. [Letter Case Permutation](q784)
+    19. [All Paths From Source to Target](q797)
+    20. [Unique Paths III](q980)
     21. [Smallest String Starting From Leaf](q988)
-    22. [The Knight’s Tour](q2664) – Try all knight moves with visited tracking and backtrack
+    22. [The Knight’s Tour](q2664)
 
 28. **Matrixes (225-249, 25)**
 
