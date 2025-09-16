@@ -284,13 +284,13 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 21. **Graph (184-190, 7)**:
 
-    1. [Clone Graph](q133) – Graph traversal + HashMap for visited nodes
-    2. [Is Graph Bipartite?](q785) – BFS/DFS with coloring
-    3. [Cheapest Flights Within K Stops](q787) - Dijkstra and Prims Algorithm
-    4. [Find Eventual Safe States](q802) – Reverse graph + cycle detection
-    5. [Sum of Distances in Tree](q834) – Tree DP (postorder + preorder)
-    6. [Shortest Path with Alternating Colors](q1129) – BFS with state (color) tracking
-    7. [Frog Position After T Seconds](q1377) – DFS + probability distribution
+    1. [Clone Graph](q133)
+    2. [Is Graph Bipartite?](q785)
+    3. [Cheapest Flights Within K Stops](q787)
+    4. [Find Eventual Safe States](q802)
+    5. [Sum of Distances in Tree](q834)
+    6. [Shortest Path with Alternating Colors](q1129)
+    7. [Frog Position After T Seconds](q1377)
 
 22. **Graph Coloring (191, 1)**:
 
