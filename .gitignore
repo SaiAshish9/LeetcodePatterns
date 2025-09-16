@@ -3,3 +3,5 @@ temp/
 .vscode/
 *.log
 *.iml
+c.out
+cpp.out
