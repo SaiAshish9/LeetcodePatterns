@@ -516,7 +516,7 @@
     3. [MRU Cache]()
     4. [Max Stack](q716)
     5. [Snake And Ladders](q909)
-    6. [Tree Sort]()
+    6. [TreeMap]()
     7. [HashSet](q705)
 
 56. **Linear Dynamic Programming (361-375, 15)**:
