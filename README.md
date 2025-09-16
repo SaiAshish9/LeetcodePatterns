@@ -370,7 +370,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     1. [Implementation]()
     2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
 
-30. **Minimum Spanning Tree: Kruskal Algorithm (252-253, 1)**:
+30. **Minimum Spanning Tree: Kruskal Algorithm (252-253, 2)**:
 
     1. [Implementation]()
     2. [Optimize Water Distribution in a Village](q1168) 
