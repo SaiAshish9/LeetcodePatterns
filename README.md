@@ -403,8 +403,25 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     2. [Tarjan's Algorithm]()
     3. [Critical Components in a Network]()
 
+34. **BiConnected Component (269, 1)**:
 
+    1. [Detection]()
 
+35. **Articulation Points (270, 1)**:
+
+    1. [Detection]()
+
+36. **Eulerian Circuit (271, 1)**:
+
+    1. [Detection]()
+
+37. **De Brujin Graph (272, 1)**:
+
+    1. [Detection]()
+
+38. **Hamiltonian Cycle (273, 1)**:
+
+    1. [Detection]()
 
 <!-- [All Paths From Source To Destination]()  -->
 
