@@ -292,6 +292,21 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     6. [Shortest Path with Alternating Colors](q1129) – BFS with state (color) tracking
     7. [Frog Position After T Seconds](q1377) – DFS + probability distribution
 
+22. **Graph Coloring (191, 1)**:
+
+    1. [Implementation]()
+
+23. **Graph Coloring**:
+
+    1. [Implementation]()
+    2. 
+    3. 
+    4. Course Schedule
+    5. Course Schedule 2
+
+24. **Trie**:
+
+
 ---
 
 Thank You.
