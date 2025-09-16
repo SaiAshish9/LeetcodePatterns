@@ -375,6 +375,13 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     1. [Implementation]()
     2. [Optimize Water Distribution in a Village](q1168) 
 
+31. **Union Find (254- , 2)**:
+    
+    1. [Union By Size]()
+    2. [Union By Rank]()
+    3. [Cycle Detection]()
+    4. [Graph Valid Tree](q261)
+
 90. **Dynamic Programming (, )**
 
     1. [LRU Cache](q200)
