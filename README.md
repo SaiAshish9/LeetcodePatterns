@@ -426,17 +426,34 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 39. **Math (274-, 1)**:
 
     1. [Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space]()
-    2. [Reverse Integer]()
-    3. []()
-    4. []()
-    5. []()
-    6. []()
-    7. []()
-    8. []()
-    9. []()
-    10. []()
-    11. []()
-    12. []()
+    2. [Reverse Integer](q7)
+    3. [Palindrome Number](q9)
+    4. [Factorial Trailing Zeroes]()
+    5. [Pow(x,n)]()
+    6. [Sqrt(x)]()
+    7. [Power of 2]()
+    8. [Power of 3]()
+    9. [Power of 4]()
+    10. [Base 7]()
+    11. [Convert to base of 2]()
+    12. [Convert to base of -2]()
+    13. [Base 2 To Base 6]()
+    14. [Armstrong Number]()
+    15. [Count anagrams]()
+    16. [Find Minimum Operations to Make All Elements Divisible by Three]()
+    17. [Permutation Sequence]()
+    18. [Three Equal Parts]()
+    19. [Count of pairs that can be removed from Array without changing the Mean]()
+
+40. **Line Sweep**:
+
+    1. [Implementation]()
+    2. [Minimum Meeting Rooms]()
+    3. [Skyline Problem]()
+
+41. **Divide And Conquer**:
+
+    1. [Implementation]()
 
 <!-- [All Paths From Source To Destination]()  -->
 
