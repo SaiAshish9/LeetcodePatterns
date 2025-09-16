@@ -620,167 +620,167 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 63. **Interval DP (395–403, 8)**
 
-    1. Burst Balloons
-    2. Matrix Chain Multiplication
-    3. Palindrome Partitioning
-    4. Palindrome Partitioning II (Minimum Cuts for Palindrome Partitioning)
-    5. Scramble String
-    6. Strange Printer
-    7. Evaluate Expression to True (Boolean Parenthesization)
-    8. Minimum Score Triangulation of Polygon
+    1. [Burst Balloons]()
+    2. [Matrix Chain Multiplication]()
+    3. [Palindrome Partitioning]()
+    4. [Palindrome Partitioning II (Minimum Cuts for Palindrome Partitioning)]()
+    5. [Scramble String]()
+    6. [Strange Printer]()
+    7. [Evaluate Expression to True (Boolean Parenthesization)]()
+    8. [Minimum Score Triangulation of Polygon]()
 
 63. **Subsequence DP (419, 19)**
 
-    1. Longest Common Subsequence (LCS)
-    2. Print LCS
-    3. Longest Increasing Subsequence (LIS)
-    4. Print LIS
-    5. Maximum Chain Length (MCL)
-    6. Russian Doll Envelopes
-    7. Longest Decreasing Subsequence (LDS)
-    8. Longest Common Increasing Subsequence (LCIS)
-    9. Print LCIS
-    10. Longest Bitonic Subsequence (LBS)
-    11. Longest Palindromic Subsequence (LPS) (reverse of LCS)
-    12. Print LPS
-    13. Longest Palindromic Subsequence (common to both strings, LPS of LCS, Interval DP)
-    14. Shortest Common Supersequence
-    15. Edit Distance
-    16. Minimum Insertions and Deletions to convert String a → String b (m − lcs, n − lcs)
-    17. Minimum deletions in a string to make it a palindrome (n − lcs)
-    18. Delete Operations for Two Strings (m + n − 2 × lcs)
-    19. Longest Repeating Subsequence
-    20. Word Break
+    1. [Longest Common Subsequence (LCS)]()
+    2. [Print LCS]()
+    3. [Longest Increasing Subsequence (LIS)]()
+    4. [Print LIS]()
+    5. [Maximum Chain Length (MCL)]()
+    6. [Russian Doll Envelopes]()
+    7. [Longest Decreasing Subsequence (LDS)]()
+    8. [Longest Common Increasing Subsequence (LCIS)]()
+    9. [Print LCIS]()
+    10. [Longest Bitonic Subsequence (LBS)]()
+    11. [Longest Palindromic Subsequence (LPS) (reverse of LCS)]()
+    12. [Print LPS]()
+    13. [Longest Palindromic Subsequence (common to both strings, LPS of LCS, Interval DP)]()
+    14. [Shortest Common Supersequence]()
+    15. [Edit Distance]()
+    16. [Minimum Insertions and Deletions to convert String a → String b (m − lcs, n − lcs)]()
+    17. [Minimum deletions in a string to make it a palindrome (n − lcs)]()
+    18. [Delete Operations for Two Strings (m + n − 2 × lcs)]()
+    19. [Longest Repeating Subsequence]()
+    20. [Word Break]()
 
 64. **Substring DP (426–431, 6)**
 
-    1. Longest Common Substring
-    2. Longest Repeating Substring
-    3. Longest Palindromic Substring
-    4. Count Palindromic Substrings
-    5. Distinct Substrings Count
-    6. Minimum insertions/deletions to convert substring
-    7. Longest Duplicate Substring
+    1. [Longest Common Substring]()
+    2. [Longest Repeating Substring]()
+    3. [Longest Palindromic Substring]()
+    4. [Count Palindromic Substrings]()
+    5. [Distinct Substrings Count]()
+    6. [Minimum insertions/deletions to convert substring]()
+    7. [Longest Duplicate Substring]()
 
 65. **Grid Based DP (432–440, 9)**
 
-    1. Unique Paths
-    2. Unique Paths II
-    3. Cherry Pickup
-    4. Cherry Pickup II
-    5. Minimum Path Sum
-    6. Longest Increasing Path in a Matrix
-    7. Knight Probability
-    8. Coin Collection in Grid
-    9. Interleaving String
+    1. [Unique Paths]()
+    2. [Unique Paths II]()
+    3. [Cherry Pickup]()
+    4. [Cherry Pickup II]()
+    5. [Minimum Path Sum]()
+    6. [Longest Increasing Path in a Matrix]()
+    7. [Knight Probability]()
+    8. [Coin Collection in Grid]()
+    9. [Interleaving String]()
 
 66. **Matrix Based DP (441–447, 7)**
 
-    1. Maximal Square
-    2. Maximal Rectangle
-    3. Minimum Falling Path Sum
-    4. Count Submatrices with All 1s
-    5. Largest Rectangle in Histogram
-    6. Palindromic Substrings in a 2D Grid
-    7. Coin Change on Grid
+    1. [Maximal Square]()
+    2. [Maximal Rectangle]()
+    3. [Minimum Falling Path Sum]()
+    4. [Count Submatrices with All 1s]()
+    5. [Largest Rectangle in Histogram]()
+    6. [Palindromic Substrings in a 2D Grid]()
+    7. [Coin Change on Grid]()
 
 67. **Kadane’s Algorithm (448–452, 5)**
 
-    1. 1D Maximum Subarray Sum
-    2. 2D Maximum Submatrix Sum (apply Kadane on column pairs)
-    3. Maximum Sum Circular Subarray
-    4. Maximum Product Subarray (variation with min/max)
-    5. Maximum Alternating Subarray Sum
+    1. [1D Maximum Subarray Sum]()
+    2. [2D Maximum Submatrix Sum (apply Kadane on column pairs)]()
+    3. [Maximum Sum Circular Subarray]()
+    4. [Maximum Product Subarray (variation with min/max)]()
+    5. [Maximum Alternating Subarray Sum]()
 
 68. **Subset DP (453–462, 10)**
 
-    1. Binomial Coefficients
-    2. Pascal’s Triangle
-    3. Triangle (Minimum Path Sum in Triangle)
-    4. Counting ways to arrange or select subsets
-    5. Partitioning sets into subsets with constraints
-    6. Scheduling with subset constraints
-    7. Counting Hamiltonian Paths
-    8. Set Cover Problem
-    9. Bitmask-based combinatorial counting
-    10. Minimum Cost Path covering all nodes (e.g., TSP)
+    1. [Binomial Coefficients]()
+    2. [Pascal’s Triangle]()
+    3. [Triangle (Minimum Path Sum in Triangle)]()
+    4. [Counting ways to arrange or select subsets]()
+    5. [Partitioning sets into subsets with constraints]()
+    6. [Scheduling with subset constraints]()
+    7. [Counting Hamiltonian Paths]()
+    8. [Set Cover Problem]()
+    9. [Bitmask-based combinatorial counting]()
+    10. [Minimum Cost Path covering all nodes (e.g., TSP)]()
 
 69. **Tree DP (463–470, 8)**
 
-    1. Diameter of Binary Tree
-    2. Maximum Path Sum Between Two Nodes
-    3. Maximum Path Sum from Root to Leaf
-    4. Sum of Distances from All Nodes
-    5. House Robber III (robbing houses on tree)
-    6. Coloring Tree with Minimum Cost/Constraints
-    7. Unique Binary Search Trees
-    8. LCA Queries (distance between nodes, kth ancestor with Binary Lifting)
+    1. [Diameter of Binary Tree]()
+    2. [Maximum Path Sum Between Two Nodes]()
+    3. [Maximum Path Sum from Root to Leaf]()
+    4. [Sum of Distances from All Nodes]()
+    5. [House Robber III (robbing houses on tree)]()
+    6. [Coloring Tree with Minimum Cost/Constraints]()
+    7. [Unique Binary Search Trees]()
+    8. [LCA Queries (distance between nodes, kth ancestor with Binary Lifting)]()
 
 70. **Digit DP (471–478, 8)**
 
-    1. Numbers with Same Consecutive Differences
-    2. Count Stepping Numbers in Range
-    3. Beautiful Integers
-    4. Count Numbers with Digit Sum = k
-    5. Count Numbers Divisible by d
-    6. Count Palindromes
-    7. Count Numbers with No Repeated Digits
-    8. Count Beautiful Numbers
+    1. [Numbers with Same Consecutive Differences]()
+    2. [Count Stepping Numbers in Range]()
+    3. [Beautiful Integers]()
+    4. [Count Numbers with Digit Sum = k]()
+    5. [Count Numbers Divisible by d]()
+    6. [Count Palindromes]()
+    7. [Count Numbers with No Repeated Digits]()
+    8. [Count Beautiful Numbers]()
 
 71. **Probability/Expectation DP (479–484, 6)**
 
-    1. New 21 Game
-    2. Dice Throw / Sum of Dice
-    3. Expected Steps to Reach 0 from N (Coin Toss)
-    4. Expected Number of Dice Throws to Reach N
-    5. Random Walk in a Grid
-    6. Probability of a Knight Staying on Board
+    1. [New 21 Game]()
+    2. [Dice Throw / Sum of Dice]()
+    3. [Expected Steps to Reach 0 from N (Coin Toss)]()
+    4. [Expected Number of Dice Throws to Reach N]()
+    5. [Random Walk in a Grid]()
+    6. [Probability of a Knight Staying on Board]()
 
 72. **Game Theory DP (485–491, 7)**
 
-    1. Nim Game
-    2. Stone Game / Take-Away Game
-    3. Predict the Winner
-    4. Optimal Strategy for Piles of Stones
-    5. Coin Game (pick alternately from ends)
-    6. Game of Removing Stones with Various Moves
-    7. Chess/Checkers Simplified States
+    1. [Nim Game]()
+    2. [Stone Game / Take-Away Game]()
+    3. [Predict the Winner]()
+    4. [Optimal Strategy for Piles of Stones]()
+    5. [Coin Game (pick alternately from ends)]()
+    6. [Game of Removing Stones with Various Moves]()
+    7. [Chess/Checkers Simplified States]()
 
 73. **State Machine DP (492–501, 10)**
 
-    1. Frog Jump
-    2. Super Egg Drop
-    3. Wildcard Matching
-    4. Push Dominos
-    5. Regular Expression Matching
-    6. Best Time to Buy and Sell Stock I
-    7. Best Time to Buy and Sell Stock II
-    8. Best Time to Buy and Sell Stock III
-    9. Best Time to Buy and Sell Stock IV
-    10. Best Time to Buy and Sell Stock with Cooldown
+    1. [Frog Jump]()
+    2. [Super Egg Drop]()
+    3. [Wildcard Matching]()
+    4. [Push Dominos]()
+    5. [Regular Expression Matching]()
+    6. [Best Time to Buy and Sell Stock I]()
+    7. [Best Time to Buy and Sell Stock II]()
+    8. [Best Time to Buy and Sell Stock III]()
+    9. [Best Time to Buy and Sell Stock IV]()
+    10. [Best Time to Buy and Sell Stock with Cooldown]()
 
 74. **State Compression DP (502–503, 2)**
 
-    1. Traveling Salesman Problem (TSP)
-    2. Counting Subsets
+    1. [Traveling Salesman Problem (TSP)]()
+    2. [Counting Subsets]()
 
 75. **Decision DP (504–505, 2)**
 
-    1. Egg Dropping Problem
-    2. Paint House
+    1. [Egg Dropping Problem]()
+    2. [Paint House]()
 
 76. **Counting/Combinatorial DP (506–508, 3)**
 
-    1. Friends Pairing Problem
-    2. Paint Fence
-    3. Ugly Number II
+    1. [Friends Pairing Problem]()
+    2. [Paint Fence]()
+    3. [Ugly Number II]()
 
 77. **Job Scheduling DP (509–512, 4)**
 
-    1. Maximum Profit in Job Scheduling
-    2. Weighted Interval Scheduling (with Profits)
-    3. Maximum Number of Non-overlapping Intervals
-    4. Scheduling with Deadlines and Profits
+    1. [Maximum Profit in Job Scheduling]()
+    2. [Weighted Interval Scheduling (with Profits)]()
+    3. [Maximum Number of Non-overlapping Intervals]()
+    4. [Scheduling with Deadlines and Profits]()
 
 63. **DFS (513-514, 2)**:
 
