@@ -183,7 +183,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Comparison: Bubble (Stable)]()
     2. [Comparison: Insertion (Stable)]()
-    3. [Comparison: Selection (Stable)]()
+    3. [Comparison: Selection]()
     4. [Comparison: Tim]()
     5. [Comparison: Merge (Stable)]()
     6. [Comparison: Merge Two Sorted Arrays (Stable)]()
@@ -195,9 +195,9 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     12. [Comparison: Randomized Quick Sort]()
     13. [Comparison: QuickSelect]()
     14. [Comparison: Randomized QuickSelect]()
-    15. [Index Based: Count]()
-    16. [Index Based: Bin/Bucket]()
-    17. [Index Based: Radix]()
+    15. [Index Based: Count (Stable)]()
+    16. [Index Based: Bin/Bucket (Stable)]()
+    17. [Index Based: Radix (Stable)]()
     18. [Max Distinct Elements After K Operations]()
 
 12. **Binary Tree PreOrder Traversal (131-145, 15)**:
