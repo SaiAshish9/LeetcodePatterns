@@ -181,16 +181,16 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 11. **Sorting (113-130, 18)**
 
-    1. [Comparison: Bubble (Stable)]()
-    2. [Comparison: Insertion (Stable)]()
-    3. [Comparison: Selection]()
+    1. [Comparison: Bubble (Stable, Adaptive)]()
+    2. [Comparison: Selection]()
+    3. [Comparison: Insertion (Stable, Adaptive, LinkedList Friendly)]()
     4. [Comparison: Tim]()
-    5. [Comparison: Merge (Stable)]()
+    5. [Comparison: Merge (Stable, LinkedList Friendly)]()
     6. [Comparison: Merge Two Sorted Arrays (Stable)]()
     7. [Comparison: Merge Four Sorted Arrays (Stable)]()
     8. [Comparison: Heap]()
-    9. [Comparison: Tree]()
-    10. [Comparison: Shell]()
+    9. [Comparison: Tree (LinkedList Friendly With Self Balancing)]()
+    10. [Comparison: Shell (Partially Adaptive)]()
     11. [Comparison: Quick]()
     12. [Comparison: Randomized Quick Sort]()
     13. [Comparison: QuickSelect]()
@@ -629,7 +629,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     7. [Evaluate Expression to True (Boolean Parenthesization)]()
     8. [Minimum Score Triangulation of Polygon]()
 
-63. **Subsequence DP (419, 19)**
+64. **Subsequence DP (419, 19)**
 
     1. [Longest Common Subsequence (LCS)]()
     2. [Print LCS]()
@@ -652,7 +652,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     19. [Longest Repeating Subsequence]()
     20. [Word Break]()
 
-64. **Substring DP (426–431, 6)**
+65. **Substring DP (426–431, 6)**
 
     1. [Longest Common Substring]()
     2. [Longest Repeating Substring]()
@@ -662,7 +662,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     6. [Minimum insertions/deletions to convert substring]()
     7. [Longest Duplicate Substring]()
 
-65. **Grid Based DP (432–440, 9)**
+66. **Grid Based DP (432–440, 9)**
 
     1. [Unique Paths]()
     2. [Unique Paths II]()
@@ -674,7 +674,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     8. [Coin Collection in Grid]()
     9. [Interleaving String]()
 
-66. **Matrix Based DP (441–447, 7)**
+67. **Matrix Based DP (441–447, 7)**
 
     1. [Maximal Square]()
     2. [Maximal Rectangle]()
@@ -684,7 +684,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     6. [Palindromic Substrings in a 2D Grid]()
     7. [Coin Change on Grid]()
 
-67. **Kadane’s Algorithm (448–452, 5)**
+68. **Kadane’s Algorithm (448–452, 5)**
 
     1. [1D Maximum Subarray Sum]()
     2. [2D Maximum Submatrix Sum (apply Kadane on column pairs)]()
@@ -692,7 +692,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     4. [Maximum Product Subarray (variation with min/max)]()
     5. [Maximum Alternating Subarray Sum]()
 
-68. **Subset DP (453–462, 10)**
+69. **Subset DP (453–462, 10)**
 
     1. [Binomial Coefficients]()
     2. [Pascal’s Triangle]()
@@ -705,7 +705,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     9. [Bitmask-based combinatorial counting]()
     10. [Minimum Cost Path covering all nodes (e.g., TSP)]()
 
-69. **Tree DP (463–470, 8)**
+70. **Tree DP (463–470, 8)**
 
     1. [Diameter of Binary Tree]()
     2. [Maximum Path Sum Between Two Nodes]()
@@ -716,7 +716,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     7. [Unique Binary Search Trees]()
     8. [LCA Queries (distance between nodes, kth ancestor with Binary Lifting)]()
 
-70. **Digit DP (471–478, 8)**
+71. **Digit DP (471–478, 8)**
 
     1. [Numbers with Same Consecutive Differences]()
     2. [Count Stepping Numbers in Range]()
@@ -727,7 +727,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     7. [Count Numbers with No Repeated Digits]()
     8. [Count Beautiful Numbers]()
 
-71. **Probability/Expectation DP (479–484, 6)**
+72. **Probability/Expectation DP (479–484, 6)**
 
     1. [New 21 Game]()
     2. [Dice Throw / Sum of Dice]()
@@ -736,7 +736,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     5. [Random Walk in a Grid]()
     6. [Probability of a Knight Staying on Board]()
 
-72. **Game Theory DP (485–491, 7)**
+73. **Game Theory DP (485–491, 7)**
 
     1. [Nim Game]()
     2. [Stone Game / Take-Away Game]()
@@ -746,7 +746,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     6. [Game of Removing Stones with Various Moves]()
     7. [Chess/Checkers Simplified States]()
 
-73. **State Machine DP (492–501, 10)**
+74. **State Machine DP (492–501, 10)**
 
     1. [Frog Jump]()
     2. [Super Egg Drop]()
@@ -759,35 +759,35 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     9. [Best Time to Buy and Sell Stock IV]()
     10. [Best Time to Buy and Sell Stock with Cooldown]()
 
-74. **State Compression DP (502–503, 2)**
+75. **State Compression DP (502–503, 2)**
 
     1. [Traveling Salesman Problem (TSP)]()
     2. [Counting Subsets]()
 
-75. **Decision DP (504–505, 2)**
+76. **Decision DP (504–505, 2)**
 
     1. [Egg Dropping Problem]()
     2. [Paint House]()
 
-76. **Counting/Combinatorial DP (506–508, 3)**
+77. **Counting/Combinatorial DP (506–508, 3)**
 
     1. [Friends Pairing Problem]()
     2. [Paint Fence]()
     3. [Ugly Number II]()
 
-77. **Job Scheduling DP (509–512, 4)**
+78. **Job Scheduling DP (509–512, 4)**
 
     1. [Maximum Profit in Job Scheduling]()
     2. [Weighted Interval Scheduling (with Profits)]()
     3. [Maximum Number of Non-overlapping Intervals]()
     4. [Scheduling with Deadlines and Profits]()
 
-63. **DFS (513-514, 2)**:
+79. **DFS (513-514, 2)**:
 
     1. [All Paths From Source To Destination]()
     2. [Valid Arrangement of Pairs]()
 
-64. **Additional ()**:
+80. **Additional ()**:
 
 ---
 
