@@ -548,11 +548,11 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     6. [Create Sorted Array through Instructions Inversion Count]()
     7. [K-th smallest/largest elements Dynamic frequency counting]()
 
-54. **Traveling Salesman Problem (353, 1)**
+54. **Traveling Salesman Problem (353, 1)**:
 
     1. [Implementation]()
 
-55. **Design (354-360, 7)**
+55. **Design (354-360, 7)**:
 
     1. [LRU Cache](q200)
     2. [LFU Cache](q460)
@@ -562,7 +562,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     6. [Tree Sort]()
     7. [HashSet](q705)
 
-56. **Linear Dynamic Programming (361-375, 15)**
+56. **Linear Dynamic Programming (361-375, 15)**:
 
     1. [Climbing Stairs]()
     2. [House Robber]()
@@ -580,7 +580,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     14. [Fibonacci Number]()
     15. [N-th Tribonacci Number]()
 
-57. **0/1 Bounded Knapsack (Subset Sum, Boolean DP) (376-385, 10)**
+57. **0/1 Bounded Knapsack (Subset Sum, Boolean DP) (376-385, 10)**:
 
     1. [Classic 0/1 Knapsack]()
     2. [Subset Sum DFS]()
@@ -592,6 +592,15 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     8. [Minimum Subset Sum Difference]()
     9. [Nutanix OA1: Manufacturing Unit]()
     10. [Nutanix OA2: Intervals]()
+
+58. **Unbounded Knapsack (386-391, 6)**:
+
+    1. [Coin Change]()
+    2. [Coin Change 2]()
+    3. [Rod Cutting]()
+    4. [Complete Knapsack]()
+    5. [Perfect Squares]()
+    6. [Combination Sum IV]()
 
 58. **DFS ()**:
 
