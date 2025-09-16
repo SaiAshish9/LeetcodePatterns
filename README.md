@@ -478,6 +478,44 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     5. [Number of Distinct Substrings](q1698)
     6. [MultiString LCP]()
 
+46. **String Matching (308-312, 5)**:
+
+    1. [Longest Prefix Suffix]() (KMP Algorithm)
+    2. [strStr Implementation]()
+    3. [Naive String Matching]()
+    4. [Rabin Karp Algorithm]() (Rolling Hash, Spurious Hits)
+    5. [Find All Anagrams Of A String]()
+
+47. **NP Hard And NP Complete (313, 1)**:
+
+    1. [NP Hard And NP Complete Examples]()
+
+48. **Rolling Hash (314-316, 3)**:
+
+    1. [Implementation]()
+    2. [strStr]()
+    3. [findDuplicateSubstring]()
+
+49. **Concurrency (317, 1)**:
+
+    1. [Implementation]()
+
+50. **Greedy (318- 329, 12)**:
+
+    1. [Fractional Knapsack]()
+    2. [Activity Selection]()
+    3. [Minimum Number Of Coins]()
+    4. [Job Sequencing With Deadlines]()
+    5. [Minimum Equal Sum Possible With 3 Equal Stacks]()
+    6. [Gas Station]()
+    7. [Can Place Flowers]()
+    8. [Meeting Rooms II]()
+    9. [Non-overlapping Intervals]()
+    10. [Boats to Save People]()
+    11. [Minimum Number of Arrows to Burst Balloons ]()
+    12. [Partition Labels]()
+
+
 <!-- [All Paths From Source To Destination]()  -->
 
 33. **Dynamic Programming (, )**
