@@ -782,7 +782,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     3. Maximum Number of Non-overlapping Intervals
     4. Scheduling with Deadlines and Profits
 
-63. **DFS ()**:
+63. **DFS (513-514, 2)**:
 
     1. [All Paths From Source To Destination]()
     2. [Valid Arrangement of Pairs]()
