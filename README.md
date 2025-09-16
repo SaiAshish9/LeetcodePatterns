@@ -296,15 +296,53 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Implementation]()
 
-23. **Graph Coloring**:
+23. **Topological Sorting (192-195, 4)**:
+
+    1. [DFS Implementation]()
+    2. [Kahn's BFS Implementation]()
+    3. [Course Schedule]()
+    4. [Course Schedule 2]()
+
+24. **Trie (196-199, 5)**:
+
+    1. [Implement Trie (Prefix Tree)](q208)
+    2. [Design Add and Search Words Data Structure](q211)
+    3. [Word Search II](q212)
+    4. [Longest Word With All Prefixes](q1858)
+
+25. **Red Black Tree (200, 1)**:
 
     1. [Implementation]()
-    2. 
-    3. 
-    4. Course Schedule
-    5. Course Schedule 2
 
-24. **Trie**:
+26. **AVL Tree (201, 1)**:
+
+    1. [Implementation]()
+
+27. **Backtracking (202-224, 23)**:
+
+    1. [Time Converter]()
+    2. [Letter Combinations of a Phone Number](q17)
+    3. [Sudoku Solver](q37) – Fill cells recursively with valid digits using backtracking.
+    4. [Generate Parentheses](q22)
+    5. [Combination Sum](q39)
+    6. [Combination Sum II](q40)
+    7. [Permutations](q46)
+    8. [Permutations 2](q47)
+    9. [N-Queens](q47) – Place queens row by row avoiding column and diagonal conflicts.
+    10. [N-Queens II](q52)
+    11. [Palindrome Partitioning](q131)
+    12. [Subsets](q78)
+    13. [Combinations](q77)
+    14. [Restore IP Addresses](q93)
+    15. [Smallest String Starting From Leaf](q988)
+    16. [Word Search](q79) – DFS with backtracking to match word on a 2D grid.
+    17. [Word Ladder II](q126) – BFS to build graph, then backtrack all shortest paths.
+    18. [Word Break II](q140) – Recursively partition string using dictionary with memoization.
+    19. [Target Sum](q494) – Backtrack to add/subtract numbers to reach target.
+    20. [Letter Case Permutation](q784) – Explore all case changes using backtracking.
+    21. [All Paths From Source to Target](q797) – DFS all paths from node 0 to n - 1.
+    22. [Unique Paths III](q980) – DFS all valid paths visiting every cell exactly once.
+    23. [The Knight’s Tour](q2664) – Try all knight moves with visited tracking and backtrack
 
 
 ---
