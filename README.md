@@ -321,29 +321,60 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 27. **Backtracking (202-224, 23)**:
 
     1. [Time Converter]()
-    2. [Letter Combinations of a Phone Number](q17)
+    2. [Letter Combinations of a Phone Number](q17) 4. [Generate Parentheses](q22)
     3. [Sudoku Solver](q37) – Fill cells recursively with valid digits using backtracking.
-    4. [Generate Parentheses](q22)
-    5. [Combination Sum](q39)
-    6. [Combination Sum II](q40)
-    7. [Permutations](q46)
-    8. [Permutations 2](q47)
-    9. [N-Queens](q47) – Place queens row by row avoiding column and diagonal conflicts.
-    10. [N-Queens II](q52)
-    11. [Palindrome Partitioning](q131)
-    12. [Subsets](q78)
-    13. [Combinations](q77)
-    14. [Restore IP Addresses](q93)
-    15. [Smallest String Starting From Leaf](q988)
-    16. [Word Search](q79) – DFS with backtracking to match word on a 2D grid.
-    17. [Word Ladder II](q126) – BFS to build graph, then backtrack all shortest paths.
-    18. [Word Break II](q140) – Recursively partition string using dictionary with memoization.
-    19. [Target Sum](q494) – Backtrack to add/subtract numbers to reach target.
-    20. [Letter Case Permutation](q784) – Explore all case changes using backtracking.
-    21. [All Paths From Source to Target](q797) – DFS all paths from node 0 to n - 1.
-    22. [Unique Paths III](q980) – DFS all valid paths visiting every cell exactly once.
-    23. [The Knight’s Tour](q2664) – Try all knight moves with visited tracking and backtrack
+    4. [Combination Sum](q39)
+    5. [Combination Sum II](q40)
+    6. [Permutations](q46)
+    7. [Permutations 2](q47)
+    8. [N-Queens](q47) – Place queens row by row avoiding column and diagonal conflicts.
+    9. [N-Queens II](q52)
+    10. [Combinations](q77)
+    11. [Subsets](q78)
+    12. [Word Search](q79) – DFS with backtracking to match word on a 2D grid.
+    13. [Restore IP Addresses](q93)
+    14. [Word Ladder II](q126) – BFS to build graph, then backtrack all shortest paths.
+    15. [Palindrome Partitioning](q131)
+    16. [Word Break II](q140) – Recursively partition string using dictionary with memoization.
+    17. [Target Sum](q494) – Backtrack to add/subtract numbers to reach target.
+    18. [Letter Case Permutation](q784) – Explore all case changes using backtracking.
+    19. [All Paths From Source to Target](q797) – DFS all paths from node 0 to n - 1.
+    20. [Unique Paths III](q980) – DFS all valid paths visiting every cell exactly once.
+    21. [Smallest String Starting From Leaf](q988)
+    22. [The Knight’s Tour](q2664) – Try all knight moves with visited tracking and backtrack
 
+28. **Matrixes (225-246, 22)**
+
+    1. [Number of Islands](q200)
+    2. [Island Perimeter](q463)
+    3. [Max Area of Island](q695)
+    4. [Rotting Oranges](q994)
+    5. [Number of Closed Islands](q1234)
+    6. [Count Sub Islands](q1905)
+    7. [Flood Fill]()
+    8. [Spiral Matrix]()
+    9. [Word Search]()
+    10. [Spiral Matrix II]()
+    11. [Diagonal Traverse]()
+    12. [Search a 2D Matrix]()
+    13. [Search a 2D Matrix II]()
+    14. [Set Matrix Zeroes]()
+    15. [Word Search]()
+    16. [Surrounded Regions]()
+    17. [Dungeon Game]()
+    18. [Rotate Image]()
+    19. [Valid Sudoku]() 10. [Rotate Matrix Clockwise by 1 cell]()
+    20. [Rotate Matrix AntiClockwise by 1 cell]()
+    21. [Coupang: Directions Q]()
+    22. [Find Winner on a Tic Tac Toe Game](q1275)
+
+28. **Design (247-, 22)**
+
+    1. [LRU Cache](q200)
+    2. [LFU Cache]()
+    3. [MRU Cache]()
+    4. [Max Stack]()
+    5. [Snake And Ladders]()
 
 ---
 
