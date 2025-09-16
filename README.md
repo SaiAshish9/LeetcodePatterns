@@ -445,29 +445,38 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     18. [Convert to base of 2]()
     19. [Count of pairs that can be removed from Array without changing the Mean]()
 
-40. **Line Sweep**:
+40. **Line Sweep (293-295, 3)**:
 
     1. [Implementation]()
     2. [Minimum Meeting Rooms]()
     3. [Skyline Problem]()
 
-41. **Divide And Conquer**:
+41. **Divide And Conquer (296, 1)**:
 
     1. [Implementation]()
 
-42. **Randomized**:
+42. **Randomized (297-299, 3)**:
 
     1. [Kth Largest Element in an Array](q215)
     2. [Linked List Random Node](q382)
     3. [Shuffle an Array](q384)
 
-43. **Reservoir Sampling**:
+43. **Reservoir Sampling (300, 1)**:
 
     1. [Linked List Random Node](q382)
 
-44. **Rejection Sampling**:
+44. **Rejection Sampling (301, 1)**:
 
     1. [Implement Rand10() Using Rand7()](q470)
+
+45. **Suffix Array (302-307, 6)**:
+
+    1. [LCP Array]() (Suffix Algorithm)
+    2. [Implementation]()
+    3. [Longest Common Prefix](q14)
+    4. [Longest Duplicate Substring](q1044)
+    5. [Number of Distinct Substrings](q1698)
+    6. [MultiString LCP]()
 
 <!-- [All Paths From Source To Destination]()  -->
 
