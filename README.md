@@ -365,6 +365,11 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     24. [Coupang: Directions Q]()
     25. [Count number of subMatrixes with all 1]()
 
+29. **Minimum Spanning Tree: Kruskal Algorithm (250, 1)**:
+
+    1. [Implementation]()
+    2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
+
 90. **Dynamic Programming (, )**
 
     1. [LRU Cache](q200)
