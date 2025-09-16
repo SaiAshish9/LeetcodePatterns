@@ -423,6 +423,21 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
     1. [Detection]()
 
+39. **Math (274-, 1)**:
+
+    1. [Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space]()
+    2. [Reverse Integer]()
+    3. []()
+    4. []()
+    5. []()
+    6. []()
+    7. []()
+    8. []()
+    9. []()
+    10. []()
+    11. []()
+    12. []()
+
 <!-- [All Paths From Source To Destination]()  -->
 
 33. **Dynamic Programming (, )**
