@@ -368,7 +368,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     21. [Coupang: Directions Q]()
     22. [Find Winner on a Tic Tac Toe Game](q1275)
 
-28. **Design (247-, 22)**
+28. **Design (247-, )**
 
     1. [LRU Cache](q200)
     2. [LFU Cache]()
