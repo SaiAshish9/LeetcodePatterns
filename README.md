@@ -371,7 +371,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     24. [Coupang: Directions Q]()
     25. [Count number of subMatrixes with all 1]()
 
-29. **Design (247-, )**
+29. **Design (250-, )**
 
     1. [LRU Cache](q200)
     2. [LFU Cache]()
