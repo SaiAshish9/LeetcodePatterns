@@ -793,7 +793,7 @@ java twoPointers/q5/LongestPalindromicSubstring.java
 
 ---
 
-<img width="394" height="241" alt="Screenshot 2025-09-10 at 10 52 26 PM" src="https://github.com/user-attachments/assets/56d69cba-6027-4f65-811d-50610ad397de" />
+<img width="100%" height="241" alt="Screenshot 2025-09-10 at 10 52 26 PM" src="https://github.com/user-attachments/assets/56d69cba-6027-4f65-811d-50610ad397de" />
 
 ---
 
