@@ -787,7 +787,10 @@ java twoPointers/q5/LongestPalindromicSubstring.java
     1. [All Paths From Source To Destination]()
     2. [Valid Arrangement of Pairs]()
 
-80. **Additional ()**:
+80. **Additional (515-516)**:
+
+    1. [Next Palindrome]()
+    2. [Add 0 or K]()
 
 ---
 
