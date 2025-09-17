@@ -49,7 +49,7 @@
    9. [Search a 2D Matrix](./binarySearch/q74/SearchA2DMatrix.java)
    10. [Find Minimum in Rotated Sorted Array](./binarySearch/q153/FindMinimumInRotatedSortedArray.java)
    11. [Find Peak Element](./binarySearch/q162/FindPeakElement.java)
-   12. [Minimum Time to Complete Trips](./binarySearch/q2187/MinimumTimeToCompleteTripes.java)
+   12. [Find Bad Version](./binarySearch/q278/FirstBadVersion.java)
 
 4. **Prefix Sum (44-49, 6)**
 
