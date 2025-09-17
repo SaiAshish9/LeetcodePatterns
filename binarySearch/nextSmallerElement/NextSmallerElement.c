@@ -3,11 +3,11 @@ Input:
 nums = [1, 2, 3, 4], target = 2
 
 Output:
-3
+1
 
 Brute Force Approach:
 - Iterate through the array linearly.
-- Track the smallest element greater than the target.
+- Track the largest element smaller than the target.
 - If no such element exists, return -1.
 
 Complexity:
@@ -16,8 +16,8 @@ Complexity:
 
 Optimal Approach:
 - Since the array is sorted, use Binary Search.
-- If nums[mid] > target, store it as a candidate and move left to find a smaller greater element.
-- Else, move right.
+- If nums[mid] < target, store it as a candidate and move right to find a larger smaller element.
+- Else, move left.
 - Return the stored candidate (or -1 if none found).
 
 Complexity:
@@ -29,17 +29,17 @@ nums = [1, 2, 3, 4], target = 2
 left = 0, right = 3, result = -1
 
 Iteration 1:
-mid = 1 → nums[1] = 2 → nums[mid] <= target → left = 2
+mid = 1 → nums[1] = 2 → nums[mid] >= target → right = 0
 
 Iteration 2:
-mid = 2 → nums[2] = 3 → nums[mid] > target → result = 3, right = 1
+mid = 0 → nums[0] = 1 → nums[mid] < target → result = 1, left = 1
 
-Loop ends → return result = 3
+Loop ends → return result = 1
 */
 
 #include <stdio.h>
 
-int nextGreaterElement(int nums[], int n, int target) {
+int nextSmallerElement(int nums[], int n, int target) {
     int result = -1;
     int left = 0;
     int right = n - 1;
@@ -47,11 +47,11 @@ int nextGreaterElement(int nums[], int n, int target) {
     while (left <= right) {
         int mid = left + (right - left) / 2;
 
-        if (nums[mid] > target) {
+        if (nums[mid] < target) {
             result = nums[mid];
-            right = mid - 1; 
+            left = mid + 1;  // look for larger smaller element
         } else {
-            left = mid + 1;
+            right = mid - 1;
         }
     }
 
@@ -59,12 +59,12 @@ int nextGreaterElement(int nums[], int n, int target) {
 }
 
 int main() {
-    int nums[] = {1, 2, 3, 4};
-    int n = sizeof(nums) / sizeof(nums[0]);
+    int arr[] = {1, 2, 3, 4};
+    int n = sizeof(arr) / sizeof(arr[0]);
     int target = 2;
 
-    int result = nextGreaterElement(nums, n, target);
-    printf("%d\n", result); // Output: 3
+    int result = nextSmallerElement(arr, n, target);
+    printf("%d\n", result); // Output: 1
 
     return 0;
 }
