@@ -10,6 +10,7 @@
 - ✨ [Beginner DSA Sheet](https://www.notion.so/Begineer-DSA-Sheet-Patterns-1dd44a9e7db180868c60c7318b13a602)
 - 🎉 [Presentation](https://www.linkedin.com/posts/%F0%9F%9A%80-sai-ashish-237784188_conceptual-beginner-sheet-activity-7322197686881845248-y3-g)
 - ⚡️ [Sai Ashish's Portfolio Sheet](https://saiashish9.vercel.app/en/dsa?category=2)
+- ✅ [Handle](https://leetcode.com/u/SaiAshish/)
 
 ---
 
