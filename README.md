@@ -14,7 +14,7 @@
 
 ---
 
-## 📂 Contents (519+)
+## 📂 Contents (520+)
 
 1. **Two Pointers (1-18, 18)**
 
@@ -770,6 +770,7 @@
 
     1. [Next Palindrome]()
     2. [Add 0 or K]()
+    3. [Wrong Binary Search]()
 
 ---
 
