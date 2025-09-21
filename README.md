@@ -14,7 +14,7 @@
 
 ---
 
-## 📂 Contents (516+)
+## 📂 Contents (519+)
 
 1. **Two Pointers (1-18, 18)**
 
@@ -760,7 +760,13 @@
     1. [All Paths From Source To Destination]()
     2. [Valid Arrangement of Pairs]()
 
-80. **Additional (515-516)**:
+80. **GCD (515-517, 3)**:
+    
+    1. [Basic]()
+    2. [Euclidean Algorithm]()
+    3. [Stein’s Algorithm]()
+
+81. **Additional (518-519)**:
 
     1. [Next Palindrome]()
     2. [Add 0 or K]()
