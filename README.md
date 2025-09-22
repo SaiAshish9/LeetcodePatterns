@@ -76,12 +76,14 @@
    5. [Shortest SubArray with Sum at Least K](./prefixSum/q862/ShortestSubArrayWithSumAtLeastK.java)
    6. [SubArray Sums Divisible by K](./prefixSum/q974/SubArraySumsDivisibleByK.java)
 
-5. **Binary Search + Prefix Sum (50-55, 6)**
+5. **Binary Search + Prefix Sum (50-53, 4)**
 
    1. [Split Array Largest Sum](./binarySearchAndPrefixSum/q410/SplitArrayLargestSum.java)
    2. [Koko Eating Bananas](./binarySearchAndPrefixSum/q875/KokoEatingBananas.java)
    3. [Minimum Number Of Days To Make M Bouquets](./binarySearchAndPrefixSum/q1482/MinimumNumberOfDaysToMakeMBouquets.java)
    4. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/MinimumTimeToCompleteTrips.java)
+   5. []()
+   6. []()
 
 6. **Monotonic Queue (56-61, 5)**
 
@@ -761,7 +763,7 @@
     2. [Valid Arrangement of Pairs]()
 
 80. **GCD (515-517, 3)**:
-    
+
     1. [Basic]()
     2. [Euclidean Algorithm]()
     3. [Stein’s Algorithm]()
