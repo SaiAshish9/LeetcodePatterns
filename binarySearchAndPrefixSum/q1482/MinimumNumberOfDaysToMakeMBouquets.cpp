@@ -99,8 +99,9 @@ private:
         int bouquets = 0;
         int flowers = 0;
 
-        for (int bloom : bloomDay)
+        for (int i = 0; i < bloomDay.size(); i++)
         {
+            int bloom = bloomDay[i];
             if (bloom <= day)
             {
                 flowers++;
