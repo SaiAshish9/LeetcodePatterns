@@ -58,3 +58,55 @@ Loop ends → Answer = 3
 
 ------------------------------------------------------------
 */
+
+#include <stdio.h>
+#include <stdbool.h>
+
+bool canMake(int bloomDay[], int n, int m, int k, int day) {
+    int bouquets = 0;
+    int flowers = 0;
+
+    for (int i = 0; i < n; i++) {
+        if (bloomDay[i] <= day) {
+            flowers++;
+            if (flowers == k) {
+                bouquets++;
+                flowers = 0;
+            }
+        } else {
+            flowers = 0;
+        }
+    }
+
+    return bouquets >= m;
+}
+
+int minDays(int bloomDay[], int n, int m, int k) {
+    long long totalFlowers = (long long)m * k;
+    if (totalFlowers > n)
+        return -1; // Not enough flowers
+
+    int low = 1, high = 1000000000; // 1e9
+    int result = -1;
+
+    while (low <= high) {
+        int mid = low + (high - low) / 2;
+        if (canMake(bloomDay, n, m, k, mid)) {
+            result = mid;
+            high = mid - 1; // Try earlier day
+        } else {
+            low = mid + 1; // Need more time
+        }
+    }
+
+    return result;
+}
+
+int main() {
+    int bloomDay[] = {1, 10, 3, 10, 2};
+    int n = sizeof(bloomDay) / sizeof(bloomDay[0]);
+    int m = 3, k = 1;
+
+    printf("%d\n", minDays(bloomDay, n, m, k)); // Output: 3
+    return 0;
+}
