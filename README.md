@@ -76,7 +76,7 @@
    5. [Shortest SubArray with Sum at Least K](./prefixSum/q862/ShortestSubArrayWithSumAtLeastK.java)
    6. [SubArray Sums Divisible by K](./prefixSum/q974/SubArraySumsDivisibleByK.java)
 
-5. **Binary Search + Prefix Sum (50-53, 4)**
+5. **Binary Search + Prefix Sum (50-55, 6)**
 
    1. [Split Array Largest Sum](./binarySearchAndPrefixSum/q410/SplitArrayLargestSum.java)
    2. [Koko Eating Bananas](./binarySearchAndPrefixSum/q875/KokoEatingBananas.java)
