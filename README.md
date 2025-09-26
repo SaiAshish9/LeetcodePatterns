@@ -80,10 +80,10 @@
 
    1. [Split Array Largest Sum](./binarySearchAndPrefixSum/q410/SplitArrayLargestSum.java)
    2. [Koko Eating Bananas](./binarySearchAndPrefixSum/q875/KokoEatingBananas.java)
-   3. [Minimum Number Of Days To Make M Bouquets](./binarySearchAndPrefixSum/q1482/MinimumNumberOfDaysToMakeMBouquets.java)
-   4. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/MinimumTimeToCompleteTrips.java)
-   5. [Maximum Candies Allocated to K Children](./binarySearchAndPrefixSum/q2226/MaximumCandiesAllocatedToKChildren.java)
-   6. [Find the Maximum Number of Elements in Subset](./binarySearchAndPrefixSum/q3020/FindTheMaximumNumberOfElementsInSubset.java)
+   3. [Capacity To Ship Packages Within D Days](./binarySearchAndPrefixSum/q1011/CapacityToShipPackagesWithinDDays.java)
+   4. [Minimum Number Of Days To Make M Bouquets](./binarySearchAndPrefixSum/q1482/MinimumNumberOfDaysToMakeMBouquets.java)
+   5. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/MinimumTimeToCompleteTrips.java)
+   6. [Maximum Candies Allocated to K Children](./binarySearchAndPrefixSum/q2226/MaximumCandiesAllocatedToKChildren.java)
 
 6. **Monotonic Queue (56-61, 5)**
 
