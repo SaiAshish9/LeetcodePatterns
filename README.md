@@ -82,8 +82,8 @@
    2. [Koko Eating Bananas](./binarySearchAndPrefixSum/q875/KokoEatingBananas.java)
    3. [Minimum Number Of Days To Make M Bouquets](./binarySearchAndPrefixSum/q1482/MinimumNumberOfDaysToMakeMBouquets.java)
    4. [Minimum Time To Complete Trips](./binarySearchAndPrefixSum/q2187/MinimumTimeToCompleteTrips.java)
-   5. []()
-   6. []()
+   5. [Maximum Candies Allocated to K Children](./binarySearchAndPrefixSum/q2226/MaximumCandiesAllocatedToKChildren.java)
+   6. [Find the Maximum Number of Elements in Subset](./binarySearchAndPrefixSum/q3020/FindTheMaximumNumberOfElementsInSubset.java)
 
 6. **Monotonic Queue (56-61, 5)**
 
