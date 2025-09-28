@@ -192,6 +192,8 @@
     13. [Second Minimum Node In a Binary Tree](q671)
     14. [Subtree of Another Tree](q572)
     15. [Sum of Root To Leaf Binary Numbers](q1022)
+    16. [Depth from root to target]()
+    17. [Max Depth]()
 
 13. **Binary Tree InOrder Traversal (146-149, 4)**:
 
