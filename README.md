@@ -240,9 +240,11 @@
     8. [Symmetric Tree](q101)
     9. [Longest ZigZag Path In A Binary Tree](q1372)
 
-17. **Binary Search Tree (175, 1)**:
+17. **Binary Search Tree (175, 3)**:
 
-    1. [Insert, Delete And Search Operations]()
+    1. [Insert Operation]()
+    2. [Delete Operation]()
+    3. [Search Operation]()
 
 18. **Binary Search Tree PreOrder Traversal (176-178, 3)**:
 
