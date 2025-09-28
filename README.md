@@ -186,7 +186,7 @@
     7. [Populating Next Right Pointers in Each Node](q116)
     8. [Sum Root to Leaf Numbers](q129)
     9. [Binary Tree Paths](q257)
-    10. [Serialize and Deserialize Binary Tree](q297)
+    10. [Serialize and Deserialize Binary Tree (Queue & Stack)](q297)
     11. [Sum of Left Leaves](q404)
     12. [Diameter of Binary Tree](q543)
     13. [Second Minimum Node In a Binary Tree](q671)
