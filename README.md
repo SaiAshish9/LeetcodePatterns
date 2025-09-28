@@ -215,24 +215,23 @@
     7. [Distance between 2 nodes]()
     8. [Delete Node in a BST](q450)
 
-15. **Binary Tree Level Order Traversal (, 8)**:
+15. **Binary Tree Level Order Traversal (, 13)**:
 
     1. [Implementation]()
     2. [Kth Largest Sum Of Binary Tree]()
     3. [Mirror Of Binary Tree]()
-    4. [Remove all nodes which lie on path having sum less than k]()
-    5. [Populating Next Right Pointers in Each Node](q116)
-    6. [Binary Tree Maximum Path Sum](q124)
-    7. [Lowest Common Ancestor of a Binary Tree](q236)
-    8. [Depth (Edges)]()
-    9. [Height (Edges)]()
-    10. [Depth (Nodes)]()
-    11. [Depth (Nodes)]()
+    4. [Left View Of Binary Tree]()
+    5. [Right View Of Binary Tree]()
+    7. [Add One Row to Tree]()
+    8. [Even Odd Tree]()
+    9. [Flip Binary Tree](q236)
+    10. [Depth (Edges)]()
+    11. [Height (Edges)]()
+    12. [Depth (Nodes)]()
+    13. [Depth (Nodes)]()
 
 16. **Binary Tree Traversal (, 9)**:
 
-    1. [Left View Of Binary Tree]()
-    2. [Right View Of Binary Tree]()
     3. [Binary Tree Upside Down (Flip Binary Tree)]()
     4. [Binary Tree Vertical Order Traversal]()
     5. [Boundary Level Traversal]()
