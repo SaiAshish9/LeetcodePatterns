@@ -175,7 +175,7 @@
     17. [Index Based: Radix (Stable)]()
     18. [Max Distinct Elements After K Operations]()
 
-12. **Binary Tree PreOrder Traversal (131-145, 15)**:
+12. **Binary Tree PreOrder Traversal (, 17)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
@@ -195,14 +195,14 @@
     16. [Depth from root to target]()
     17. [Max Depth]()
 
-13. **Binary Tree InOrder Traversal (146-149, 4)**:
+13. **Binary Tree InOrder Traversal (, 4)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
     3. [Kth Smallest Element in a BST]()
     4. [Validate BST]()
 
-14. **Binary Tree PostOrder Traversal (150-157, 8)**:
+14. **Binary Tree PostOrder Traversal (, 8)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
@@ -213,7 +213,7 @@
     7. [Lowest Common Ancestor of a Binary Tree](q236)
     8. [Delete Node in a BST](q450)
 
-15. **Binary Tree Level Order Traversal (158-165, 8)**:
+15. **Binary Tree Level Order Traversal (, 8)**:
 
     1. [Implementation]()
     2. [Kth Largest Sum Of Binary Tree]()
@@ -224,7 +224,7 @@
     7. [Lowest Common Ancestor of a Binary Tree](q236)
     8. [Delete Node in a BST](q450)
 
-16. **Binary Tree Traversal (166-174, 9)**:
+16. **Binary Tree Traversal (, 9)**:
 
     1. [Left View Of Binary Tree]()
     2. [Right View Of Binary Tree]()
