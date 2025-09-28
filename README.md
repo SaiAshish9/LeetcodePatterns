@@ -212,7 +212,8 @@
     4. [Remove all nodes which lie on path having sum less than k]()
     5. [Binary Tree Maximum Path Sum](q124)
     6. [Lowest Common Ancestor of a Binary Tree](q236)
-    7. [Delete Node in a BST](q450)
+    7. [Distance between 2 nodes]()
+    8. [Delete Node in a BST](q450)
 
 15. **Binary Tree Level Order Traversal (, 8)**:
 
