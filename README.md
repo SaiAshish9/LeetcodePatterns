@@ -222,22 +222,22 @@
     3. [Mirror Of Binary Tree]()
     4. [Left View Of Binary Tree]()
     5. [Right View Of Binary Tree]()
-    7. [Add One Row to Tree]()
-    8. [Even Odd Tree]()
-    9. [Flip Binary Tree](q236)
-    10. [Depth (Edges)]()
-    11. [Height (Edges)]()
+    6. [Add One Row to Tree]()
+    7. [Even Odd Tree]()
+    8. [Flip Binary Tree](q236)
+    9. [Depth (Edges)]()
+    10. [Height (Edges)]()
+    11. [Depth (Nodes)]()
     12. [Depth (Nodes)]()
-    13. [Depth (Nodes)]()
 
 16. **Binary Tree Traversal (, 9)**:
 
     3. [Binary Tree Upside Down (Flip Binary Tree)]()
     4. [Binary Tree Vertical Order Traversal]()
-    5. [Boundary Level Traversal]()
-    6. [Same Tree](q100)
-    7. [Symmetric Tree](q101)
-    8. [Vertical Order Traversal Of A Binary Tree](q987)
+    5. [Binary Tree Vertical Order Traversal 2]()
+    6. [Boundary Level Traversal]()
+    7. [Same Tree](q100)
+    8. [Symmetric Tree](q101)
     9. [Longest ZigZag Path In A Binary Tree](q1372)
 
 17. **Binary Search Tree (175, 1)**:
