@@ -197,8 +197,8 @@
 
     1. [Implementation]()
     2. [Stack Implementation]()
-    3. [Construct Binary Tree from PreOrder and InOrder Traversal](q105)
-    4. [Construct Binary Tree from InOrder and PostOrder Traversal](q106)
+    3. [Kth Smallest Element in a BST]()
+    4. [Validate BST]()
 
 14. **Binary Tree PostOrder Traversal (150-157, 8)**:
 
