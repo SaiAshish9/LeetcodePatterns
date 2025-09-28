@@ -224,7 +224,10 @@
     5. [Populating Next Right Pointers in Each Node](q116)
     6. [Binary Tree Maximum Path Sum](q124)
     7. [Lowest Common Ancestor of a Binary Tree](q236)
-    8. [Delete Node in a BST](q450)
+    8. [Depth (Edges)]()
+    9. [Height (Edges)]()
+    10. [Depth (Nodes)]()
+    11. [Depth (Nodes)]()
 
 16. **Binary Tree Traversal (, 9)**:
 
