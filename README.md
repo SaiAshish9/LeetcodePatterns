@@ -202,16 +202,15 @@
     3. [Kth Smallest Element in a BST]()
     4. [Validate BST]()
 
-14. **Binary Tree PostOrder Traversal (, 8)**:
+14. **Binary Tree PostOrder Traversal (, 7)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
     3. [AmazonDigitalProductsVersions]()
     4. [Remove all nodes which lie on path having sum less than k]()
-    5. [Populating Next Right Pointers in Each Node](q116)
-    6. [Binary Tree Maximum Path Sum](q124)
-    7. [Lowest Common Ancestor of a Binary Tree](q236)
-    8. [Delete Node in a BST](q450)
+    5. [Binary Tree Maximum Path Sum](q124)
+    6. [Lowest Common Ancestor of a Binary Tree](q236)
+    7. [Delete Node in a BST](q450)
 
 15. **Binary Tree Level Order Traversal (, 8)**:
 
