@@ -175,7 +175,7 @@
     17. [Index Based: Radix (Stable)]()
     18. [Max Distinct Elements After K Operations]()
 
-12. **Binary Tree PreOrder Traversal (, 17)**:
+12. **Binary Tree PreOrder Traversal (, 19)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
@@ -185,15 +185,17 @@
     6. [Flatten Binary Tree to Linked List](q114)
     7. [Populating Next Right Pointers in Each Node](q116)
     8. [Sum Root to Leaf Numbers](q129)
-    9. [Binary Tree Paths](q257)
-    10. [Serialize and Deserialize Binary Tree (Queue & Stack)](q297)
-    11. [Sum of Left Leaves](q404)
-    12. [Diameter of Binary Tree](q543)
-    13. [Second Minimum Node In a Binary Tree](q671)
-    14. [Subtree of Another Tree](q572)
-    15. [Sum of Root To Leaf Binary Numbers](q1022)
-    16. [Depth from root to target]()
-    17. [Max Depth]()
+    9. [Sum Root to Leaf Binary Numbers]()
+    10. [Binary Tree Paths](q257)
+    11. [Serialize and Deserialize Binary Tree (Queue)](q297)
+    12. [Serialize and Deserialize Binary Tree (DFS)](q297)
+    13. [Sum of Left Leaves](q404)
+    14. [Diameter of Binary Tree](q543)
+    15. [Second Minimum Node In a Binary Tree](q671)
+    16. [Subtree of Another Tree](q572)
+    17. [Sum of Root To Leaf Binary Numbers](q1022)
+    18. [Depth from root to target]()
+    19. [Max Depth]()
 
 13. **Binary Tree InOrder Traversal (, 4)**:
 
