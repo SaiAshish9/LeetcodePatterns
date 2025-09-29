@@ -273,7 +273,8 @@
     6. [Shortest Path with Alternating Colors](q1129)
     7. [Frog Position After T Seconds](q1377)
     8. [All Paths From Source To Destination]()
-    9. [All Paths From Root To Leaves]()
+    9. [All Paths From Root To Leaves Using Current ArrayList]()
+    10. [All Paths From Root To Leaves Using Current Primitive Type Int Array]()
 
 22. **Graph Coloring (191, 1)**:
 
@@ -378,11 +379,11 @@
     1. [Single Source Shortest Path: Dijkstra]()
     2. [Single Source Shortest Path With Negative Weights: Bellman-Ford]()
     3. [All Pairs Shortest Path: Flyod Warshall]()
-    4. [A* Search]()
+    4. [A\* Search]()
     5. [Network Delay Time]()
     6. [Uber Travel Agent]()
     7. [Microsoft OA]()
-    10. [Cheapest Flight With K Stops]()
+    8. [Cheapest Flight With K Stops]()
 
 33. **Strongly Connected Components (266-268, 3)**:
 
