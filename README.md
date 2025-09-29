@@ -263,11 +263,12 @@
     1. [Lowest Common Ancestor of a Binary Search Tree](q235)
     2. [Delete Node in a BST](q450)
 
-21. **N-Ary Tree (182-183, 2)**:
+21. **N-Ary Tree (, 4)**:
 
     1. [Traversal]()
     2. [Sum Of Distances In A N Ary Tree Using LCA and Depth]()
     3. [Distance from root to target in n-ary tree]()
+    4. [Amazon Away Team Peers]()
 
 22. **Segment Tree (337-345, 9)**:
 
