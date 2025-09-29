@@ -269,6 +269,8 @@
     2. [Sum Of Distances In A N Ary Tree Using LCA and Depth]()
     3. [Distance from root to target in n-ary tree]()
     4. [Amazon Away Team Peers]()
+    4. [Binary Lifting And Optimal DP Implementation For Sum Of Distances]()
+
 
 22. **Segment Tree (337-345, 9)**:
 
