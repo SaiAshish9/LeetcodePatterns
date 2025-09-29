@@ -16,31 +16,29 @@ Complexity:
 Time: O(N^2 * H)
 Space: O(N)
 
-Optimal Approach:
-- Use tree DP with 2 DFS passes:
-  1. First DFS: compute size of subtree and sum of distances from root (node 0).
-  2. Second DFS: use parent’s result to compute for children without recomputing from scratch.
-- This reduces complexity to O(N).
+Current Approach (Your Code):
+- Still brute force:
+  * Build an N-ary tree.
+  * For each node i:
+      - Direct neighbors add distance = 1.
+      - For others, find LCA(root, i, j).
+      - Compute distance(i, j) using DFS from LCA.
+  * Accumulate results for each i.
+- Works correctly for small N but inefficient for large inputs.
 
 Complexity:
-Time: O(N)
+Time: O(N^2 * H)
 Space: O(N)
 
-Dry Run:
-Tree:
-       0
-      / \
-     1   2
-        /|\
-       3 4 5
-
-Distances:
-From 0: d(0,1)=1, d(0,2)=1, d(0,3)=2, d(0,4)=2, d(0,5)=2 → sum=8
-From 1: d(1,0)=1, d(1,2)=2, d(1,3)=3, d(1,4)=3, d(1,5)=3 → sum=12
-From 2: d(2,0)=1, d(2,1)=2, d(2,3)=1, d(2,4)=1, d(2,5)=1 → sum=6
-From 3: d(3,2)=1, d(3,0)=2, d(3,1)=3, d(3,4)=2, d(3,5)=2 → sum=10
-From 4: d(4,2)=1, d(4,0)=2, d(4,1)=3, d(4,3)=2, d(4,5)=2 → sum=10
-From 5: d(5,2)=1, d(5,0)=2, d(5,1)=3, d(5,3)=2, d(5,4)=2 → sum=10
+Optimal Approach (Tree DP in O(N)):
+- Use two DFS passes:
+  1. First DFS:
+     * Compute subtree sizes.
+     * Compute sum of distances from root (node 0).
+  2. Second DFS:
+     * Propagate results from parent to child using:
+       ans[child] = ans[parent] - count[child] + (N - count[child])
+- Complexity: O(N)
 
 Final Result = [8, 12, 6, 10, 10, 10]
 */
