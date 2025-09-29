@@ -263,7 +263,7 @@
     1. [Lowest Common Ancestor of a Binary Search Tree](q235)
     2. [Delete Node in a BST](q450)
 
-21. **Graph (184-190, 7)**:
+21. **Graph (184-190, 10)**:
 
     1. [Clone Graph](q133)
     2. [Is Graph Bipartite?](q785)
