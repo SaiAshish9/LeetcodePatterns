@@ -271,7 +271,6 @@
     4. [Amazon Away Team Peers]()
     4. [Binary Lifting For Sum Of Distances (N^2 Log N)]()
 
-
 22. **Segment Tree (337-345, 9)**:
 
     1. [Implementation]()
