@@ -269,7 +269,7 @@
     2. [Sum Of Distances In A N Ary Tree Using LCA and Depth]()
     3. [Distance from root to target in n-ary tree]()
     4. [Amazon Away Team Peers]()
-    4. [Binary Lifting And Optimal DP Implementation For Sum Of Distances]()
+    4. [Binary Lifting For Sum Of Distances (N^2 Log N)]()
 
 
 22. **Segment Tree (337-345, 9)**:
@@ -300,7 +300,7 @@
     2. [Is Graph Bipartite?](q785)
     3. [Cheapest Flights Within K Stops](q787)
     4. [Find Eventual Safe States](q802)
-    5. [Sum of Distances in Tree: Binary Lifting](q834)
+    5. [Sum of Distances in Tree: Optimal DP (O(N))](q834)
     6. [Shortest Path with Alternating Colors](q1129)
     7. [Frog Position After T Seconds](q1377)
     8. [All Paths From Source To Destination]()
