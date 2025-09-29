@@ -1,3 +1,50 @@
+/*
+Input:
+n = 6
+edges = [[0,1],[0,2],[2,3],[2,4],[2,5]]
+
+Output:
+[8,12,6,10,10,10]
+
+Brute Force Approach:
+- For each node i, compute distance to every other node j.
+- Use LCA (Lowest Common Ancestor) + DFS to calculate distance(i,j).
+- Sum them up for each i.
+- Time complexity: O(N^2 * H) ≈ O(N^3) in worst case (since each distance query may traverse tree height).
+
+Complexity:
+Time: O(N^2 * H)
+Space: O(N)
+
+Optimal Approach:
+- Use tree DP with 2 DFS passes:
+  1. First DFS: compute size of subtree and sum of distances from root (node 0).
+  2. Second DFS: use parent’s result to compute for children without recomputing from scratch.
+- This reduces complexity to O(N).
+
+Complexity:
+Time: O(N)
+Space: O(N)
+
+Dry Run:
+Tree:
+       0
+      / \
+     1   2
+        /|\
+       3 4 5
+
+Distances:
+From 0: d(0,1)=1, d(0,2)=1, d(0,3)=2, d(0,4)=2, d(0,5)=2 → sum=8
+From 1: d(1,0)=1, d(1,2)=2, d(1,3)=3, d(1,4)=3, d(1,5)=3 → sum=12
+From 2: d(2,0)=1, d(2,1)=2, d(2,3)=1, d(2,4)=1, d(2,5)=1 → sum=6
+From 3: d(3,2)=1, d(3,0)=2, d(3,1)=3, d(3,4)=2, d(3,5)=2 → sum=10
+From 4: d(4,2)=1, d(4,0)=2, d(4,1)=3, d(4,3)=2, d(4,5)=2 → sum=10
+From 5: d(5,2)=1, d(5,0)=2, d(5,1)=3, d(5,3)=2, d(5,4)=2 → sum=10
+
+Final Result = [8, 12, 6, 10, 10, 10]
+*/
+
 package nAryTree.q834;
 
 import java.util.*;
@@ -93,6 +140,6 @@ public class SumOfDistancesInANAryTree {
         buildTree(nodeMap, edges);
 
         List<Integer> result = computeSumDistances(nodeMap, n);
-        System.out.println(result);
+        System.out.println(result); // Output: [8, 12, 6, 10, 10, 10]
     }
 }
