@@ -263,7 +263,29 @@
     1. [Lowest Common Ancestor of a Binary Search Tree](q235)
     2. [Delete Node in a BST](q450)
 
-21. **Graph (184-190, 11)**:
+21. **Segment Tree (337-345, 9)**:
+
+    1. [Implementation]()
+    2. [What is the sum from index l to r?]()
+    3. [What is the minimum value between l and r? (Range Minimum Query (RMQ))]()
+    4. [Minimum/Maximum]()
+    5. [GCD]()
+    6. [Range Sum Query - Mutable](q307)
+    7. [Count of Smaller Numbers After Self](q315)
+    8. [Range Module](q715)
+    9. [My Calendar III](q732)
+
+22. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
+
+    1. [Implementation]()
+    2. [Range Sum Query - Mutable](q307)
+    3. [Count of Smaller Numbers After Self](q315)
+    4. [Count of Range Sum]()
+    5. [Reverse Pairs]()
+    6. [Create Sorted Array through Instructions Inversion Count]()
+    7. [K-th smallest/largest elements Dynamic frequency counting]()
+
+23. **Graph (184-190, 11)**:
 
     1. [Clone Graph](q133)
     2. [Is Graph Bipartite?](q785)
@@ -277,33 +299,33 @@
     10. [All Paths From Root To Leaves Using Current Primitive Type Int Array]()
     11. [CRED OA: Visit All Cities Exactly Once]()
 
-22. **Graph Coloring (191, 1)**:
+24. **Graph Coloring (191, 1)**:
 
     1. [Implementation]()
 
-23. **Topological Sorting (192-195, 4)**:
+25. **Topological Sorting (192-195, 4)**:
 
     1. [DFS Implementation]()
     2. [Kahn's BFS Implementation]()
     3. [Course Schedule]()
     4. [Course Schedule 2]()
 
-24. **Trie (196-199, 5)**:
+26. **Trie (196-199, 5)**:
 
     1. [Implement Trie (Prefix Tree)](q208)
     2. [Design Add and Search Words Data Structure](q211)
     3. [Word Search II](q212)
     4. [Longest Word With All Prefixes](q1858)
 
-25. **Red Black Tree (200, 1)**:
+27. **Red Black Tree (200, 1)**:
 
     1. [Implementation]()
 
-26. **AVL Tree (201, 1)**:
+28. **AVL Tree (201, 1)**:
 
     1. [Implementation]()
 
-27. **Backtracking (202-224, 23)**:
+29. **Backtracking (202-224, 23)**:
 
     1. [Time Converter]()
     2. [Letter Combinations of a Phone Number](q17)
@@ -329,7 +351,7 @@
     22. [Smallest String Starting From Leaf](q988)
     23. [The Knight’s Tour](q2664)
 
-28. **Matrixes (225-249, 25)**
+30. **Matrixes (225-249, 25)**
 
     1. [Islands: Number of Islands](q200)
     2. [Islands: Island Perimeter](q463)
@@ -357,17 +379,17 @@
     24. [Coupang: Directions Q]()
     25. [Count number of subMatrixes with all 1]()
 
-29. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
+31. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
 
     1. [Implementation]()
     2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
 
-30. **Minimum Spanning Tree: Kruskal Algorithm (252-253, 2)**:
+32. **Minimum Spanning Tree: Kruskal Algorithm (252-253, 2)**:
 
     1. [Implementation]()
     2. [Optimize Water Distribution in a Village](q1168)
 
-31. **Union Find (254-258 , 5)**:
+33. **Union Find (254-258 , 5)**:
 
     1. [Union By Size]()
     2. [Union By Rank]()
@@ -375,7 +397,7 @@
     4. [Graph Valid Tree](q261)
     5. [Number of Connected Components in an Undirected Graph](q323)
 
-32. **Shortest Path Algorithms (259-265, 7)**:
+34. **Shortest Path Algorithms (259-265, 7)**:
 
     1. [Single Source Shortest Path: Dijkstra]()
     2. [Single Source Shortest Path With Negative Weights: Bellman-Ford]()
@@ -386,33 +408,33 @@
     7. [Microsoft OA]()
     8. [Cheapest Flight With K Stops]()
 
-33. **Strongly Connected Components (266-268, 3)**:
+35. **Strongly Connected Components (266-268, 3)**:
 
     1. [Kosaraju Algorithm]()
     2. [Tarjan's Algorithm]()
     3. [Critical Components in a Network]()
 
-34. **BiConnected Component (269, 1)**:
+36. **BiConnected Component (269, 1)**:
 
     1. [Detection]()
 
-35. **Articulation Points (270, 1)**:
+37. **Articulation Points (270, 1)**:
 
     1. [Detection]()
 
-36. **Eulerian Circuit (271, 1)**:
+38. **Eulerian Circuit (271, 1)**:
 
     1. [Detection]()
 
-37. **De Brujin Graph (272, 1)**:
+39. **De Brujin Graph (272, 1)**:
 
     1. [Detection]()
 
-38. **Hamiltonian Cycle (273, 1)**:
+40. **Hamiltonian Cycle (273, 1)**:
 
     1. [Detection]()
 
-39. **Math (274-292, 19)**:
+41. **Math (274-292, 19)**:
 
     1. [Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space]()
     2. [Reverse Integer](q7)
@@ -434,31 +456,31 @@
     18. [Convert to base of 2]()
     19. [Count of pairs that can be removed from Array without changing the Mean]()
 
-40. **Line Sweep (293-295, 3)**:
+42. **Line Sweep (293-295, 3)**:
 
     1. [Implementation]()
     2. [Minimum Meeting Rooms]()
     3. [Skyline Problem]()
 
-41. **Divide And Conquer (296, 1)**:
+43. **Divide And Conquer (296, 1)**:
 
     1. [Implementation]()
 
-42. **Randomized (297-299, 3)**:
+44. **Randomized (297-299, 3)**:
 
     1. [Kth Largest Element in an Array](q215)
     2. [Linked List Random Node](q382)
     3. [Shuffle an Array](q384)
 
-43. **Reservoir Sampling (300, 1)**:
+45. **Reservoir Sampling (300, 1)**:
 
     1. [Linked List Random Node](q382)
 
-44. **Rejection Sampling (301, 1)**:
+46. **Rejection Sampling (301, 1)**:
 
     1. [Implement Rand10() Using Rand7()](q470)
 
-45. **Suffix Array (302-307, 6)**:
+47. **Suffix Array (302-307, 6)**:
 
     1. [LCP Array]() (Suffix Algorithm)
     2. [Implementation]()
@@ -467,7 +489,7 @@
     5. [Number of Distinct Substrings](q1698)
     6. [MultiString LCP]()
 
-46. **String Matching (308-312, 5)**:
+48. **String Matching (308-312, 5)**:
 
     1. [Longest Prefix Suffix]() (KMP Algorithm)
     2. [strStr Implementation]()
@@ -475,21 +497,21 @@
     4. [Rabin Karp Algorithm]() (Rolling Hash, Spurious Hits)
     5. [Find All Anagrams Of A String]()
 
-47. **NP Hard And NP Complete (313, 1)**:
+49. **NP Hard And NP Complete (313, 1)**:
 
     1. [NP Hard And NP Complete Examples]()
 
-48. **Rolling Hash (314-316, 3)**:
+50. **Rolling Hash (314-316, 3)**:
 
     1. [Implementation]()
     2. [strStr]()
     3. [findDuplicateSubstring]()
 
-49. **Concurrency (317, 1)**:
+51. **Concurrency (317, 1)**:
 
     1. [Implementation]()
 
-50. **Greedy (318-329, 12)**:
+52. **Greedy (318-329, 12)**:
 
     1. [Fractional Knapsack]()
     2. [Activity Selection]()
@@ -504,7 +526,7 @@
     11. [Minimum Number of Arrows to Burst Balloons ]()
     12. [Partition Labels]()
 
-51. **Hash Table (330-336, 7)**:
+53. **Hash Table (330-336, 7)**:
 
     1. [Two Sum]()
     2. [Design HashMap]()
@@ -513,28 +535,6 @@
     5. [Ransom Note]()
     6. [4Sum II]()
     7. [Valid Anagram]()
-
-52. **Segment Tree (337-345, 9)**:
-
-    1. [Implementation]()
-    2. [What is the sum from index l to r?]()
-    3. [What is the minimum value between l and r? (Range Minimum Query (RMQ))]()
-    4. [Minimum/Maximum]()
-    5. [GCD]()
-    6. [Range Sum Query - Mutable](q307)
-    7. [Count of Smaller Numbers After Self](q315)
-    8. [Range Module](q715)
-    9. [My Calendar III](q732)
-
-53. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
-
-    1. [Implementation]()
-    2. [Range Sum Query - Mutable](q307)
-    3. [Count of Smaller Numbers After Self](q315)
-    4. [Count of Range Sum]()
-    5. [Reverse Pairs]()
-    6. [Create Sorted Array through Instructions Inversion Count]()
-    7. [K-th smallest/largest elements Dynamic frequency counting]()
 
 54. **Traveling Salesman Problem (353, 1)**:
 
