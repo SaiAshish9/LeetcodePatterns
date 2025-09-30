@@ -37,6 +37,26 @@ public class SumOfDistancesBinaryLifting {
                 u = up[u][k];
         }
 
+/*
+That line:
+
+if (((diff >> k) & 1) == 1)
+
+is a bitwise check. Let’s break it down:
+
+diff >> k → right-shifts the number diff by k positions.
+This effectively brings the k-th bit (counting from 0 at the least significant bit) into the least significant bit (LSB) position.
+
+& 1 → bitwise AND with 1.
+This extracts the LSB of the shifted result. So it’s either 0 or 1.
+
+== 1 → checks whether that extracted bit is set (1) or not (0).
+
+🔎 Meaning:
+The condition is true if the k-th bit of diff is set to 1.
+Otherwise, it’s false.
+ */
+
         if (u == v) return u;
 
         for (int k = LOG - 1; k >= 0; k--) {
