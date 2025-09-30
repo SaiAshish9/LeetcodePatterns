@@ -296,7 +296,7 @@
 24. **Graph (184-190, 11)**:
 
     1. [Clone Graph](q133)
-    2. [Is Graph Bipartite?](q785)
+    2. [Is Graph Bipartite? (2 Colors)](q785)
     3. [Cheapest Flights Within K Stops](q787)
     4. [Find Eventual Safe States](q802)
     5. [Sum of Distances in Tree: Optimal DP (O(N))](q834)
@@ -311,6 +311,7 @@
 25. **Graph Coloring (191, 1)**:
 
     1. [Implementation]()
+    2. [For 2 Colors: BiPartile Check]()
 
 26. **Topological Sorting (192-195, 4)**:
 
