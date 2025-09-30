@@ -37,7 +37,20 @@ public class SumOfDistancesBinaryLifting {
                 u = up[u][k];
         }
 
+
+
 /*
+if (k & (1 << j)) {
+    node = up[node][j];
+}
+means:
+👉 “If the j-th bit of k is set, then move the node upward by 
+2
+𝑗
+2 
+j
+  steps.”
+
 That line:
 
 if (((diff >> k) & 1) == 1)
