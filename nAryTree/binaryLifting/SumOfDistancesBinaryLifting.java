@@ -45,7 +45,8 @@ if (((diff >> k) & 1) == 1)
 is a bitwise check. Let’s break it down:
 
 diff >> k → right-shifts the number diff by k positions.
-This effectively brings the k-th bit (counting from 0 at the least significant bit) into the least significant bit (LSB) position.
+This effectively brings the k-th bit (counting from 0 at the least significant bit) into the 
+least significant bit (LSB) position.
 
 & 1 → bitwise AND with 1.
 This extracts the LSB of the shifted result. So it’s either 0 or 1.
