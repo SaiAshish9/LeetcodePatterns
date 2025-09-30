@@ -116,6 +116,8 @@ Otherwise, it’s false.
         up = new int[N][LOG];
         depth = new int[N];
         dfs(0, -1);
+        System.out.println(Arrays.deepToString(up));
+        System.out.println(Arrays.toString(depth));
 
         List<Integer> result = computeSumDistances(N);
         System.out.println(result); // [8, 12, 6, 10, 10, 10]
