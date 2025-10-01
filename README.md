@@ -271,7 +271,7 @@
     4. [Amazon Away Team Peers]()
     5. [Binary Lifting For Sum Of Distances (N^2 Log N)]()
 
-22. **Trie (196-199, 5)**:
+22. **Trie (196-199, 3)**:
 
     1. [Implement Trie (Prefix Tree)](q208)
     2. [Design Add and Search Words Data Structure](q211)
