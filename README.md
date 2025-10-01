@@ -287,10 +287,10 @@
     5. [GCD]()
     6. [LCM]()
     7. [FrequencyCounting]()
-    6. [Range Sum Query - Mutable](q307)
-    7. [Count of Smaller Numbers After Self](q315)
-    8. [Range Module](q715)
-    9. [My Calendar III](q732)
+    8. [Range Sum Query - Mutable](q307)
+    9. [Count of Smaller Numbers After Self](q315)
+    10. [Range Module](q715)
+    11. [My Calendar III](q732)
 
 24. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
 
@@ -310,7 +310,15 @@
 
     1. [Implementation]()
 
-27. **Graph (184-190, 11)**:
+27. **Union Find (254-258 , 5)**:
+
+    1. [Union By Size]()
+    2. [Union By Rank]()
+    3. [Cycle Detection]()
+    4. [Graph Valid Tree](q261)
+    5. [Number of Connected Components in an Undirected Graph](q323)
+
+28. **Graph (184-190, 11)**:
 
     1. [Clone Graph](q133)
     2. [Is Graph Bipartite? (2 Colors)](q785)
@@ -325,19 +333,19 @@
     10. [All Paths From Root To Leaves Using Current Primitive Type Int Array]()
     11. [CRED OA: Visit All Cities Exactly Once]()
 
-28. **Graph Coloring (191, 1)**:
+29. **Graph Coloring (191, 1)**:
 
     1. [Implementation]()
     2. [For 2 Colors: BiPartile Check]()
 
-29. **Topological Sorting (192-195, 4)**:
+30. **Topological Sorting (192-195, 4)**:
 
     1. [DFS Implementation]()
     2. [Kahn's BFS Implementation]()
     3. [Course Schedule]()
     4. [Course Schedule 2]()
 
-30. **Backtracking (202-224, 23)**:
+31. **Backtracking (202-224, 23)**:
 
     1. [Time Converter]()
     2. [Letter Combinations of a Phone Number](q17)
@@ -363,7 +371,7 @@
     22. [Smallest String Starting From Leaf](q988)
     23. [The Knight’s Tour](q2664)
 
-31. **Matrixes (225-249, 25)**
+32. **Matrixes (225-249, 25)**
 
     1. [Islands: Number of Islands](q200)
     2. [Islands: Island Perimeter](q463)
@@ -391,23 +399,15 @@
     24. [Coupang: Directions Q]()
     25. [Count number of subMatrixes with all 1]()
 
-32. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
+33. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
 
     1. [Implementation]()
     2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
 
-33. **Minimum Spanning Tree: Kruskal Algorithm (252-253, 2)**:
+34. **Minimum Spanning Tree: Kruskal Algorithm (252-253, 2)**:
 
     1. [Implementation]()
     2. [Optimize Water Distribution in a Village](q1168)
-
-34. **Union Find (254-258 , 5)**:
-
-    1. [Union By Size]()
-    2. [Union By Rank]()
-    3. [Cycle Detection]()
-    4. [Graph Valid Tree](q261)
-    5. [Number of Connected Components in an Undirected Graph](q323)
 
 35. **Shortest Path Algorithms (259-265, 7)**:
 
