@@ -278,15 +278,7 @@
     3. [Word Search II](q212)
     4. [Longest Word With All Prefixes](q1858)
 
-23. **Red Black Tree (200, 1)**:
-
-    1. [Implementation]()
-
-24. **AVL Tree (201, 1)**:
-
-    1. [Implementation]()
-
-25. **Segment Tree (337-345, 9)**:
+23. **Segment Tree (337-345, 9)**:
 
     1. [Implementation]()
     2. [What is the sum from index l to r?]()
@@ -298,7 +290,7 @@
     8. [Range Module](q715)
     9. [My Calendar III](q732)
 
-26. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
+24. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
 
     1. [Implementation]()
     2. [Range Sum Query - Mutable](q307)
@@ -307,6 +299,14 @@
     5. [Reverse Pairs]()
     6. [Create Sorted Array through Instructions Inversion Count]()
     7. [K-th smallest/largest elements Dynamic frequency counting]()
+
+25. **Red Black Tree (200, 1)**:
+
+    1. [Implementation]()
+
+26. **AVL Tree (201, 1)**:
+
+    1. [Implementation]()
 
 27. **Graph (184-190, 11)**:
 
