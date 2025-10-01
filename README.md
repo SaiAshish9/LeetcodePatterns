@@ -269,9 +269,24 @@
     2. [Sum Of Distances In A N Ary Tree Using LCA and Depth]()
     3. [Distance from root to target in n-ary tree]()
     4. [Amazon Away Team Peers]()
-    4. [Binary Lifting For Sum Of Distances (N^2 Log N)]()
+    5. [Binary Lifting For Sum Of Distances (N^2 Log N)]()
 
-22. **Segment Tree (337-345, 9)**:
+22. **Trie (196-199, 5)**:
+
+    1. [Implement Trie (Prefix Tree)](q208)
+    2. [Design Add and Search Words Data Structure](q211)
+    3. [Word Search II](q212)
+    4. [Longest Word With All Prefixes](q1858)
+
+23. **Red Black Tree (200, 1)**:
+
+    1. [Implementation]()
+
+24. **AVL Tree (201, 1)**:
+
+    1. [Implementation]()
+
+25. **Segment Tree (337-345, 9)**:
 
     1. [Implementation]()
     2. [What is the sum from index l to r?]()
@@ -283,7 +298,7 @@
     8. [Range Module](q715)
     9. [My Calendar III](q732)
 
-23. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
+26. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
 
     1. [Implementation]()
     2. [Range Sum Query - Mutable](q307)
@@ -293,7 +308,7 @@
     6. [Create Sorted Array through Instructions Inversion Count]()
     7. [K-th smallest/largest elements Dynamic frequency counting]()
 
-24. **Graph (184-190, 11)**:
+27. **Graph (184-190, 11)**:
 
     1. [Clone Graph](q133)
     2. [Is Graph Bipartite? (2 Colors)](q785)
@@ -308,32 +323,17 @@
     10. [All Paths From Root To Leaves Using Current Primitive Type Int Array]()
     11. [CRED OA: Visit All Cities Exactly Once]()
 
-25. **Graph Coloring (191, 1)**:
+28. **Graph Coloring (191, 1)**:
 
     1. [Implementation]()
     2. [For 2 Colors: BiPartile Check]()
 
-26. **Topological Sorting (192-195, 4)**:
+29. **Topological Sorting (192-195, 4)**:
 
     1. [DFS Implementation]()
     2. [Kahn's BFS Implementation]()
     3. [Course Schedule]()
     4. [Course Schedule 2]()
-
-27. **Trie (196-199, 5)**:
-
-    1. [Implement Trie (Prefix Tree)](q208)
-    2. [Design Add and Search Words Data Structure](q211)
-    3. [Word Search II](q212)
-    4. [Longest Word With All Prefixes](q1858)
-
-28. **Red Black Tree (200, 1)**:
-
-    1. [Implementation]()
-
-29. **AVL Tree (201, 1)**:
-
-    1. [Implementation]()
 
 30. **Backtracking (202-224, 23)**:
 
