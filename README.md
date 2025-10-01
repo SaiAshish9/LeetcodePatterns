@@ -285,6 +285,8 @@
     3. [What is the minimum value between l and r? (Range Minimum Query (RMQ))]()
     4. [Minimum/Maximum]()
     5. [GCD]()
+    6. [LCM]()
+    7. [FrequencyCounting]()
     6. [Range Sum Query - Mutable](q307)
     7. [Count of Smaller Numbers After Self](q315)
     8. [Range Module](q715)
