@@ -346,7 +346,54 @@
     3. [Course Schedule]()
     4. [Course Schedule 2]()
 
-31. **Backtracking (202-224, 23)**:
+31. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
+
+    1. [Implementation]()
+    2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
+
+32. **Minimum Spanning Tree: Kruskal Algorithm (252-253, 2)**:
+
+    1. [Implementation]()
+    2. [Optimize Water Distribution in a Village](q1168)
+
+33. **Shortest Path Algorithms (259-265, 7)**:
+
+    1. [Single Source Shortest Path: Dijkstra]()
+    2. [Single Source Shortest Path With Negative Weights: Bellman-Ford]()
+    3. [All Pairs Shortest Path: Flyod Warshall]()
+    4. [A\* Search]()
+    5. [Network Delay Time]()
+    6. [Uber Travel Agent]()
+    7. [Microsoft OA]()
+    8. [Cheapest Flight With K Stops]()
+
+34. **Strongly Connected Components (266-268, 3)**:
+
+    1. [Kosaraju Algorithm]()
+    2. [Tarjan's Algorithm]()
+    3. [Critical Components in a Network]()
+
+35. **BiConnected Component (269, 1)**:
+
+    1. [Detection]()
+
+36. **Articulation Points (270, 1)**:
+
+    1. [Detection]()
+
+37. **Eulerian Circuit (271, 1)**:
+
+    1. [Detection]()
+
+38. **De Brujin Graph (272, 1)**:
+
+    1. [Detection]()
+
+39. **Hamiltonian Cycle (273, 1)**:
+
+    1. [Detection]()
+
+40. **Backtracking (202-224, 23)**:
 
     1. [Time Converter]()
     2. [Letter Combinations of a Phone Number](q17)
@@ -372,7 +419,7 @@
     22. [Smallest String Starting From Leaf](q988)
     23. [The Knight’s Tour](q2664)
 
-32. **Matrixes (225-249, 25)**
+41. **Matrixes (225-249, 25)**
 
     1. [Islands: Number of Islands](q200)
     2. [Islands: Island Perimeter](q463)
@@ -399,53 +446,6 @@
     23. [Rotate Matrix AntiClockwise by 1 cell]()
     24. [Coupang: Directions Q]()
     25. [Count number of subMatrixes with all 1]()
-
-33. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
-
-    1. [Implementation]()
-    2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
-
-34. **Minimum Spanning Tree: Kruskal Algorithm (252-253, 2)**:
-
-    1. [Implementation]()
-    2. [Optimize Water Distribution in a Village](q1168)
-
-35. **Shortest Path Algorithms (259-265, 7)**:
-
-    1. [Single Source Shortest Path: Dijkstra]()
-    2. [Single Source Shortest Path With Negative Weights: Bellman-Ford]()
-    3. [All Pairs Shortest Path: Flyod Warshall]()
-    4. [A\* Search]()
-    5. [Network Delay Time]()
-    6. [Uber Travel Agent]()
-    7. [Microsoft OA]()
-    8. [Cheapest Flight With K Stops]()
-
-36. **Strongly Connected Components (266-268, 3)**:
-
-    1. [Kosaraju Algorithm]()
-    2. [Tarjan's Algorithm]()
-    3. [Critical Components in a Network]()
-
-37. **BiConnected Component (269, 1)**:
-
-    1. [Detection]()
-
-38. **Articulation Points (270, 1)**:
-
-    1. [Detection]()
-
-39. **Eulerian Circuit (271, 1)**:
-
-    1. [Detection]()
-
-40. **De Brujin Graph (272, 1)**:
-
-    1. [Detection]()
-
-41. **Hamiltonian Cycle (273, 1)**:
-
-    1. [Detection]()
 
 42. **Math (274-292, 19)**:
 
