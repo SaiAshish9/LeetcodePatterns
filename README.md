@@ -351,7 +351,7 @@
     1. [Implementation]()
     2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
 
-32. **Minimum Spanning Tree: Kruskal Algorithm (252-253, 2)**:
+32. **Minimum Spanning Tree: Prims Algorithm (252-253, 2)**:
 
     1. [Implementation]()
     2. [Optimize Water Distribution in a Village](q1168)
