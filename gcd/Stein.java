@@ -1,6 +1,6 @@
 // Stein’s Algorithm (also called the Binary GCD algorithm) is an efficient way to compute the GCD using bitwise operations instead of division/modulo.
 
-package segmentTree.GCD;
+package gcd;
 
 public class Stein {
 

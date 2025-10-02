@@ -1,4 +1,4 @@
-package segmentTree.GCD;
+package gcd;
 
 public class Euclidean {
 
