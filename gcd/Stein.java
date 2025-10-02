@@ -66,4 +66,3 @@ public class Stein {
     gcd(a, b) = gcd(|a-b|/2, min(a, b))
  */
 
- 
