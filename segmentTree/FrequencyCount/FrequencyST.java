@@ -1,4 +1,4 @@
-package segmentTree.Frequency;
+package segmentTree.FrequencyCount;
 
 import java.util.*;
 

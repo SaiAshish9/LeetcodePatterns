@@ -1,4 +1,4 @@
-package segmentTree.GCD;
+package segmentTree.LCM;
 
 import java.util.*;
 
