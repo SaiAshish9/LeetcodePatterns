@@ -792,7 +792,7 @@
 
     1. [Basic]()
     2. [Euclidean Algorithm]()
-    3. [Stein’s Algorithm]()
+    3. [Stein’s Algorithm (Binary GCD, More Efficient)]()
 
 82. **Additional (518-519)**:
 
