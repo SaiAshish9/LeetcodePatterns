@@ -285,13 +285,13 @@
     3. [What is the minimum value between l and r? (Range Minimum Query (RMQ))]()
     4. [Minimum]()
     5. [Maximum]()
-    5. [GCD]()
-    6. [LCM]()
-    7. [FrequencyCounting]()
-    8. [Range Sum Query - Mutable](q307)
+    6. [GCD]()
+    7. [LCM]()
+    8. [FrequencyCounting]()
     9. [Count of Smaller Numbers After Self](q315)
-    10. [Range Module](q715)
-    11. [My Calendar III](q732)
+    10. [Range Sum Query - Mutable](q307)
+    11. [Range Module](q715)
+    12. [My Calendar III](q732)
 
 24. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
 
