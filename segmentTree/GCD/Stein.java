@@ -55,13 +55,13 @@ public class Stein {
  * Stein's Algorithm (Binary GCD)
  *
  * Rules:
- * 1. gcd(0, b) = b and gcd(a, 0) = a
- * 2. If both a and b are even:
- * gcd(a, b) = 2 * gcd(a/2, b/2)
- * 3. If a is even and b is odd:
- * gcd(a, b) = gcd(a/2, b)
- * 4. If a is odd and b is even:
- * gcd(a, b) = gcd(a, b/2)
- * 5. If both are odd:
- * gcd(a, b) = gcd(|a-b|/2, min(a, b))
+ 1. gcd(0, b) = b and gcd(a, 0) = a
+ 2. If both a and b are even:
+    gcd(a, b) = 2 * gcd(a/2, b/2)
+ 3. If a is even and b is odd:
+    gcd(a, b) = gcd(a/2, b)
+ 4. If a is odd and b is even:
+    gcd(a, b) = gcd(a, b/2)
+ 5. If both are odd:
+    gcd(a, b) = gcd(|a-b|/2, min(a, b))
  */
