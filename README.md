@@ -393,10 +393,6 @@
 
     1. [Detection]()
 
-40. **Traveling Salesman Problem ()**:
-    
-    1. [Implementation]()
-
 40. **Backtracking (202-224, 23)**:
 
     1. [Time Converter]()
@@ -450,6 +446,7 @@
     23. [Rotate Matrix AntiClockwise by 1 cell]()
     24. [Coupang: Directions Q]()
     25. [Count number of subMatrixes with all 1]()
+    26. [Traveling Salesman Problem]()
 
 42. **Math (274-292, 19)**:
 
