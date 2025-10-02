@@ -16,6 +16,9 @@ public class Stein {
             a >>= 1;
             b >>= 1;
         }
+        // So now, remember that we’ll have to multiply the result by 2^1 = 2 later.
+        // divide a by 2 until it becomes odd
+        // multiply the result by 2^shift at the end 
 
         // Divide a by 2 until it becomes odd
         while ((a & 1) == 0)
