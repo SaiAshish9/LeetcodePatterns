@@ -27,7 +27,7 @@ public class CycleDetection {
 
         public int find(int u) {
             if (parent[u] != u) {
-                parent[u] = find(u);
+                parent[u] = find(parent[u]);
             }
             return parent[u];
         }
