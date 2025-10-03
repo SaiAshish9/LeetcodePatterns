@@ -25,7 +25,7 @@ public class UF {
             if (x == y)
                 return false;
 
-            parent[v] = u;
+            parent[y] = x;
 
             return true;
         }
