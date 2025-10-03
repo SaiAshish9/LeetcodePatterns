@@ -1,4 +1,4 @@
-package kruskalMST;
+package kruskalMST.implementation;
 
 import java.util.*;
 
