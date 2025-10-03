@@ -316,9 +316,11 @@
     1. [Union By Size]()
     2. [Union By Rank]()
     3. [Simple Union]()
-    4. [Cycle Detection]()
-    5. [Graph Valid Tree](q261)
-    6. [Number of Connected Components in an Undirected Graph](q323)
+    4. [CredOA]()
+    5. [NutanixOA]()
+    6. [Cycle Detection]()
+    7. [Graph Valid Tree](q261)
+    8. [Number of Connected Components in an Undirected Graph](q323)
 
 28. **Graph (184-190, 11)**:
 
