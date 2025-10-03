@@ -311,7 +311,7 @@
 
     1. [Implementation]()
 
-27. **Union Find (254-258 , 5)**:
+27. **Union Find, Disjoint Set Union (254-258 , 5)**:
 
     1. [Union By Size]()
     2. [Union By Rank]()
