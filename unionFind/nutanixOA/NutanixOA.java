@@ -115,4 +115,9 @@ public class NutanixOA {
  * 1 ALICE
  * {ALEX=[1], BOB=[0], ALICE=[0, 2]}
  * 2
+ * Complexity Analysis
+ * Time Complexity: O(N * K) where N is the number of groups and K is the
+ * average number of usernames in each group.
+ * Space Complexity: O(N * K) for storing the map and the Union-Find data
+ * structure.
  */
