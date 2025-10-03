@@ -54,6 +54,12 @@ public class UFRank {
 
 }
 
+// Complexity Analysis
+// Time Complexity: O(α(N)) for both union and find operations, where α is the
+// inverse Ackermann function. This is nearly constant time for all practical
+// values of N.
+// Space Complexity: O(N) for storing the parent and rank arrays.
+
 /*
  * 1
  * 1
