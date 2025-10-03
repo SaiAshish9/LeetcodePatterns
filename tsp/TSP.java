@@ -38,7 +38,9 @@ public class TSP {
         dfs(0, 1, 0, 0, graph, n, minCost, visited);
 
         System.out.println(Arrays.deepToString(graph));
-        System.out.println(minCost[0]);
+        System.out.println(minCost[0]); // Output: 80 (0 -> 1 -> 3 -> 2 -> 0)
+        // Complexity: O(n!)
+        // Space: O(n) for visited array and recursion stack
 
     }
 
