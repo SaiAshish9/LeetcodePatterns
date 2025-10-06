@@ -1,3 +1,5 @@
+package primsMST.q1168;
+
 import java.util.*;
 
 public class Main {
