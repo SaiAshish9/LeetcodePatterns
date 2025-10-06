@@ -354,9 +354,10 @@
     1. [Implementation: MSTs exists only for undirected graphs]() 
     2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
 
-32. **Minimum Spanning Tree: Prims Algorithm (252-253, 2)**:
+32. **Minimum Spanning Tree: Prims Algorithm (252-253, 3)**:
 
     1. [Implementation: MSTs exists only for undirected graphs]()
+    2. [Cheapest Flights Within K Stops]()
     2. [Optimize Water Distribution in a Village](q1168)
 
 33. **Shortest Path Algorithms (259-265, 7)**:
