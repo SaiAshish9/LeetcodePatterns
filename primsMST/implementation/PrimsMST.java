@@ -56,6 +56,10 @@ public class PrimsMST {
 
         int n = 4;
         System.out.println(computePrimsMSTWeight(graph, 0, n)); // 19
+
+        // Complexity Analysis
+        // Time Complexity: O(E log E) where E is the number of edges in the graph.
+        // Space Complexity: O(E) where E is the number of edges in the graph
     }
 
 }
