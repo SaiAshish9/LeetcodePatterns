@@ -349,14 +349,14 @@
     3. [Course Schedule]()
     4. [Course Schedule 2]()
 
-31. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
+31. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**: 
 
-    1. [Implementation]()
+    1. [Implementation: MSTs exists only for undirected graphs]() 
     2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
 
 32. **Minimum Spanning Tree: Prims Algorithm (252-253, 2)**:
 
-    1. [Implementation]()
+    1. [Implementation: MSTs exists only for undirected graphs]()
     2. [Optimize Water Distribution in a Village](q1168)
 
 33. **Shortest Path Algorithms (259-265, 7)**:
