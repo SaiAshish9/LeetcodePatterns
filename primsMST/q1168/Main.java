@@ -11,13 +11,13 @@ public class Main {
             graph
                     .computeIfAbsent(src, k -> new ArrayList<>())
                     .add(new int[] {
-                            src, i + 1, wells[i]
+                            i + 1, wells[i]
                     });
 
             graph
                     .computeIfAbsent(i + 1, k -> new ArrayList<>())
                     .add(new int[] {
-                            i + 1, src, wells[i]
+                            src, wells[i]
                     });
         }
 
@@ -25,17 +25,17 @@ public class Main {
             graph
                     .computeIfAbsent(pipe[0], k -> new ArrayList<>())
                     .add(new int[] {
-                            pipe[0], pipe[1], pipe[2]
+                            pipe[1], pipe[2]
                     });
 
             graph
                     .computeIfAbsent(pipe[1], k -> new ArrayList<>())
                     .add(new int[] {
-                            pipe[1], pipe[0], pipe[2]
+                            pipe[0], pipe[2]
                     });
         }
 
-        PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a[2]));
+        PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a[1]));
         pq.addAll(graph.getOrDefault(src, new ArrayList<>()));
         boolean[] visited = new boolean[n + 1];
         visited[src] = true;
@@ -43,8 +43,8 @@ public class Main {
 
         while (!pq.isEmpty()) {
             int[] curr = pq.poll();
-            int destination = curr[1];
-            int weight = curr[2];
+            int destination = curr[0];
+            int weight = curr[1];
 
             if (visited[destination]) {
                 continue;
@@ -53,7 +53,7 @@ public class Main {
             mstWeight += weight;
 
             for (int[] neighbor : graph.getOrDefault(destination, new ArrayList<>())) {
-                int nextSource = neighbor[1];
+                int nextSource = neighbor[0];
                 if (!visited[nextSource]) {
                     pq.offer(neighbor);
                 }
@@ -72,7 +72,7 @@ public class Main {
                 { 1, 2, 1 },
                 { 2, 3, 1 }
         };
-        System.out.println(minCostToSupplyWater(wells, n, pipes, 0));
+        System.out.println(minCostToSupplyWater(wells, n, pipes, 0)); // 3
     }
 
 }
