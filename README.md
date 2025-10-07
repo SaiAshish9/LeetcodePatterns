@@ -365,7 +365,7 @@
     2. [Print Single Source Shortest Path With Negative Weights & Its Distance: Bellman-Ford]()
     3. [Print All Pairs Shortest Path & Its Distance: Flyod Warshall]()
     4. [A\* Search]()
-    5. [Cheapest Flight With K Stops]()
+    5. [Cheapest Flight With K Stops: Agoda](q787)
     6. [Uber Travel Agent]()
     7. [Microsoft OA]()
 
