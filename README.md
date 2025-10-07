@@ -365,7 +365,6 @@
     2. [Print Single Source Shortest Path With Negative Weights & Its Distance: Bellman-Ford]()
     3. [Print All Pairs Shortest Path & Its Distance: Flyod Warshall]()
     4. [A* Search]()
-    5. [Network Delay Time]()
     6. [Cheapest Flight With K Stops]()
     7. [Uber Travel Agent]()
     8. [Microsoft OA]()
