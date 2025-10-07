@@ -349,9 +349,9 @@
     3. [Course Schedule]()
     4. [Course Schedule 2]()
 
-31. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**: 
+31. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
 
-    1. [Implementation: MSTs exists only for undirected graphs]() 
+    1. [Implementation: MSTs exists only for undirected graphs]()
     2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
 
 32. **Minimum Spanning Tree: Prims Algorithm (252-253, 3)**:
@@ -364,11 +364,11 @@
     1. [Single Source Shortest Path: Dijkstra]()
     2. [Single Source Shortest Path With Negative Weights: Bellman-Ford]()
     3. [All Pairs Shortest Path: Flyod Warshall]()
-    4. [A* Search]()
+    4. [A\* Search]()
     5. [Network Delay Time]()
-    6. [Uber Travel Agent]()
-    7. [Microsoft OA]()
-    8. [Cheapest Flight With K Stops]()
+    6. [Cheapest Flight With K Stops]()
+    7. [Uber Travel Agent]()
+    8. [Microsoft OA]()
 
 34. **Strongly Connected Components (266-268, 3)**:
 
