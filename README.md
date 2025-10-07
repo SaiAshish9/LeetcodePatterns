@@ -387,11 +387,11 @@
 
     1. [Detection]()
 
-38. **De Brujin Graph (272, 1)**:
+38. **Hamiltonian Cycle (273, 1)**:
 
     1. [Detection]()
 
-39. **Hamiltonian Cycle (273, 1)**:
+39. **De Brujin Graph (272, 1)**:
 
     1. [Detection]()
 
