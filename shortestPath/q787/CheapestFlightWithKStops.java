@@ -38,11 +38,12 @@ public class CheapestFlightWithKStops {
             for (int[] neighbor : graph.getOrDefault(node, Collections.emptyList())) {
                 int nextNode = neighbor[0];
                 int nextCost = cost + neighbor[1];
+                int nextStop = stop + 1;
 
-                if (nextCost < dist[nextNode] || stop + 1 < stops[nextNode]) {
+                if (nextCost < dist[nextNode] || nextStop < stops[nextNode]) {
                     dist[nextNode] = nextCost;
-                    stops[nextNode] = stop + 1;
-                    pq.offer(new int[]{nextNode, nextCost, stop + 1});
+                    stops[nextNode] = nextStop;
+                    pq.offer(new int[]{nextNode, nextCost, nextStop});
                 }
             }
         }
