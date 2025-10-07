@@ -364,7 +364,7 @@
     1. [Single Source Shortest Path: Dijkstra]()
     2. [Single Source Shortest Path With Negative Weights: Bellman-Ford]()
     3. [All Pairs Shortest Path: Flyod Warshall]()
-    4. [A\* Search]()
+    4. [A* Search]()
     5. [Network Delay Time]()
     6. [Uber Travel Agent]()
     7. [Microsoft OA]()
