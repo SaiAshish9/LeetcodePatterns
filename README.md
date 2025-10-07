@@ -361,9 +361,9 @@
 
 33. **Shortest Path Algorithms (259-265, 7)**:
 
-    1. [Single Source Shortest Path: Dijkstra]()
-    2. [Single Source Shortest Path With Negative Weights: Bellman-Ford]()
-    3. [All Pairs Shortest Path: Flyod Warshall]()
+    1. [Print Single Source Shortest Path & Its Distance: Dijkstra]()
+    2. [Print Single Source Shortest Path With Negative Weights & Its Distance: Bellman-Ford]()
+    3. [Print All Pairs Shortest Path & Its Distance: Flyod Warshall]()
     4. [A* Search]()
     5. [Network Delay Time]()
     6. [Cheapest Flight With K Stops]()
