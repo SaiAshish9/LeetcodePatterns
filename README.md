@@ -364,10 +364,10 @@
     1. [Print Single Source Shortest Path & Its Distance: Dijkstra]()
     2. [Print Single Source Shortest Path With Negative Weights & Its Distance: Bellman-Ford]()
     3. [Print All Pairs Shortest Path & Its Distance: Flyod Warshall]()
-    4. [A* Search]()
-    6. [Cheapest Flight With K Stops]()
-    7. [Uber Travel Agent]()
-    8. [Microsoft OA]()
+    4. [A\* Search]()
+    5. [Cheapest Flight With K Stops]()
+    6. [Uber Travel Agent]()
+    7. [Microsoft OA]()
 
 34. **Strongly Connected Components (266-268, 3)**:
 
