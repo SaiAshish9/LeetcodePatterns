@@ -1,4 +1,4 @@
-package hamiltonianCycle;
+package hamiltonianCycle.implementation;
 
 import java.util.*;
 
