@@ -102,4 +102,7 @@ BCC #3: [(2, 0), (1, 2), (0, 1)]
 Complexity Analysis:
 Time Complexity: O(V + E), where V is the number of vertices and E is the number of edges in the graph.
 Space Complexity: O(V + E) for storing the graph, discovery and low arrays, and the stack.
+
+// no articulation points in this graph
+// graph can be decomposed into 3 biconnected components
  */
