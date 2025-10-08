@@ -13,7 +13,6 @@ public class DeBruijnGraph {
         for (String kmer : kmers) {
             String prefix = kmer.substring(0, kmer.length() - 1);
             String suffix = kmer.substring(1);
-
             graph.computeIfAbsent(prefix, k -> new ArrayList<>()).add(suffix);
         }
 
