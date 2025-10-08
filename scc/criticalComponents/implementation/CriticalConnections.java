@@ -2,14 +2,14 @@ package scc.criticalComponents.implementation;
 
 import java.util.*;
 
-public class CriticalComponents {
-    List<List<Integer>> graph;
-    List<List<Integer>> result;
-    int[] disc;
-    int[] low;
-    int time;
+public class CriticalConnections {
+    private static List<List<Integer>> graph;
+    private static int[] disc;
+    private static int[] low;
+    private static int time;
+    private static List<List<Integer>> result;
 
-    public List<List<Integer>> criticalConnections(int n, List<List<Integer>> connections) {
+    private static List<List<Integer>> criticalConnection(int n, List<List<Integer>> connections) {
         graph = new ArrayList<>();
         for (int i = 0; i < n; i++)
             graph.add(new ArrayList<>());
@@ -30,7 +30,7 @@ public class CriticalComponents {
         return result;
     }
 
-    private void dfs(int u, int parent) {
+    private static void dfs(int u, int parent) {
         low[u] = disc[u] = ++time;
         for (int v : graph.get(u)) {
             if (v == parent) continue;
@@ -56,8 +56,7 @@ public class CriticalComponents {
         connections.add(Arrays.asList(2, 0));
         connections.add(Arrays.asList(1, 3));
 
-        CriticalComponents solver = new CriticalComponents();
-        List<List<Integer>> bridges = solver.criticalConnections(n, connections);
+        List<List<Integer>> bridges = criticalConnection(n, connections);
 
         System.out.println("Critical connections (bridges):");
         for (List<Integer> bridge : bridges) {
