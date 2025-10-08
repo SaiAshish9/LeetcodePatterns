@@ -96,3 +96,10 @@ public class Tarjan {
         g.tarjansSCC();
     }
 }
+
+/*
+ * Complexity Analysis:
+ * Time Complexity: O(V + E), where V is the number of vertices and E is the number of edges.
+ * Each vertex and edge is processed once.  
+ * Space Complexity: O(V), for the stack, discovery, low-link, and onStack arrays.
+ */
