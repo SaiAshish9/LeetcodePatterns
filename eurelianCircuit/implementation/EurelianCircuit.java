@@ -1,6 +1,6 @@
 package eurelianCircuit.implementation;
-import java.util.*;
 
+import java.util.*;
 
 public class EurelianCircuit {
     private static Map<String, List<String>> buildDeBruijnGraph(List<String> kmers) {
@@ -55,10 +55,12 @@ public class EurelianCircuit {
 }
 
 /*
-Eulerian Circuit (nodes): [00, 00, 01, 10, 01, 11, 11, 10, 00]
-Reconstructed String from Eulerian Circuit: 0001011100
-
+ * Eulerian Circuit (nodes): [00, 00, 01, 10, 01, 11, 11, 10, 00]
+ * Reconstructed String from Eulerian Circuit: 0001011100
+ * 
  * Complexity Analysis:
- * Time Complexity: O(N * K) where N is the number of k-mers and K is the length of each k-mer.
- * Space Complexity: O(N * K) for storing the De Bruijn graph and the Eulerian circuit.
+ * Time Complexity: O(N * K) where N is the number of k-mers and K is the length
+ * of each k-mer.
+ * Space Complexity: O(N * K) for storing the De Bruijn graph and the Eulerian
+ * circuit.
  */
