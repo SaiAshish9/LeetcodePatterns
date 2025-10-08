@@ -57,7 +57,10 @@ public class EurelianCircuit {
 /*
  * Eulerian Circuit (nodes): [00, 00, 01, 10, 01, 11, 11, 10, 00]
  * Reconstructed String from Eulerian Circuit: 0001011100
- * 
+ * 11 -> 10,11
+ * 00 -> 00,01
+ * 01 -> 10,11
+ * 10 -> 00,01 
  * Complexity Analysis:
  * Time Complexity: O(N * K) where N is the number of k-mers and K is the length
  * of each k-mer.
