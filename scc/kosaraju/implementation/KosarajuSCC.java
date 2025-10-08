@@ -83,4 +83,7 @@ public class KosarajuSCC {
  * Complexity Analysis:
  * Time Complexity: O(V + E), where V is the number of vertices and E is the number of edges in the graph. We perform two DFS traversals, each taking O(V + E) time.
  * Space Complexity: O(V + E) for storing the graph and its transpose, and O(V) for the stack and visited array.
+ * -> -> -> +
+ * <- <- <-
+ * Complete Graph
  */
