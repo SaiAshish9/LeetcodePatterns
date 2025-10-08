@@ -35,4 +35,7 @@ public class DeBruijnGraph {
  * 00 -> 00,01
  * 01 -> 10,11
  * 10 -> 00,01
+ * Complexity Analysis:
+ * Time Complexity: O(N * K) where N is the number of k-mers and K is the length of each k-mer.
+ * Space Complexity: O(N * K) for storing the De Bruijn graph.
  */
