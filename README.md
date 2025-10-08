@@ -373,7 +373,7 @@
 
     1. [Kosaraju Algorithm]()
     2. [Tarjan's Algorithm]()
-    3. [Critical Components in a Network]()
+    3. [Critical Components in a Network (Bridges)]()
 
 35. **BiConnected Component (269, 1)**:
 
