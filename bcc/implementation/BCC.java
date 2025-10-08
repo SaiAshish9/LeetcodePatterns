@@ -93,3 +93,13 @@ public class BCC {
         findBCCs(7, edges);
     }
 }
+
+/*
+BCC #1: [(4, 1), (5, 4), (3, 5), (1, 3)]
+BCC #2: [(1, 6)]
+BCC #3: [(2, 0), (1, 2), (0, 1)]
+
+Complexity Analysis:
+Time Complexity: O(V + E), where V is the number of vertices and E is the number of edges in the graph.
+Space Complexity: O(V + E) for storing the graph, discovery and low arrays, and the stack.
+ */
