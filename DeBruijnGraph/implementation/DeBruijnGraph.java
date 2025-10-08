@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 public class DeBruijnGraph {
-        private static Map<String, List<String>> buildDeBruijnGraph(List<String> kmers) {
+    private static Map<String, List<String>> buildDeBruijnGraph(List<String> kmers) {
         Map<String, List<String>> graph = new HashMap<>();
 
         for (String kmer : kmers) {
@@ -31,8 +31,8 @@ public class DeBruijnGraph {
 }
 
 /*
-11 -> 10,11
-00 -> 00,01
-01 -> 10,11
-10 -> 00,01
+ * 11 -> 10,11
+ * 00 -> 00,01
+ * 01 -> 10,11
+ * 10 -> 00,01
  */
