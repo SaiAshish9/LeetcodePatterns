@@ -383,11 +383,11 @@
 
     1. [Detection]()
 
-37. **Eulerian Circuit (271, 1)**:
+37. **Eulerian Circuit (Edge) (271, 1)**:
 
     1. [Detection]()
 
-38. **Hamiltonian Cycle (273, 1)**:
+38. **Hamiltonian Cycle (Vertex) (273, 1)**:
 
     1. [Detection]()
 
