@@ -154,28 +154,7 @@
     12. [Removing Stars From a String](2300)
     13. [Robot Collisions](2751)
 
-11. **Sorting (113-130, 18)**
-
-    1. [Comparison: Bubble (Stable, Adaptive)]()
-    2. [Comparison: Selection]()
-    3. [Comparison: Insertion (Stable, Adaptive, LinkedList Friendly)]()
-    4. [Comparison: Tim]()
-    5. [Comparison: Merge (Stable, LinkedList Friendly)]()
-    6. [Comparison: Merge Two Sorted Arrays (Stable)]()
-    7. [Comparison: Merge Four Sorted Arrays (Stable)]()
-    8. [Comparison: Heap]()
-    9. [Comparison: Tree (LinkedList Friendly With Self Balancing)]()
-    10. [Comparison: Shell (Partially Adaptive)]()
-    11. [Comparison: Quick]()
-    12. [Comparison: Randomized Quick Sort]()
-    13. [Comparison: QuickSelect]()
-    14. [Comparison: Randomized QuickSelect]()
-    15. [Index Based: Count (Stable)]()
-    16. [Index Based: Bin/Bucket (Stable)]()
-    17. [Index Based: Radix (Stable)]()
-    18. [Max Distinct Elements After K Operations]()
-
-12. **Binary Tree PreOrder Traversal (, 19)**:
+11. **Binary Tree PreOrder Traversal (, 19)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
@@ -197,14 +176,14 @@
     18. [Depth from root to target]()
     19. [Max Depth]()
 
-13. **Binary Tree InOrder Traversal (, 4)**:
+12. **Binary Tree InOrder Traversal (, 4)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
     3. [Kth Smallest Element in a BST]()
     4. [Validate BST]()
 
-14. **Binary Tree PostOrder Traversal (, 7)**:
+13. **Binary Tree PostOrder Traversal (, 7)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
@@ -215,7 +194,7 @@
     7. [Distance between 2 nodes in a binary Tree]()
     8. [Delete Node in a BST](q450)
 
-15. **Binary Tree Level Order Traversal (, 13)**:
+14. **Binary Tree Level Order Traversal (, 13)**:
 
     1. [Implementation]()
     2. [Kth Largest Sum Of Binary Tree]()
@@ -230,7 +209,7 @@
     11. [Depth (Nodes)]()
     12. [Depth (Nodes)]()
 
-16. **Binary Tree Traversal (, 9)**:
+15. **Binary Tree Traversal (, 9)**:
 
     3. [Binary Tree Upside Down (Flip Binary Tree)]()
     4. [Binary Tree Vertical Order Traversal]()
@@ -240,30 +219,30 @@
     8. [Symmetric Tree](q101)
     9. [Longest ZigZag Path In A Binary Tree](q1372)
 
-17. **Binary Search Tree (175, 3)**:
+16. **Binary Search Tree (175, 3)**:
 
     1. [Insert Operation]()
     2. [Delete Operation]()
     3. [Search Operation]()
 
-18. **Binary Search Tree PreOrder Traversal (176-178, 3)**:
+17. **Binary Search Tree PreOrder Traversal (176-178, 3)**:
 
     1. [Convert Sorted Array to Binary Search Tree](q108)
     2. [Convert Sorted List to Binary Search Tree](q109)
     3. [Split BST](q778)
 
-19. **Binary Search Tree InOrder Traversal (179-181, 3)**:
+18. **Binary Search Tree InOrder Traversal (179-181, 3)**:
 
     1. [Kth Smallest Element in a BST](q230)
     2. [Find Mode in Binary Search Tree](q501)
     3. [Minimum Absolute Difference in BST](q530)
 
-20. **Binary Search Tree PostOrder Traversal (182-183, 2)**:
+19. **Binary Search Tree PostOrder Traversal (182-183, 2)**:
 
     1. [Lowest Common Ancestor of a Binary Search Tree](q235)
     2. [Delete Node in a BST](q450)
 
-21. **N-Ary Tree (, 4)**:
+20. **N-Ary Tree (, 4)**:
 
     1. [Traversal]()
     2. [Sum Of Distances In A N Ary Tree Using LCA and Depth]()
@@ -271,14 +250,14 @@
     4. [Amazon Away Team Peers]()
     5. [Binary Lifting For Sum Of Distances (N^2 Log N)]()
 
-22. **Trie (196-199, 3)**:
+21. **Trie (196-199, 3)**:
 
     1. [Implement Trie (Prefix Tree)](q208)
     2. [Design Add and Search Words Data Structure](q211)
     3. [Word Search II](q212)
     4. [Longest Word With All Prefixes](q1858)
 
-23. **Segment Tree (337-345, 9)**:
+22. **Segment Tree (337-345, 9)**:
 
     1. [Implementation]()
     2. [What is the sum from index l to r?]()
@@ -293,7 +272,7 @@
     11. [Range Module](q715)
     12. [My Calendar III](q732)
 
-24. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
+23. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
 
     1. [Implementation]()
     2. [Range Sum Query - Mutable](q307)
@@ -303,15 +282,15 @@
     6. [Create Sorted Array through Instructions Inversion Count]()
     7. [K-th smallest/largest elements Dynamic frequency counting]()
 
-25. **Red Black Tree (200, 1)**:
+24. **Red Black Tree (200, 1)**:
 
     1. [Implementation]()
 
-26. **AVL Tree (201, 1)**:
+25. **AVL Tree (201, 1)**:
 
     1. [Implementation]()
 
-27. **Union Find, Disjoint Set Union (254-258 , 5)**:
+26. **Union Find, Disjoint Set Union (254-258 , 5)**:
 
     1. [Union By Size]()
     2. [Union By Rank]()
@@ -322,7 +301,7 @@
     7. [Graph Valid Tree](q261)
     8. [Number of Connected Components in an Undirected Graph](q323)
 
-28. **Graph (184-190, 11)**:
+27. **Graph (184-190, 11)**:
 
     1. [Clone Graph](q133)
     2. [Is Graph Bipartite? (2 Colors)](q785)
@@ -337,29 +316,29 @@
     10. [All Paths From Root To Leaves Using Current Primitive Type Int Array]()
     11. [CRED OA: Visit All Cities Exactly Once]()
 
-29. **Graph Coloring (191, 1)**:
+28. **Graph Coloring (191, 1)**:
 
     1. [Implementation]()
     2. [For 2 Colors: BiPartile Check]()
 
-30. **Topological Sorting (192-195, 4)**:
+29. **Topological Sorting (192-195, 4)**:
 
     1. [DFS Implementation]()
     2. [Kahn's BFS Implementation]()
     3. [Course Schedule]()
     4. [Course Schedule 2]()
 
-31. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
+30. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
 
     1. [Implementation: MSTs exists only for undirected graphs]()
     2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
 
-32. **Minimum Spanning Tree: Prims Algorithm (252-253, 3)**:
+31. **Minimum Spanning Tree: Prims Algorithm (252-253, 3)**:
 
     1. [Implementation: MSTs exists only for undirected graphs]()
     2. [Optimize Water Distribution in a Village](q1168)
 
-33. **Shortest Path Algorithms (259-265, 7)**:
+32. **Shortest Path Algorithms (259-265, 7)**:
 
     1. [Print Single Source Shortest Path & Its Distance: Dijkstra]()
     2. [Print Single Source Shortest Path With Negative Weights & Its Distance: Bellman-Ford]()
@@ -369,33 +348,33 @@
     6. [Uber Travel Agent]()
     7. [Microsoft OA]()
 
-34. **Strongly Connected Components (266-268, 3)**:
+33. **Strongly Connected Components (266-268, 3)**:
 
     1. [Kosaraju Algorithm]()
     2. [Tarjan's Algorithm]()
     3. [Critical Components in a Network (Bridges)]()
 
-35. **BiConnected Component (269, 1)**:
+34. **BiConnected Component (269, 1)**:
 
     1. [Detection]()
 
-36. **Articulation Points (270, 1)**:
+35. **Articulation Points (270, 1)**:
 
     1. [Detection]()
 
-37. **Eulerian Circuit (Edge) (271, 1)**:
+36. **Eulerian Circuit (Edge) (271, 1)**:
 
     1. [Detection]()
 
-38. **Hamiltonian Cycle (Vertex) (273, 1)**:
+37. **Hamiltonian Cycle (Vertex) (273, 1)**:
 
     1. [Detection]()
 
-39. **De Brujin Graph (272, 1)**:
+38. **De Brujin Graph (272, 1)**:
 
     1. [Detection]()
 
-40. **Backtracking (202-224, 23)**:
+39. **Backtracking (202-224, 23)**:
 
     1. [Time Converter]()
     2. [Letter Combinations of a Phone Number](q17)
@@ -421,7 +400,7 @@
     22. [Smallest String Starting From Leaf](q988)
     23. [The Knight’s Tour](q2664)
 
-41. **Matrixes (225-249, 25)**
+40. **Matrixes (225-249, 25)**
 
     1. [Islands: Number of Islands](q200)
     2. [Islands: Island Perimeter](q463)
@@ -449,6 +428,27 @@
     24. [Coupang: Directions Q]()
     25. [Count number of subMatrixes with all 1]()
     26. [Traveling Salesman Problem]()
+
+41. **Sorting (113-130, 18)**
+
+    1. [Comparison: Bubble (Stable, Adaptive)]()
+    2. [Comparison: Selection]()
+    3. [Comparison: Insertion (Stable, Adaptive, LinkedList Friendly)]()
+    4. [Comparison: Tim]()
+    5. [Comparison: Merge (Stable, LinkedList Friendly)]()
+    6. [Comparison: Merge Two Sorted Arrays (Stable)]()
+    7. [Comparison: Merge Four Sorted Arrays (Stable)]()
+    8. [Comparison: Heap]()
+    9. [Comparison: Tree (LinkedList Friendly With Self Balancing)]()
+    10. [Comparison: Shell (Partially Adaptive)]()
+    11. [Comparison: Quick]()
+    12. [Comparison: Randomized Quick Sort]()
+    13. [Comparison: QuickSelect]()
+    14. [Comparison: Randomized QuickSelect]()
+    15. [Index Based: Count (Stable)]()
+    16. [Index Based: Bin/Bucket (Stable)]()
+    17. [Index Based: Radix (Stable)]()
+    18. [Max Distinct Elements After K Operations]()
 
 42. **Math (274-292, 19)**:
 
