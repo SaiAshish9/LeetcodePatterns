@@ -2,7 +2,7 @@ package hamiltonianCycle;
 
 import java.util.*;
 
-public class HamiltonianCycle {
+public class HamiltonianCycle { // visits every vertex exactly once and returns to starting vertex
     static class Node {
         int val;
         List<Node> neighbors = new ArrayList<>();
