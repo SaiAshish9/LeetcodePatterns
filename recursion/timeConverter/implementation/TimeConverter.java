@@ -1,4 +1,4 @@
-package backtracking.timeConverter.implementation;
+package recursion.timeConverter.implementation;
 
 import java.util.*;
 
@@ -52,4 +52,9 @@ public class TimeConverter {
  * Complexity Analysis:
  * Time Complexity: O(1), since the number of time units is fixed.
  * Space Complexity: O(1), for the recursion stack and output string.
+ * 
+ * If not using recursion, both time and space complexity remain O(1).
+ * 
+ * If not fixed number of time units, time complexity would be O(n) where n is the number of time units.
+ * Space complexity would also be O(n) for the recursion stack in the worst case.
  */
