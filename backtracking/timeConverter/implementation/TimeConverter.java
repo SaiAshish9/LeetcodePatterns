@@ -22,7 +22,7 @@ public class TimeConverter {
             new TimeUnit("Minutes", 1),
             new TimeUnit("Seconds", 1.0 / 60));
 
-    private static void dfs(double totalMinutes, int index, StringBuilder sb) {
+    private static void convert(double totalMinutes, int index, StringBuilder sb) {
         if (index >= units.size())
             return;
 
@@ -35,14 +35,14 @@ public class TimeConverter {
             int time = (int) (totalMinutes / current.value);
             sb.append(time).append(" ").append(current.label).append(" ");
             double remaining = totalMinutes % current.value;
-            dfs(remaining, index + 1, sb);
+            convert(remaining, index + 1, sb);
         }
     }
 
     public static void main(String... s) {
         double totalMinutes = 1_000_000;
         StringBuilder sb = new StringBuilder();
-        dfs(totalMinutes, 0, sb);
+        convert(totalMinutes, 0, sb);
         System.out.println(sb.toString());
     }
     // 1 Years 10 Months 29 Days 10 Hours 40 Minutes 0 Seconds
