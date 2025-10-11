@@ -36,6 +36,7 @@
    16. [Find K Closest Elements](./twoPointers/q658/FindKClosestElements.java)
    17. [Squares Of A Sorted Array](./twoPointers/q977/SquaresOfASortedArray.java)
    18. [Merge Intervals](./twoPointers/mergeIntervals/MergeIntervals.java)
+   19. [Next Permutation](./twoPointers/q31/NextPermutation.java)
 
 2. **Sliding Window (19-31, 13)**
 
