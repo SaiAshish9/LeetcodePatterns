@@ -50,3 +50,9 @@ class Permutations2 {
 // This is because there are n! unique permutations and generating each permutation takes O(n) time.
 // Space Complexity: O(n) for the recursion stack and the visited array.
 // The output list can contain up to n! unique permutations in the worst case.
+
+// Differences from Permutations.java:
+// 1. Sorting the Input: The input array is sorted at the beginning to ensure that duplicates are adjacent.
+// 2. Duplicate Check: Before adding an element to the current permutation, we check if it is a duplicate of the previous element and if the previous element has been used in the current permutation. 
+// If both conditions are true, we skip the current element to avoid generating duplicate permutations.
+// 3. Visited Array: A boolean array is used to track which elements have been included in the current permutation, ensuring that each element is used only once per permutation.   
