@@ -120,6 +120,32 @@ public class WordLadder2 {
     // [hit, hot, lot, log, cog]
 }
 
+/*
+ * Adjacency list (adjList) after preprocessing:
+hit(0): [1]
+hot(1): [0, 2, 4]
+dot(2): [1, 3]
+dog(3): [2, 5, 6]
+lot(4): [1, 5]
+log(5): [4, 3, 6]
+cog(6): [3, 5]
+👉 start = 0 (hit), end = 6 (cog)
+
+🌱 2. We need distance to know whether a neighbor is:
+visited for the first time → then we record a new shortest path
+visited again with the same shortest distance → then we must add another predecessor, because this neighbor can be reached through multiple shortest paths
+
+distance to cog (6) = 4
+predecessors:
+0: [-1]
+1: [0]
+2: [1]
+3: [2]
+4: [1]
+5: [4]
+6: [3, 5]
+ */
+
 // Complexity Analysis
 // Time Complexity: O(N * M^2 + V + E), where N is the number of words in the wordList, M is the length of each word, V is the number of vertices, and E is the number of edges in the graph.
 // Space Complexity: O(N^2) for the adjacency list and predecessors list.   
