@@ -113,6 +113,10 @@ public class WordLadder2 {
             }
         }
     }
+    // Output:
+    // All shortest transformation sequences:
+    // [hit, hot, dot, dog, cog]    
+    // [hit, hot, lot, log, cog]
 }
 
 // Complexity Analysis
