@@ -388,7 +388,7 @@
     5. [Combination Sum II](q40)
     6. [Permutations](q46)
     7. [Permutations 2](q47)
-    8. [N-Queens](q47)
+    8. [N-Queens](q51)
     9. [N-Queens II](q52)
     10. [Combinations](q77)
     11. [Subsets](q78)
