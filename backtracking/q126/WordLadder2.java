@@ -97,7 +97,6 @@ public class WordLadder2 {
     }
     
     public static void main(String[] args) {
-
         String beginWord = "hit";
         String endWord = "cog";
         List<String> wordList = new ArrayList<>(Arrays.asList("hot","dot","dog","lot","log","cog"));
