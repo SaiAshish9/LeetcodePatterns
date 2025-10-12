@@ -431,7 +431,6 @@
     23. [Rotate Matrix AntiClockwise by 1 cell]()
     24. [Coupang: Directions Q]()
     25. [Count number of subMatrixes with all 1]()
-    26. [Traveling Salesman Problem]()
 
 42. **Sorting (113-130, 18)**
 
