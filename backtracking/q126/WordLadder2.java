@@ -88,6 +88,7 @@ public class WordLadder2 {
         for (int i = 0; i < n; i++) predecessors.add(new ArrayList<>());
 
         bfs(adjList, predecessors, startIndex, endIndex);
+        System.out.println(predecessors);
 
         List<List<String>> result = new ArrayList<>();
         List<String> path = new ArrayList<>();
@@ -114,6 +115,7 @@ public class WordLadder2 {
     }
     // Output:
     // All shortest transformation sequences:
+    // [[-1], [0], [1], [2], [1], [4], [3, 5]]
     // [hit, hot, dot, dog, cog]    
     // [hit, hot, lot, log, cog]
 }
