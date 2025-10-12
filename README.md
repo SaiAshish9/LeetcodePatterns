@@ -375,7 +375,11 @@
 
     1. [Detection]()
 
-39. **Backtracking (202-223, 22)**:
+39. **Recursion (, 1)**:
+
+    1. [Time Converter]()
+
+40. **Backtracking (202-223, 22)**:
 
     1. [Letter Combinations of a Phone Number](q17)
     2. [Generate Parentheses](q22)
@@ -399,10 +403,6 @@
     20. [Unique Paths III](q980)
     21. [Smallest String Starting From Leaf](q988)
     22. [The Knight’s Tour](q2664)
-
-40. **Recursion (, 1)**:
-
-    1. [Time Converter]()
 
 41. **Matrixes (225-249, 25)**
 
