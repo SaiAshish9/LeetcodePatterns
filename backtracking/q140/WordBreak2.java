@@ -42,6 +42,7 @@ class WordBreak2 {
         for (String sentence : result) {
             System.out.println(sentence);
         }
+        // Expected Output: ["cats and dog", "cat sand dog"]
     }
 }
 
