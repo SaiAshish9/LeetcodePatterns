@@ -13,9 +13,7 @@ class WordBreak2 {
             return memo.get(s);
         }
         if (s.length() == 0) {
-            List<String> baseResult = new ArrayList<>();
-            baseResult.add("");
-            return baseResult;
+            return Arrays.asList("");
         }
 
         List<String> res = new ArrayList<>();
