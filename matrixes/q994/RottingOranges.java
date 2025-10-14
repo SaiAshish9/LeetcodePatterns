@@ -14,7 +14,6 @@ public class RottingOranges {
         Queue<int[]> queue = new LinkedList<>();
         int freshOranges = 0;
 
-        // Step 1: Initialize the queue with all initially rotten oranges
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 2) {
