@@ -1,7 +1,7 @@
 package matrixes.q73;
 
 public class SetMatrixZeroes {
-    public void setZeroes(int[][] matrix) {
+    private static void setZeroes(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
 
@@ -53,14 +53,13 @@ public class SetMatrixZeroes {
     }
 
     public static void main(String[] args) {
-        Solution solution = new Solution();
         int[][] matrix = {
                 { 1, 1, 1 },
                 { 1, 0, 1 },
                 { 1, 1, 1 }
         };
 
-        solution.setZeroes(matrix);
+        setZeroes(matrix);
 
         for (int[] row : matrix) {
             for (int val : row) {
