@@ -410,7 +410,7 @@
     2. [Islands: Island Perimeter](q463)
     3. [Islands: Max Area of Island](q695)
     4. [Islands: Flood Fill](q733)
-    5. [Islands: Number of Closed Islands](q1234)
+    5. [Islands: Number of Closed Islands](q1254)
     6. [Islands: Count Sub Islands](q1905)
     7. [Rotting Oranges](q994)
     8. [Valid Sudoku](q36)
