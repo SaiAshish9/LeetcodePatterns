@@ -29,7 +29,6 @@ public class RottingOranges {
 
         int minutes = -1;
 
-        // Step 2: BFS traversal
         while (!queue.isEmpty()) {
             int size = queue.size();
             minutes++;
