@@ -47,3 +47,8 @@ public class SpiralMatrix {
         System.out.println("Spiral Order: " + result);
     }
 }
+
+// Spiral Order: [1, 2, 3, 4, 8, 12, 11, 10, 9, 5, 6, 7]
+
+// Time Complexity: O(m * n) where m is the number of rows and n is the number of columns in the matrix.
+// Space Complexity: O(m * n) for the visited array and the recursion stack in the worst case.
