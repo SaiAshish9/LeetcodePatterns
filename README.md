@@ -485,13 +485,7 @@
     6. [TreeMap]()
     7. [HashSet](q705)
 
-45. **Rolling Hash (314-316, 3)**:
-
-    1. [Implementation]()
-    2. [strStr]()
-    3. [findDuplicateSubstring]()
-
-46. **Suffix Array (302-307, 6)**:
+45. **Suffix Array (302-307, 6)**:
 
     1. [LCP Array]() (Suffix Algorithm)
     2. [Implementation]()
@@ -500,13 +494,19 @@
     5. [Number of Distinct Substrings](q1698)
     6. [MultiString LCP]()
 
-47. **String Matching (308-312, 5)**:
+46. **String Matching (308-312, 5)**:
 
     1. [Longest Prefix Suffix]() (KMP Algorithm)
     2. [strStr Implementation]()
     3. [Naive String Matching]()
     4. [Rabin Karp Algorithm]() (Rolling Hash, Spurious Hits)
     5. [Find All Anagrams Of A String]()
+
+47. **Rolling Hash (314-316, 3)**:
+
+    1. [Implementation]()
+    2. [strStr]()
+    3. [findDuplicateSubstring]()
 
 48. **Line Sweep (293-295, 3)**:
 
