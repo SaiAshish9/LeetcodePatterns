@@ -23,7 +23,6 @@ public class AllPathsFromSourceToTarget {
     }
 
     public static void main(String[] args) {
-        AllPathsFromSourceToTarget solution = new AllPathsFromSourceToTarget();
         int[][] graph = {{1, 2}, {3}, {3}, {}};
         System.out.println(allPathsSourceTarget(graph)); // Output: [[0, 1, 3], [0, 2, 3]]
     }
