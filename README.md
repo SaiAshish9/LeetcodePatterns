@@ -475,13 +475,23 @@
     18. [Convert to base of 2]()
     19. [Count of pairs that can be removed from Array without changing the Mean]()
 
-44. **Rolling Hash (314-316, 3)**:
+44. **Design (354-360, 7)**:
+
+    1. [LRU Cache](q200)
+    2. [LFU Cache](q460)
+    3. [MRU Cache]()
+    4. [Max Stack](q716)
+    5. [Snake And Ladders](q909)
+    6. [TreeMap]()
+    7. [HashSet](q705)
+
+45. **Rolling Hash (314-316, 3)**:
 
     1. [Implementation]()
     2. [strStr]()
     3. [findDuplicateSubstring]()
 
-45. **Suffix Array (302-307, 6)**:
+46. **Suffix Array (302-307, 6)**:
 
     1. [LCP Array]() (Suffix Algorithm)
     2. [Implementation]()
@@ -490,7 +500,7 @@
     5. [Number of Distinct Substrings](q1698)
     6. [MultiString LCP]()
 
-46. **String Matching (308-312, 5)**:
+47. **String Matching (308-312, 5)**:
 
     1. [Longest Prefix Suffix]() (KMP Algorithm)
     2. [strStr Implementation]()
@@ -498,39 +508,39 @@
     4. [Rabin Karp Algorithm]() (Rolling Hash, Spurious Hits)
     5. [Find All Anagrams Of A String]()
 
-47. **Line Sweep (293-295, 3)**:
+48. **Line Sweep (293-295, 3)**:
 
     1. [Implementation]()
     2. [Minimum Meeting Rooms]()
     3. [Skyline Problem]()
 
-48. **Randomized (297-299, 3)**:
+49. **Randomized (297-299, 3)**:
 
     1. [Kth Largest Element in an Array](q215)
     2. [Linked List Random Node](q382)
     3. [Shuffle an Array](q384)
 
-49. **Reservoir Sampling (300, 1)**:
+50. **Reservoir Sampling (300, 1)**:
 
     1. [Linked List Random Node](q382)
 
-50. **Rejection Sampling (301, 1)**:
+51. **Rejection Sampling (301, 1)**:
 
     1. [Implement Rand10() Using Rand7()](q470)
 
-51. **Divide And Conquer (296, 1)**:
+52. **Divide And Conquer (296, 1)**:
 
     1. [Implementation]()
 
-52. **NP Hard And NP Complete (313, 1)**:
+53. **NP Hard And NP Complete (313, 1)**:
 
     1. [NP Hard And NP Complete Examples]()
 
-53. **Concurrency (317, 1)**:
+54. **Concurrency (317, 1)**:
 
     1. [Implementation]()
 
-54. **Greedy (318-329, 12)**:
+55. **Greedy (318-329, 12)**:
 
     1. [Fractional Knapsack]()
     2. [Activity Selection]()
@@ -545,7 +555,7 @@
     11. [Minimum Number of Arrows to Burst Balloons ]()
     12. [Partition Labels]()
 
-55. **Hash Table (330-336, 7)**:
+56. **Hash Table (330-336, 7)**:
 
     1. [Two Sum]()
     2. [Design HashMap]()
@@ -555,19 +565,9 @@
     6. [4Sum II]()
     7. [Valid Anagram]()
 
-56. **Traveling Salesman Problem (353, 1)**:
+57. **Traveling Salesman Problem (353, 1)**:
 
     1. [Implementation]()
-
-57. **Design (354-360, 7)**:
-
-    1. [LRU Cache](q200)
-    2. [LFU Cache](q460)
-    3. [MRU Cache]()
-    4. [Max Stack](q716)
-    5. [Snake And Ladders](q909)
-    6. [TreeMap]()
-    7. [HashSet](q705)
 
 58. **GCD (515-517, 3)**:
 
