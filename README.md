@@ -432,28 +432,7 @@
     24. [Coupang: Directions Q]()
     25. [Count number of subMatrixes with all 1]()
 
-42. **Sorting (113-130, 18)**
-
-    1. [Comparison: Bubble (Stable, Adaptive)]()
-    2. [Comparison: Selection]()
-    3. [Comparison: Insertion (Stable, Adaptive, LinkedList Friendly)]()
-    4. [Comparison: Tim]()
-    5. [Comparison: Merge (Stable, LinkedList Friendly)]()
-    6. [Comparison: Merge Two Sorted Arrays (Stable)]()
-    7. [Comparison: Merge Four Sorted Arrays (Stable)]()
-    8. [Comparison: Heap]()
-    9. [Comparison: Tree (LinkedList Friendly With Self Balancing)]()
-    10. [Comparison: Shell (Partially Adaptive)]()
-    11. [Comparison: Quick]()
-    12. [Comparison: Randomized Quick Sort]()
-    13. [Comparison: QuickSelect]()
-    14. [Comparison: Randomized QuickSelect]()
-    15. [Index Based: Count (Stable)]()
-    16. [Index Based: Bin/Bucket (Stable)]()
-    17. [Index Based: Radix (Stable)]()
-    18. [Max Distinct Elements After K Operations]()
-
-43. **Math (274-292, 19)**:
+42. **Math (274-292, 19)**:
 
     1. [Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space]()
     2. [Reverse Integer](q7)
@@ -475,15 +454,36 @@
     18. [Convert to base of 2]()
     19. [Count of pairs that can be removed from Array without changing the Mean]()
 
-44. **Design (354-360, 7)**:
+43. **Design (354-360, 7)**:
 
     1. [LRU Cache](q200)
     2. [LFU Cache](q460)
     3. [MRU Cache]()
     4. [Max Stack](q716)
     5. [Snake And Ladders](q909)
-    6. [TreeMap]()
-    7. [HashSet](q705)
+    6. [HashSet](q705)
+    7. [TreeMap]()
+
+44. **Sorting (113-130, 18)**
+
+    1. [Comparison: Bubble (Stable, Adaptive)]()
+    2. [Comparison: Selection]()
+    3. [Comparison: Insertion (Stable, Adaptive, LinkedList Friendly)]()
+    4. [Comparison: Tim]()
+    5. [Comparison: Merge (Stable, LinkedList Friendly)]()
+    6. [Comparison: Merge Two Sorted Arrays (Stable)]()
+    7. [Comparison: Merge Four Sorted Arrays (Stable)]()
+    8. [Comparison: Heap]()
+    9. [Comparison: Tree (LinkedList Friendly With Self Balancing)]()
+    10. [Comparison: Shell (Partially Adaptive)]()
+    11. [Comparison: Quick]()
+    12. [Comparison: Randomized Quick Sort]()
+    13. [Comparison: QuickSelect]()
+    14. [Comparison: Randomized QuickSelect]()
+    15. [Index Based: Count (Stable)]()
+    16. [Index Based: Bin/Bucket (Stable)]()
+    17. [Index Based: Radix (Stable)]()
+    18. [Max Distinct Elements After K Operations]()
 
 45. **Suffix Array (302-307, 6)**:
 
