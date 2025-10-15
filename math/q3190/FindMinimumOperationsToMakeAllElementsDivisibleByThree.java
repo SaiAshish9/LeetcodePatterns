@@ -1,4 +1,4 @@
-package math.findMinimumOperationsToMakeAllElementsDivisibleBy3;
+package math.q3190;
 
 public class FindMinimumOperationsToMakeAllElementsDivisibleByThree {
 
