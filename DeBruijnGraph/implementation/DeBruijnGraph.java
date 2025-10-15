@@ -1,4 +1,4 @@
-package DeBruijnGraph.implementation;
+package deBruijnGraph.implementation;
 
 import java.util.ArrayList;
 import java.util.Arrays;
