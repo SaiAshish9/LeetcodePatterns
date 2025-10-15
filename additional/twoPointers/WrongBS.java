@@ -66,7 +66,6 @@ public class WrongBS {
 // 1 0 1 0 0
 // NO
 
-
 // Complexity Analysis:
 // Time Complexity: O(n) for each test case, where n is the length of the string s.
 // Space Complexity: O(n) for storing the permutation array.
