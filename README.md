@@ -575,12 +575,7 @@
     2. [Euclidean Algorithm]()
     3. [Stein’s Algorithm (Binary GCD, More Efficient)]()
 
-59. **DFS (513-514, 2)**:
-
-    1. [All Paths From Source To Destination]()
-    2. [Valid Arrangement of Pairs]()
-
-60. **Linear Dynamic Programming (361-375, 15)**:
+59. **Linear Dynamic Programming (361-375, 15)**:
 
     1. [Climbing Stairs]()
     2. [House Robber]()
@@ -598,7 +593,7 @@
     14. [Fibonacci Number]()
     15. [N-th Tribonacci Number]()
 
-61. **0/1 Bounded Knapsack DP (Subset Sum, Boolean DP) (376-385, 10)**:
+60. **0/1 Bounded Knapsack DP (Subset Sum, Boolean DP) (376-385, 10)**:
 
     1. [Classic 0/1 Knapsack]()
     2. [Subset Sum DFS]()
@@ -611,7 +606,7 @@
     9. [Nutanix OA1: Manufacturing Unit]()
     10. [Nutanix OA2: Intervals]()
 
-62. **Unbounded Knapsack DP (386-391, 6)**:
+61. **Unbounded Knapsack DP (386-391, 6)**:
 
     1. [Coin Change]()
     2. [Coin Change 2]()
@@ -620,23 +615,23 @@
     5. [Perfect Squares]()
     6. [Combination Sum IV]()
 
-63. **Limited Supply Bounded Knapsack DP (392, 1)**:
+62. **Limited Supply Bounded Knapsack DP (392, 1)**:
 
     1. [Coin Change with Limited Supply]()
 
-64. **Multiple Knapsack DP (393, 1)**:
+63. **Multiple Knapsack DP (393, 1)**:
 
     1. [Maximum Units on a Truck]()
 
-65. **Fractional Knapsack DP (394, 1)**:
+64. **Fractional Knapsack DP (394, 1)**:
 
     1. [Max value with fractional items]()
 
-66. **Fractional Knapsack DP (394, 1)**
+65. **Fractional Knapsack DP (394, 1)**
 
     1. [Max value with fractional items]()
 
-67. **Interval DP (395–403, 8)**
+66. **Interval DP (395–403, 8)**
 
     1. [Burst Balloons]()
     2. [Matrix Chain Multiplication]()
@@ -647,7 +642,7 @@
     7. [Evaluate Expression to True (Boolean Parenthesization)]()
     8. [Minimum Score Triangulation of Polygon]()
 
-68. **Subsequence DP (419, 19)**
+67. **Subsequence DP (419, 19)**
 
     1. [Longest Common Subsequence (LCS)]()
     2. [Print LCS]()
@@ -670,7 +665,7 @@
     19. [Longest Repeating Subsequence]()
     20. [Word Break]()
 
-69. **Substring DP (426–431, 6)**
+68. **Substring DP (426–431, 6)**
 
     1. [Longest Common Substring]()
     2. [Longest Repeating Substring]()
@@ -680,7 +675,7 @@
     6. [Minimum insertions/deletions to convert substring]()
     7. [Longest Duplicate Substring]()
 
-70. **Grid Based DP (432–440, 9)**
+69. **Grid Based DP (432–440, 9)**
 
     1. [Unique Paths]()
     2. [Unique Paths II]()
@@ -692,7 +687,7 @@
     8. [Coin Collection in Grid]()
     9. [Interleaving String]()
 
-71. **Matrix Based DP (441–447, 7)**
+70. **Matrix Based DP (441–447, 7)**
 
     1. [Maximal Square]()
     2. [Maximal Rectangle]()
@@ -702,7 +697,7 @@
     6. [Palindromic Substrings in a 2D Grid]()
     7. [Coin Change on Grid]()
 
-72. **Kadane’s Algorithm (448–452, 5)**
+71. **Kadane’s Algorithm (448–452, 5)**
 
     1. [1D Maximum Subarray Sum]()
     2. [2D Maximum Submatrix Sum (apply Kadane on column pairs)]()
@@ -710,7 +705,7 @@
     4. [Maximum Product Subarray (variation with min/max)]()
     5. [Maximum Alternating Subarray Sum]()
 
-73. **Subset DP (453–462, 10)**
+72. **Subset DP (453–462, 10)**
 
     1. [Binomial Coefficients]()
     2. [Pascal’s Triangle]()
@@ -723,7 +718,7 @@
     9. [Bitmask-based combinatorial counting]()
     10. [Minimum Cost Path covering all nodes (e.g., TSP)]()
 
-74. **Tree DP (463–470, 8)**
+73. **Tree DP (463–470, 8)**
 
     1. [Diameter of Binary Tree]()
     2. [Maximum Path Sum Between Two Nodes]()
@@ -734,7 +729,7 @@
     7. [Unique Binary Search Trees]()
     8. [LCA Queries (distance between nodes, kth ancestor with Binary Lifting)]()
 
-75. **Digit DP (471–478, 8)**
+74. **Digit DP (471–478, 8)**
 
     1. [Numbers with Same Consecutive Differences]()
     2. [Count Stepping Numbers in Range]()
@@ -745,7 +740,7 @@
     7. [Count Numbers with No Repeated Digits]()
     8. [Count Beautiful Numbers]()
 
-76. **Probability/Expectation DP (479–484, 6)**
+75. **Probability/Expectation DP (479–484, 6)**
 
     1. [New 21 Game]()
     2. [Dice Throw / Sum of Dice]()
@@ -754,7 +749,7 @@
     5. [Random Walk in a Grid]()
     6. [Probability of a Knight Staying on Board]()
 
-77. **Game Theory DP (485–491, 7)**
+76. **Game Theory DP (485–491, 7)**
 
     1. [Nim Game]()
     2. [Stone Game / Take-Away Game]()
@@ -764,7 +759,7 @@
     6. [Game of Removing Stones with Various Moves]()
     7. [Chess/Checkers Simplified States]()
 
-78. **State Machine DP (492–501, 10)**
+77. **State Machine DP (492–501, 10)**
 
     1. [Frog Jump]()
     2. [Super Egg Drop]()
@@ -777,34 +772,39 @@
     9. [Best Time to Buy and Sell Stock IV]()
     10. [Best Time to Buy and Sell Stock with Cooldown]()
 
-79. **State Compression DP (502–503, 2)**
+78. **State Compression DP (502–503, 2)**
 
     1. [Traveling Salesman Problem (TSP)]()
     2. [Counting Subsets]()
 
-80. **Decision DP (504–505, 2)**
+79. **Decision DP (504–505, 2)**
 
     1. [Egg Dropping Problem]()
     2. [Paint House]()
 
-81. **Counting/Combinatorial DP (506–508, 3)**
+80. **Counting/Combinatorial DP (506–508, 3)**
 
     1. [Friends Pairing Problem]()
     2. [Paint Fence]()
     3. [Ugly Number II]()
 
-82. **Job Scheduling DP (509–512, 4)**
+81. **Job Scheduling DP (509–512, 4)**
 
     1. [Maximum Profit in Job Scheduling]()
     2. [Weighted Interval Scheduling (with Profits)]()
     3. [Maximum Number of Non-overlapping Intervals]()
     4. [Scheduling with Deadlines and Profits]()
 
-83. **Additional (518-519)**:
+82. **Additional (518-519)**:
 
     1. [Next Palindrome]()
     2. [Add 0 or K]()
     3. [Wrong Binary Search]()
+
+83. **DFS (513-514, 2)**:
+
+    1. [All Paths From Source To Destination]()
+    2. [Valid Arrangement of Pairs]()
 
 ---
 
