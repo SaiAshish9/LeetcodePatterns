@@ -802,9 +802,9 @@
 
 83. **Additional (518-519)**:
 
-    1. [Next Palindrome]()
-    2. [Add 0 or K]()
-    3. [Wrong Binary Search]()
+    1. [Two Pointers: Next Palindrome]()
+    2. [Math: Add 0 or K]()
+    3. [Binary Search: Wrong Binary Search]()
 
 ---
 
