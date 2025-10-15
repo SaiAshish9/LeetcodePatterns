@@ -429,8 +429,8 @@
     21. [Spiral Matrix IV](q2326)
     22. [Rotate Matrix Clockwise by 1 cell]()
     23. [Rotate Matrix AntiClockwise by 1 cell]()
-    24. [Coupang: Directions Q]()
-    25. [Count number of subMatrixes with all 1]()
+    24. [Count number of subMatrixes with all 1]()
+    25. [Coupang: Directions Q]()
 
 42. **Math (274-292, 19)**:
 
