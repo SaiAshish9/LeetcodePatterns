@@ -27,6 +27,11 @@ public class Add0OrK {
     }
 }
 
+// 3 3
+// 2 7 1
+
+// 8 8 10
+
 // Complexity Analysis:
 // Time Complexity: O(n) for each test case, where n is the number of elements in the array.
 // Space Complexity: O(1) if we ignore the input storage, otherwise O(n) for storing the array.
