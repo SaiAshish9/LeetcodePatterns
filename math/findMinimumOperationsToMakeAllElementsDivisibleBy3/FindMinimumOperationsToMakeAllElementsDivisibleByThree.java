@@ -13,7 +13,6 @@ public class FindMinimumOperationsToMakeAllElementsDivisibleByThree {
         return operations;
     }
 
-    // Driver code
     public static void main(String[] args) {
         int[][] testCases = {
             {3, 6, 9},     // already divisible -> 0
