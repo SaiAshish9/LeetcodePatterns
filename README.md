@@ -406,7 +406,7 @@
 
 41. **Matrixes (225-249, 25)**
 
-    1. [Islands: Number of Islands](q200)
+    1. [Islands: Number of Islands](./matrixes/islands/q200/NumberOfIslands.java)
     2. [Islands: Island Perimeter](q463)
     3. [Islands: Max Area of Island](q695)
     4. [Islands: Flood Fill](q733)
