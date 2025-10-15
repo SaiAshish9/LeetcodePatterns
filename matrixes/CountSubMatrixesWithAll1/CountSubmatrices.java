@@ -1,7 +1,5 @@
 package matrixes.CountSubMatrixesWithAll1;
 
-import java.util.*;
-
 public class CountSubmatrices {
 
     private static int numSubmat(int[][] mat) {
