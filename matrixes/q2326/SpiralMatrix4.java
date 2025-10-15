@@ -1,7 +1,5 @@
 package matrixes.q2326;
 
-import java.util.*;
-
 public class SpiralMatrix4 {
     private static final int[][] DIRECTIONS = { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } };
 
