@@ -798,7 +798,7 @@
 82. **DFS (513-514, 2)**:
 
     1. [All Paths From Source To Destination]()
-    2. [Valid Arrangement of Pairs]()
+    2. [Euler DFS: Valid Arrangement of Pairs]()
 
 83. **Additional (518-519)**:
 
