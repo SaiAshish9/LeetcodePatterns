@@ -795,16 +795,16 @@
     3. [Maximum Number of Non-overlapping Intervals]()
     4. [Scheduling with Deadlines and Profits]()
 
-82. **Additional (518-519)**:
+82. **DFS (513-514, 2)**:
+
+    1. [All Paths From Source To Destination]()
+    2. [Valid Arrangement of Pairs]()
+
+83. **Additional (518-519)**:
 
     1. [Next Palindrome]()
     2. [Add 0 or K]()
     3. [Wrong Binary Search]()
-
-83. **DFS (513-514, 2)**:
-
-    1. [All Paths From Source To Destination]()
-    2. [Valid Arrangement of Pairs]()
 
 ---
 
