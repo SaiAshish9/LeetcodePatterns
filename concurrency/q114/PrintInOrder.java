@@ -72,3 +72,7 @@ public class PrintInOrder {
         // Output should be "firstsecondthird"
     }
 }
+
+// Complexity Analysis
+// Time Complexity: O(1) for each method call since each method performs a constant amount of work.
+// Space Complexity: O(1) as we are using a fixed amount of extra space regardless of input size.
