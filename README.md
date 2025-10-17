@@ -532,15 +532,7 @@
 
     1. [Implementation]()
 
-53. **NP Hard And NP Complete (313, 1)**:
-
-    1. [NP Hard And NP Complete Examples]()
-
-54. **Concurrency (317, 1)**:
-
-    1. [Implementation]()
-
-55. **Greedy (318-329, 12)**:
+53. **Greedy (318-329, 12)**:
 
     1. [Fractional Knapsack]()
     2. [Activity Selection]()
@@ -555,7 +547,7 @@
     11. [Minimum Number of Arrows to Burst Balloons ]()
     12. [Partition Labels]()
 
-56. **Hash Table (330-336, 7)**:
+54. **Hash Table (330-336, 7)**:
 
     1. [Two Sum]()
     2. [Design HashMap]()
@@ -565,15 +557,23 @@
     6. [4Sum II]()
     7. [Valid Anagram]()
 
-57. **Traveling Salesman Problem (353, 1)**:
+55. **Traveling Salesman Problem (353, 1)**:
 
     1. [Implementation]()
 
-58. **GCD (515-517, 3)**:
+56. **GCD (515-517, 3)**:
 
     1. [Basic]()
     2. [Euclidean Algorithm]()
     3. [Stein’s Algorithm (Binary GCD, More Efficient)]()
+
+57. **NP Hard And NP Complete (313, 1)**:
+
+    1. [NP Hard And NP Complete Examples]()
+
+58. **Concurrency (317, 1)**:
+
+    1. [Implementation]()
 
 59. **Linear Dynamic Programming (361-375, 15)**:
 
