@@ -458,10 +458,10 @@
 
     1. [LRU Cache](q200)
     2. [LFU Cache](q460)
-    3. [MRU Cache]()
+    3. [HashSet](q705)
     4. [Max Stack](q716)
     5. [Snake And Ladders](q909)
-    6. [HashSet](q705)
+    6. [MRU Cache]()
     7. [TreeMap]()
 
 44. **Sorting (113-130, 18)**
