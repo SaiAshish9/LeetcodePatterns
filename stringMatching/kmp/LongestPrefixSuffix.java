@@ -29,3 +29,7 @@ public class LongestPrefixSuffix {
     }
 
 }
+
+
+// Time Complexity: O(n)
+// Space Complexity: O(n)
