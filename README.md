@@ -526,7 +526,7 @@
     8. [Meeting Rooms II]()
     9. [Non-overlapping Intervals]()
     10. [Boats to Save People]()
-    11. [Minimum Number of Arrows to Burst Balloons ]()
+    11. [Minimum Number of Arrows to Burst Balloons]()
     12. [Partition Labels]()
 
 50. **Hash Table (330-336, 7)**:
