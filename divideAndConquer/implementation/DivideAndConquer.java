@@ -34,3 +34,8 @@ public class DivideAndConquer {
         System.out.println(Arrays.toString(arr));
     }
 }
+
+// Output: [1, 2, 3, 4, 5, 6]
+// The array is sorted using Merge Sort algorithm.
+// Time Complexity: O(n log n)
+// Space Complexity: O(n)
