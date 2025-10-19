@@ -514,13 +514,7 @@
     2. [Minimum Meeting Rooms]()
     3. [Skyline Problem]()
 
-49. **Randomized (297-299, 3)**:
-
-    1. [Kth Largest Element in an Array](q215)
-    2. [Linked List Random Node](q382)
-    3. [Shuffle an Array](q384)
-
-50. **Greedy (318-329, 12)**:
+49. **Greedy (318-329, 12)**:
 
     1. [Fractional Knapsack]()
     2. [Activity Selection]()
@@ -535,7 +529,7 @@
     11. [Minimum Number of Arrows to Burst Balloons ]()
     12. [Partition Labels]()
 
-51. **Hash Table (330-336, 7)**:
+50. **Hash Table (330-336, 7)**:
 
     1. [Two Sum]()
     2. [Design HashMap]()
@@ -544,6 +538,12 @@
     5. [Ransom Note]()
     6. [4Sum II]()
     7. [Valid Anagram]()
+
+51. **Randomized (297-299, 3)**:
+
+    1. [Kth Largest Element in an Array](q215)
+    2. [Linked List Random Node](q382)
+    3. [Shuffle an Array](q384)
 
 52. **Reservoir Sampling (300, 1)**:
 
