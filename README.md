@@ -520,19 +520,7 @@
     2. [Linked List Random Node](q382)
     3. [Shuffle an Array](q384)
 
-50. **Reservoir Sampling (300, 1)**:
-
-    1. [Linked List Random Node](q382)
-
-51. **Rejection Sampling (301, 1)**:
-
-    1. [Implement Rand10() Using Rand7()](q470)
-
-52. **Divide And Conquer (296, 1)**:
-
-    1. [Implementation]()
-
-53. **Greedy (318-329, 12)**:
+50. **Greedy (318-329, 12)**:
 
     1. [Fractional Knapsack]()
     2. [Activity Selection]()
@@ -547,7 +535,7 @@
     11. [Minimum Number of Arrows to Burst Balloons ]()
     12. [Partition Labels]()
 
-54. **Hash Table (330-336, 7)**:
+51. **Hash Table (330-336, 7)**:
 
     1. [Two Sum]()
     2. [Design HashMap]()
@@ -556,6 +544,18 @@
     5. [Ransom Note]()
     6. [4Sum II]()
     7. [Valid Anagram]()
+
+52. **Reservoir Sampling (300, 1)**:
+
+    1. [Linked List Random Node](q382)
+
+53. **Rejection Sampling (301, 1)**:
+
+    1. [Implement Rand10() Using Rand7()](q470)
+
+54. **Divide And Conquer (296, 1)**:
+
+    1. [Implementation]()
 
 55. **Traveling Salesman Problem (353, 1)**:
 
