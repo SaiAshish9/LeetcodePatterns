@@ -521,6 +521,7 @@
     10. [Boats to Save People]()
     11. [Minimum Number of Arrows to Burst Balloons]()
     12. [Partition Labels]()
+    13. [Maximum Number Of Distinct Elements After K Operations](q3397)
 
 49. **Hash Table (330-336, 7)**:
 
