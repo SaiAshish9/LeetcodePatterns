@@ -32,5 +32,12 @@ public class GroupAnagrams {
         for (List<String> group : result) {
             System.out.println(group);
         }
+        // Expected Output:
+        // ["bat"]
+        // ["nat","tan"]
+        // ["ate","eat","tea"]
     }
 }
+
+// Time Complexity: O(N * K log K), where N is the number of strings and K is the maximum length of a string. Sorting each string takes O(K log K) time.
+// Space Complexity: O(N * K), the space used to store the grouped anagrams in the hashmap.
