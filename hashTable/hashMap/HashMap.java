@@ -1,7 +1,5 @@
 package hashTable.hashMap;
 
-import java.util.*;
-
 class MyHashMap {
     private static class Node {
         int key, value;
