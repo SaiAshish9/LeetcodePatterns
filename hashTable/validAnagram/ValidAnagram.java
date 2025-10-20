@@ -30,3 +30,7 @@ public class ValidAnagram {
         System.out.println(solution.isAnagram("hello", "world")); // false
     }
 }
+
+// Complexity Analysis
+// Time Complexity: O(n), where n is the length of the strings. We traverse both strings once.
+// Space Complexity: O(1), since the size of the count array is fixed (26 for lowercase English letters) regardless of the input size.
