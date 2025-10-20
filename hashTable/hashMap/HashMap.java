@@ -1,9 +1,4 @@
 package hashTable.hashMap;
 
-public class HashMap {
+import java.util.*;
 
-    public static void main(String[] args) {
-        
-    }
-    
-}
