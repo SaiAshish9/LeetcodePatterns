@@ -483,7 +483,6 @@
     15. [Index Based: Count (Stable)]()
     16. [Index Based: Bin/Bucket (Stable)]()
     17. [Index Based: Radix (Stable)]()
-    18. [Max Distinct Elements After K Operations]()
 
 45. **Suffix Array (302-307, 6)**:
 
