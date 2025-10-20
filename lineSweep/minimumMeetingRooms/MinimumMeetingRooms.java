@@ -3,7 +3,7 @@ package lineSweep.minimumMeetingRooms;
 import java.util.*;
 
 public class MinimumMeetingRooms {
-    public static int uniqueListClass(int[][] intervals) {
+    public static int minMeetingRooms(int[][] intervals) {
         TreeMap<Integer, Integer> timeline = new TreeMap<>();
         
         for (int[] interval : intervals) {
@@ -27,7 +27,7 @@ public class MinimumMeetingRooms {
     
     public static void main(String[] args) {
         int[][] intervals = {{0, 1}, {0, 3}, {0, 4}};
-        System.out.println("The minimum meeting rooms required: " + uniqueListClass(intervals));
+        System.out.println("The minimum meeting rooms required: " + minMeetingRooms(intervals));
         // Expected Output: 3
     }
 }
