@@ -23,28 +23,6 @@ public class QuickSelect {
         return root;
     }
 
-    static void inOrderTraversal(Node root, ArrayList<Integer> result) {
-        if (root == null)
-            return;
-        inOrderTraversal(root.left, result);
-        result.add(root.val);
-        inOrderTraversal(root.right, result);
-    }
-
-    public static void treeSort(int[] arr) {
-        Node root = null;
-        for (int val : arr) {
-            root = insert(root, val);
-        }
-
-        ArrayList<Integer> sorted = new ArrayList<>();
-        inOrderTraversal(root, sorted);
-
-        for (int i = 0; i < arr.length; i++) {
-            arr[i] = sorted.get(i);
-        }
-    }
-
     public static int quickSelect(int[] arr, int k) {
         return quickSelect(arr, 0, arr.length - 1, k - 1);
     }
@@ -85,20 +63,6 @@ public class QuickSelect {
     }
 
     public static void main(String[] args) {
-        // Test Tree Sort
-        System.out.println("=== TREE SORT ===");
-        int[] arr = { 5, 3, 7, 2, 4, 6, 8 };
-        System.out.print("Original: ");
-        for (int i : arr)
-            System.out.print(i + " "); // 5 3 7 2 4 6 8
-
-        treeSort(arr);
-
-        System.out.print("\nSorted: ");
-        for (int i : arr)
-            System.out.print(i + " "); // 2 3 4 5 6 7 8
-
-        // Test QuickSelect
         System.out.println("\n\n=== QUICKSELECT ===");
         int[] arr2 = { 7, 10, 4, 3, 20, 15 };
         System.out.print("Array: ");
@@ -112,12 +76,9 @@ public class QuickSelect {
         k = 4; // Find 4th smallest element
         result = quickSelect(arr2.clone(), k); // Use clone to keep original array intact
         System.out.println(k + "th smallest element: " + result); // Should be 10
-
-        // Display sorted array for verification
-        int[] arr2Sorted = arr2.clone();
-        treeSort(arr2Sorted);
-        System.out.print("Sorted array for verification: ");
-        for (int i : arr2Sorted)
-            System.out.print(i + " ");
     }
 }
+
+// Complexity Analysis
+// Time Complexity: O(n) on average, O(n^2) in the worst case
+// Space Complexity: O(1) for the iterative version, O(log n) for the recursive version due to stack space
