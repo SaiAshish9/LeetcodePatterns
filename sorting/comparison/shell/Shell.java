@@ -38,6 +38,7 @@ public class Shell {
     public static void main(String[] args) {
         int[] arr = {12, 34, 54, 2, 3};
         shellSort(arr);
+        insertionSort(arr);
         System.out.println("Sorted array:");
         for (int num : arr) {
             System.out.print(num + " ");
