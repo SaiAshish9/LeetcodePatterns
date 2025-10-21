@@ -101,3 +101,14 @@ public class FourWayMerge {
 // why O(n + m) and not n+m log n+m for merging two sorted arrays?
 // When merging two sorted arrays, the time complexity is O(n + m) because you are 
 // essentially performing a linear scan through both arrays.
+
+// 🔍 Why not O(n log n + m)?
+
+// Because:
+
+// You’re not sorting here — both arrays are already sorted.
+
+// Merge Sort’s log n term comes from repeatedly splitting arrays.
+// In a simple merge, there’s no splitting — just one merge pass.
+
+// So, you only do one linear pass over the two arrays.
