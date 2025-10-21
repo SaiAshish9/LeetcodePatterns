@@ -93,6 +93,7 @@ public class FourWayMerge {
     }
 }
 
-// Complexity Analysis:
-// Time Complexity: O(n log n) in all cases (best, average, worst)
-// Space Complexity: O(n) due to the temporary arrays used for merging
+// Operation	Time Complexity	Space Complexity
+// Merge Sort	O(n log n)	O(n)
+// Merge 2 Arrays	O(n + m)	O(n + m)
+// Merge 4 Arrays	O(n + m + p + q)	O(n + m + p + q)
