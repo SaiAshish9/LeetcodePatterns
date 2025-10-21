@@ -11,7 +11,7 @@ public class Merge {
             mergeSort(arr, mid + 1, right);
 
             if (arr[mid] <= arr[mid + 1]) {
-                return;
+                return; // Optimization: skip merge if already sorted
             }
 
             merge(arr, left, mid, right);
