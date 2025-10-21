@@ -507,7 +507,7 @@
     2. [strStr]()
     3. [findDuplicateSubstring]()
 
-48. **Greedy (318-329, 12)**:
+48. **Greedy (318-329, 12)**: 
 
     1. [Fractional Knapsack]()
     2. [Activity Selection]()
