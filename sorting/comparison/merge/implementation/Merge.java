@@ -9,6 +9,11 @@ public class Merge {
             int mid = (left + right) / 2;
             mergeSort(arr, left, mid);
             mergeSort(arr, mid + 1, right);
+
+            if (arr[mid] <= arr[mid + 1]) {
+                return;
+            }
+
             merge(arr, left, mid, right);
         }
     }
@@ -41,7 +46,7 @@ public class Merge {
     }
 
     public static void main(String[] args) {
-        int[] arr = {38, 27, 43, 3, 9, 82, 10};
+        int[] arr = { 38, 27, 43, 3, 9, 82, 10 };
         System.out.println("Original array: " + Arrays.toString(arr)); // Output: [38, 27, 43, 3, 9, 82, 10]
 
         mergeSort(arr, 0, arr.length - 1);
