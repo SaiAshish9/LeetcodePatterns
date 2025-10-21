@@ -486,7 +486,7 @@
 
 45. **Suffix Array (302-307, 6)**:
 
-    1. [LCP Array]() (Kasal Algorithm)
+    1. [LCP Array]() (Kasai Algorithm)
     2. [Implementation]()
     3. [Longest Common Prefix](q14)
     4. [Longest Duplicate Substring](q1044)
