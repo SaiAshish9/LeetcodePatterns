@@ -1,7 +1,5 @@
 package sorting.comparison.quickselect;
 
-import java.util.ArrayList;
-
 public class QuickSelect {
 
     static class Node {
