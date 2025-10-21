@@ -78,11 +78,15 @@ public class Tim {
         int[] array = {5, 21, 7, 23, 19, 10, 12, 11, 6, 9, 0};
 
         System.out.println("Original array:");
-        System.out.println(Arrays.toString(array));
+        System.out.println(Arrays.toString(array));  // Output: [5, 21, 7, 23, 19, 10, 12, 11, 6, 9, 0]
 
         timSort(array);
 
         System.out.println("Sorted array:");
-        System.out.println(Arrays.toString(array));
+        System.out.println(Arrays.toString(array)); // Output: [0, 5, 6, 7, 9, 10, 11, 12, 19, 21, 23]
     }
 }
+
+// Complexity Analysis:
+// Time Complexity: O(n log n) in the average and worst cases. O(n) in the best case when the array is already sorted.
+// Space Complexity: O(n) due to the temporary arrays used during the merge process.
