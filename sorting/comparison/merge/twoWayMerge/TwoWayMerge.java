@@ -89,3 +89,7 @@ public class TwoWayMerge {
 // Merge Sort	O(n log n)	O(n)
 // Merge 2 Arrays	O(n + m)	O(n + m)
 // Merge 4 Arrays	O(n + m + p + q)	O(n + m + p + q)
+
+// why O(n + m) and not n+m log n+m for merging two sorted arrays?
+// When merging two sorted arrays, the time complexity is O(n + m) because you are 
+// essentially performing a linear scan through both arrays.
