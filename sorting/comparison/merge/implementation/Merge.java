@@ -53,3 +53,7 @@ public class Merge {
 // Output:
 // Original array: [38, 27, 43, 3, 9, 82, 10]
 // Sorted array: [3, 9, 10, 27, 38, 43, 82]
+
+// Complexity Analysis:
+// Time Complexity: O(n log n) in all cases (best, average, worst)
+// Space Complexity: O(n) due to the temporary arrays used for merging
