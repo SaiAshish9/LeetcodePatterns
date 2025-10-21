@@ -14,14 +14,14 @@ public class RandomizedQuick {
     }
 
     private int randomizedPartition(int[] arr, int low, int high) {
-        int pivotIdx = low + rand.nextInt(high - low + 1); // random index between low
-        swap(arr, pivotIdx, high); // move random pivot to end
-        return partition(arr, low, high); // normal partition
+        int pivotIdx = low + rand.nextInt(high - low + 1);
+        swap(arr, pivotIdx, high); 
+        return partition(arr, low, high); 
     }
 
     private int partition(int[] arr, int low, int high) {
         int pivot = arr[high];
-        int i = low - 1; // smaller element index
+        int i = low - 1; 
 
         for (int j = low; j < high; j++) {
             if (arr[j] < pivot) {
@@ -30,7 +30,7 @@ public class RandomizedQuick {
             }
         }
 
-        swap(arr, i + 1, high); // place pivot in correct position
+        swap(arr, i + 1, high); 
         return i + 1;
     }
 
