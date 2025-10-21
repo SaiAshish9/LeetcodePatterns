@@ -25,7 +25,7 @@ slow = 2, fast = 4 -> nums[fast] != 0 -> swap nums[slow] and nums[fast] -> nums 
 
 public class MoveZeroes {
 
-    public static void moveZeroes(int[] nums) {
+    private static void moveZeroes(int[] nums) {
         int slow = 0;
         for (int fast = 0; fast < nums.length; fast++) {
             if (nums[fast] != 0) {

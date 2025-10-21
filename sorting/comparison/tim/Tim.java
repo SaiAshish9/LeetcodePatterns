@@ -7,7 +7,7 @@ public class Tim {
     static final int RUN_SIZE = 32;
 
     // Insertion sort for small chunks
-    public static void insertionSort(int[] array, int left, int right) {
+    private static void insertionSort(int[] array, int left, int right) {
         for (int current = left + 1; current <= right; current++) {
             int temp = array[current];
             int j = current - 1;
@@ -21,7 +21,7 @@ public class Tim {
     }
 
     // Merge two sorted subarrays: array[left...mid] and array[mid+1...right]
-    public static void merge(int[] array, int left, int mid, int right) {
+    private static void merge(int[] array, int left, int mid, int right) {
         int length1 = mid - left + 1;
         int length2 = right - mid;
 
@@ -54,7 +54,7 @@ public class Tim {
         }
     }
 
-    public static void timSort(int[] array) {
+    private static void timSort(int[] array) {
         int n = array.length;
 
         for (int start = 0; start < n; start += RUN_SIZE) {

@@ -14,7 +14,7 @@ public class CycleDetection {
         }
     }
     
-    public static boolean cycleExists(List<Node> nodes, int n){
+    private static boolean cycleExists(List<Node> nodes, int n){
         Queue<Node> queue = new ArrayDeque<>();
         int[] indegree = new int[n];
         

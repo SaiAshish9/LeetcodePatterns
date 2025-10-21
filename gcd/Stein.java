@@ -4,7 +4,7 @@ package gcd;
 
 public class Stein {
 
-    public static int gcd(int a, int b) {
+    private static int gcd(int a, int b) {
         if (a == 0)
             return b;
         if (b == 0)

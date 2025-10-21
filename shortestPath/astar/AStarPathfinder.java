@@ -23,7 +23,7 @@ public class AStarPathfinder {
     // Directions: right, down, left, up
     static final int[][] DIRECTIONS = { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } };
 
-    public static List<int[]> findPath(int[][] grid, int[] start, int[] goal) {
+    private static List<int[]> findPath(int[][] grid, int[] start, int[] goal) {
         int rows = grid.length, cols = grid[0].length;
         boolean[][] visited = new boolean[rows][cols];
 

@@ -51,7 +51,7 @@ package binarySearch.q33;
 
 public class SearchInRotatedSortedArray {
 
-    public static int search(int[] nums, int target) {
+    private static int search(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;
 

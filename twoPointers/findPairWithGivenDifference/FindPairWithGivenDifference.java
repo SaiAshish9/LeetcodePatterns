@@ -42,7 +42,7 @@ import java.util.Arrays;
 
 public class FindPairWithGivenDifference {
 
-    public static boolean findPairWithGivenDifference(int[] arr, int target) {
+    private static boolean findPairWithGivenDifference(int[] arr, int target) {
         Arrays.sort(arr); // sorting for two-pointer technique
         int left = 0;
         int right = 1;

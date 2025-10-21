@@ -8,7 +8,7 @@ public class RottingOranges {
             { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 }
     };
 
-    public static int orangesRotting(int[][] grid) {
+    private static int orangesRotting(int[][] grid) {
         int m = grid.length;
         int n = grid[0].length;
         Queue<int[]> queue = new LinkedList<>();

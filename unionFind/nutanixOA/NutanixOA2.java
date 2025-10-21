@@ -39,7 +39,7 @@ public class NutanixOA2 {
         }
     }
 
-    public static List<Integer> countUserGroups(List<List<String>> testCases) {
+    private static List<Integer> countUserGroups(List<List<String>> testCases) {
         List<Integer> results = new ArrayList<>();
 
         for (List<String> users : testCases) {

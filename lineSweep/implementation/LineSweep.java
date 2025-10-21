@@ -3,7 +3,7 @@ package lineSweep.implementation;
 import java.util.*;
 
 public class LineSweep {
-    public static int maxOverlap(int[][] intervals) {
+    private static int maxOverlap(int[][] intervals) {
         TreeMap<Integer, Integer> timeline = new TreeMap<>();
         
         for (int[] interval : intervals) {

@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class FourWayMerge {
 
-    public static void mergeSort(int[] arr, int left, int right) {
+    private static void mergeSort(int[] arr, int left, int right) {
         if (left < right) {
             int mid = (left + right) / 2;
 
@@ -20,7 +20,7 @@ public class FourWayMerge {
         }
     }
 
-    public static void merge(int[] arr, int left, int mid, int right) {
+    private static void merge(int[] arr, int left, int mid, int right) {
         int n1 = mid - left + 1;
         int n2 = right - mid;
 
@@ -47,7 +47,7 @@ public class FourWayMerge {
             arr[k++] = R[j++];
     }
 
-    public static int[] mergeTwoSortedArrays(int[] A, int[] B) {
+    private static int[] mergeTwoSortedArrays(int[] A, int[] B) {
         int n = A.length, m = B.length;
         int[] result = new int[n + m];
 
@@ -68,7 +68,7 @@ public class FourWayMerge {
         return result;
     }
 
-    public static int[] mergeFourSortedArrays(int[] A, int[] B, int[] C, int[] D) {
+    private static int[] mergeFourSortedArrays(int[] A, int[] B, int[] C, int[] D) {
         int[] firstMerge = mergeTwoSortedArrays(A, B);
         int[] secondMerge = mergeTwoSortedArrays(C, D);
         return mergeTwoSortedArrays(firstMerge, secondMerge);

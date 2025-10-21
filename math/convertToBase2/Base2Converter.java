@@ -2,7 +2,7 @@ package math.convertToBase2;
 
 public class Base2Converter {
 
-    public static String toBinary(int n) {
+    private static String toBinary(int n) {
         if (n == 0) return "0";
 
         StringBuilder sb = new StringBuilder();

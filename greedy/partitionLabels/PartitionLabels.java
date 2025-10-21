@@ -3,7 +3,7 @@ package greedy.partitionLabels;
 import java.util.*;
 
 public class PartitionLabels {
-    public static List<Integer> partitionLabels(String s) {
+    private static List<Integer> partitionLabels(String s) {
         Map<Character, Integer> lastOccurrence = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {
             lastOccurrence.put(s.charAt(i), i);

@@ -2,7 +2,7 @@ package math.base2To6;
 
 public class Base2To6 {
 
-    public static String base2ToBase6(String binaryStr) {
+    private static String base2ToBase6(String binaryStr) {
         int decimal = Integer.parseInt(binaryStr, 2);
         if (decimal == 0) return "0";
 

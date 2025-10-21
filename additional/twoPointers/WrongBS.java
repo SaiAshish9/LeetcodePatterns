@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class WrongBS {
 
-    public static void solve(Scanner sc) {
+    private static void solve(Scanner sc) {
         int n = sc.nextInt();
         String s = sc.next();
         int[] permutation = new int[n];

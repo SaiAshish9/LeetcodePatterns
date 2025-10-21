@@ -3,7 +3,7 @@ package greedy.minimumNumberOfArrowsToBurstBalloons;
 import java.util.Arrays;
 
 public class MinimumNumberOfArrowsToBurstBalloons {
-    public static int findMinArrowShots(int[][] points) {
+    private static int findMinArrowShots(int[][] points) {
         if (points == null || points.length == 0) { 
             return 0;
         }

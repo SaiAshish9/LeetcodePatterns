@@ -2,7 +2,7 @@ package math.q3190;
 
 public class FindMinimumOperationsToMakeAllElementsDivisibleByThree {
 
-    public static int minOperations(int[] nums) {
+    private static int minOperations(int[] nums) {
         int operations = 0;
 
         for (int num : nums) {

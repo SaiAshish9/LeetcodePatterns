@@ -24,7 +24,7 @@ public class KosarajuSCC {
         }
     }
 
-    public static List<List<Integer>> kosaraju(int[][] edges, int n) {
+    private static List<List<Integer>> kosaraju(int[][] edges, int n) {
         Map<Integer, List<Integer>> graph = new HashMap<>();
         
         for(int[] edge: edges) {

@@ -31,7 +31,7 @@ public class Tree {
         inOrderTraversal(root.right, result);
     }
 
-    public static void treeSort(int[] arr) {
+    private static void treeSort(int[] arr) {
         Node root = null;
         for (int val : arr) {
             root = insert(root, val);

@@ -40,7 +40,7 @@ package slidingWindow.q487;
 
 public class MaxConsecutiveOnesII {
 
-    public static int findMaxConsecutiveOnes(int[] nums) {
+    private static int findMaxConsecutiveOnes(int[] nums) {
         int left = 0, right = 0;
         int k = 1;
         while (right < nums.length) {

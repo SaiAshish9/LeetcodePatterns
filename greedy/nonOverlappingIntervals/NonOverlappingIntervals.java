@@ -4,7 +4,7 @@ import java.util.*;
 
 public class NonOverlappingIntervals {
     
-    public static int eraseOverlapIntervals(int[][] intervals) {
+    private static int eraseOverlapIntervals(int[][] intervals) {
         if (intervals == null || intervals.length == 0) {
             return 0;
         }

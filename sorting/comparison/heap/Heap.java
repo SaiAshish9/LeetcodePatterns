@@ -3,7 +3,7 @@ package sorting.comparison.heap;
 import java.util.Arrays;
 
 public class Heap {
-    public static void heapSort(int[] arr) {
+    private static void heapSort(int[] arr) {
         int n = arr.length;
         for (int i = n / 2 - 1; i >= 0; i--) {
             heapify(arr, n, i);

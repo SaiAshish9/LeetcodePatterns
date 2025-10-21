@@ -23,7 +23,7 @@ package twoPointers.q125;
 
 public class ValidPalindrome {
 
-    public static boolean isPalindrome(String s) {
+    private static boolean isPalindrome(String s) {
         if (s == null || s.length() == 0)
             return true;
 

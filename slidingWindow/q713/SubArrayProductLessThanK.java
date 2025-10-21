@@ -40,7 +40,7 @@ Final Answer = 8
 
 public class SubArrayProductLessThanK {
 
-    public static int getSubArrayProductLessThanK(int[] nums, int k) {
+    private static int getSubArrayProductLessThanK(int[] nums, int k) {
         if (k <= 1)
             return 0;
         int left = 0;

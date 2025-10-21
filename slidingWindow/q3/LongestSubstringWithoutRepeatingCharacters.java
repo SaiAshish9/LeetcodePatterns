@@ -58,7 +58,7 @@ package slidingWindow.q3;
 
 public class LongestSubstringWithoutRepeatingCharacters {
 
-    public static int lengthOfLongestSubstring(String s) {
+    private static int lengthOfLongestSubstring(String s) {
         int[] charIndex = new int[128];
         int left = 0, right = 0, maxLength = 0;
         int n = s.length();

@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class RotateCellAntiClockwiseBy1 {
 
-    public static void rotateByOneCellAnticlockwise(int[][] matrix) {
+    private static void rotateByOneCellAnticlockwise(int[][] matrix) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0)
             return;
 

@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.Collections;
 
 public class SkylineProblem {
-    public static List<int[]> getSkyline(int[][] buildings) {
+    private static List<int[]> getSkyline(int[][] buildings) {
         List<int[]> events = new ArrayList<>();
         
         // Create events: start with negative height, end with positive height

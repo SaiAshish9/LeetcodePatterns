@@ -58,7 +58,7 @@ Final Answer = 3
  
  public class LongestSubstringWithAtMostTwoDistinctCharacters {
  
-     public static int lengthOfLongestSubstringTwoDistinct(String s) {
+     private static int lengthOfLongestSubstringTwoDistinct(String s) {
          Map<Character, Integer> count = new HashMap<>();
          int n = s.length();
          int ans = 0;

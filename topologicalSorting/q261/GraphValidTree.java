@@ -14,7 +14,7 @@ public class GraphValidTree {
         }
     }
     
-    public static boolean validTree(List<Node> nodes, int n, int edges){
+    private static boolean validTree(List<Node> nodes, int n, int edges){
         
         if(edges != n - 1){
             return false;

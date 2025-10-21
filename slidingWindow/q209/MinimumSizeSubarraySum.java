@@ -49,7 +49,7 @@ package slidingWindow.q209;
 
 public class MinimumSizeSubarraySum {
 
-    public static int minSubArrayLen(int target, int[] nums) {
+    private static int minSubArrayLen(int target, int[] nums) {
         int n = nums.length;
         int minLength = Integer.MAX_VALUE;
         int left = 0;

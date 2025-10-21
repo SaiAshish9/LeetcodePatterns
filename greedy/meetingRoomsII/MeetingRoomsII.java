@@ -4,7 +4,7 @@ import java.util.*;
 
 public class MeetingRoomsII {
     
-    public static int minMeetingRooms(int[][] intervals) {
+    private static int minMeetingRooms(int[][] intervals) {
         if (intervals == null || intervals.length == 0) {
             return 0;
         }

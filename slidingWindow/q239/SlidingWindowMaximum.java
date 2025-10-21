@@ -43,7 +43,7 @@ import java.util.LinkedList;
 
 public class SlidingWindowMaximum {
 
-    public static int[] maxSlidingWindow(int[] nums, int k) {
+    private static int[] maxSlidingWindow(int[] nums, int k) {
         int n = nums.length;
         if (n * k == 0)
             return new int[0];

@@ -21,7 +21,7 @@ public class QuickSelect {
         return root;
     }
 
-    public static int quickSelect(int[] arr, int k) {
+    private static int quickSelect(int[] arr, int k) {
         return quickSelect(arr, 0, arr.length - 1, k - 1);
     }
 
