@@ -30,6 +30,6 @@ public class LongestPrefixSuffix {
 
 }
 
-
+// Knuth–Morris–Pratt algorithm
 // Time Complexity: O(n)
 // Space Complexity: O(n)
