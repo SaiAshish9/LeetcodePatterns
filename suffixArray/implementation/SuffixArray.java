@@ -77,6 +77,21 @@ public class SuffixArray {
         for (int i = 0; i < lcp.length; i++) {
             System.out.println("LCP[" + i + "] = " + lcp[i]);
         }
+        // Output:
+        // Suffix Array:
+        // 5 : a
+        // 3 : ana
+        // 1 : anana
+        // 0 : banana
+        // 4 : na
+        // 2 : nana
+        // LCP Array:
+        // LCP[0] = 0
+        // LCP[1] = 1
+        // LCP[2] = 3
+        // LCP[3] = 0
+        // LCP[4] = 0
+        // LCP[5] = 2
         
         int maxLcp = 0;
         int maxIndex = -1;
