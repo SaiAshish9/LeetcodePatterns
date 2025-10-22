@@ -61,3 +61,14 @@ public class RabinKarp {
 
 // Spurious hit: False Alarm
 // Hash match but characters differ
+
+// Pattern found at index 0
+// Pattern found at index 6
+
+/*
+ * Complexity Analysis:
+Time Complexity:
+Average case: O(n + m) where n is text length, m is pattern length
+Worst case: O(nm) when many spurious hits occur
+Space Complexity: O(1)
+ */
