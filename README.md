@@ -593,10 +593,10 @@
     9. [Jump Game 6](q1696)
     10. [Jump Game 7](q1871)
     11. [Jump Game 8](q2297)
-    12. [Maximum SubArray]()
-    13. [Decode Ways]()
-    14. [Fibonacci Number]()
-    15. [N-th Tribonacci Number]()
+    12. [Maximum SubArray](q53)
+    13. [Decode Ways](q91)
+    14. [Fibonacci Number](q509)
+    15. [N-th Tribonacci Number](q1137)
 
 61. **0/1 Bounded Knapsack DP (Subset Sum, Boolean DP) (376-385, 10)**:
 
