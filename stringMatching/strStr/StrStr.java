@@ -56,6 +56,7 @@ public class StrStr {
         String needle = "abcaby";
         int result = strStr(haystack, needle);
         System.out.println("First Occurrence Index: " + result);
+        // First Occurrence Index: 6 for the given test case, as "abcaby" is found starting at index 6 in "abxabcabcaby".
     }
 }
 
