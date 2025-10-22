@@ -3,55 +3,101 @@ package suffixArray.implementation;
 import java.util.*;
 
 public class SuffixArray {
-    private static final int BASE = 256; 
-    private static final int MOD = 101; 
+    
+    public static int[] buildSuffixArray(String s) {
+        int n = s.length();
+        Suffix[] suffixes = new Suffix[n];
+        
+        for (int i = 0; i < n; i++) {
+            suffixes[i] = new Suffix(s.substring(i), i);
+        }
+        
+        Arrays.sort(suffixes, Comparator.comparing(a -> a.text));
+        
+        int[] suffixArr = new int[n];
+        for (int i = 0; i < n; i++) {
+            suffixArr[i] = suffixes[i].index;
+        }
+        return suffixArr;
+    }
 
-    public static List<Integer> findPattern(String text, String pattern) {
-        List<Integer> result = new ArrayList<>();
-        int n = text.length();
-        int m = pattern.length();
-        if (n < m) {
-            return result;
-        }
-        int patternHash = 0;
-        int windowHash = 0; 
-        int highestPower = 1; // base^(m-1)
+    public static int[] buildLCP(String s, int[] suffixArr) {
+        int n = s.length();
+        int[] lcp = new int[n];
+        int[] rank = new int[n];
         
-        // Precompute (base^(m-1)) % mod
-        for (int i = 0; i < m - 1; i++) {
-            highestPower = (highestPower * BASE) % MOD;
+        for (int i = 0; i < n; i++) {
+            rank[suffixArr[i]] = i;
         }
         
-        for (int i = 0; i < m; i++) {
-            patternHash = (patternHash * BASE + pattern.charAt(i)) % MOD;
-            windowHash = (windowHash * BASE + text.charAt(i)) % MOD;
-        }
+        int k = 0;
         
-        for (int i = 0; i <= n - m; i++) {
-            if (patternHash == windowHash) {
-                if (text.substring(i, i + m).equals(pattern)) {
-                    result.add(i);
-                }
+        for (int i = 0; i < n; i++) {
+            if (rank[i] == n - 1) {
+                k = 0;
+                continue;
             }
-            if (i < n - m) {
-                windowHash = (BASE * (windowHash - text.charAt(i) * highestPower) + text.charAt(i + m)) % MOD;
-                if (windowHash < 0) {
-                    windowHash += MOD;
-                }
+            
+            int j = suffixArr[rank[i] + 1];
+            
+            while (i + k < n && j + k < n && s.charAt(i + k) == s.charAt(j + k)) {
+                k++;
+            }
+            
+            lcp[rank[i]] = k;
+            
+            if (k > 0) {
+                k--;
             }
         }
-        return result;
+        return lcp;
+    }
+
+    static class Suffix {
+        String text;
+        int index;
+        
+        Suffix(String text, int index) {
+            this.text = text;
+            this.index = index;
+        }
     }
 
     public static void main(String[] args) {
-        String text = "ababcabcababc";
-        String pattern = "abc";
-        List<Integer> indices = findPattern(text, pattern);
-        System.out.println("Pattern found at indices: " + indices);
-        // Output should be: Pattern found at indices: [2, 5, 9]
+        String s = "banana";
+        int[] suffixArr = buildSuffixArray(s);
+        int[] lcp = buildLCP(s, suffixArr);
+        
+        System.out.println("Suffix Array:");
+        for (int i = 0; i < suffixArr.length; i++) {
+            System.out.println(suffixArr[i] + " : " + s.substring(suffixArr[i]));
+        }
+        
+        System.out.println("\nLCP Array:");
+        for (int i = 0; i < lcp.length; i++) {
+            System.out.println("LCP[" + i + "] = " + lcp[i]);
+        }
+        
+        int maxLcp = 0;
+        int maxIndex = -1;
+        for (int i = 0; i < lcp.length; i++) {
+            if (lcp[i] > maxLcp) {
+                maxLcp = lcp[i];
+                maxIndex = i;
+            }
+        }
+        
+        if (maxLcp > 0) {
+            String longestRepeated = s.substring(suffixArr[maxIndex], suffixArr[maxIndex] + maxLcp);
+            System.out.println("\nLongest Repeated Substring: \"" + longestRepeated + "\" (length: " + maxLcp + ")");
+            // Output: "ana" (length: 3)
+        }
     }
 }
 
 // Complexity Analysis:
-// Time Complexity: O(n + m) on average, where n is the length of the text and m is the length of the pattern.
-// Space Complexity: O(1) additional space, not counting the output list.
+// Building the suffix array using the naive method takes O(n^2 log n) time due to sorting n suffixes each of length up to n.
+// The LCP array can be built in O(n) time using Kasai's algorithm.
+// Overall, this implementation is not optimal for large strings, but it is straightforward and easy to understand.
+// Time Complexity: O(n^2 log n) for suffix array construction, O(n) for LCP array construction.
+// Space Complexity: O(n) for storing suffixes, suffix array, and LCP array.
