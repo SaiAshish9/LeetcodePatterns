@@ -582,7 +582,7 @@
 
 60. **Linear Dynamic Programming (361-375, 15)**:
 
-    1. [Climbing Stairs]()
+    1. [Climbing Stairs](q70)
     2. [House Robber]()
     3. [House Robber 2]()
     4. [Jump Game]()
