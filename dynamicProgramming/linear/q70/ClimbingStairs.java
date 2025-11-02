@@ -1,3 +1,5 @@
+package dynamicProgramming.linear.q70;
+
 import java.util.Arrays;
 
 public class ClimbingStairs {
