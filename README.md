@@ -14,7 +14,7 @@
 
 ---
 
-## 📂 Contents (520+)
+## 📂 Contents (542)
 
 1. **Two Pointers (1-18, 18)**
 
@@ -155,7 +155,7 @@
     12. [Removing Stars From a String](2300)
     13. [Robot Collisions](2751)
 
-11. **Binary Tree PreOrder Traversal (, 19)**:
+11. **Binary Tree PreOrder Traversal (113-131, 19)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
@@ -177,14 +177,14 @@
     18. [Depth from root to target]()
     19. [Max Depth]()
 
-12. **Binary Tree InOrder Traversal (, 4)**:
+12. **Binary Tree InOrder Traversal (132-135, 4)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
     3. [Kth Smallest Element in a BST]()
     4. [Validate BST]()
 
-13. **Binary Tree PostOrder Traversal (, 7)**:
+13. **Binary Tree PostOrder Traversal (136-142, 7)**:
 
     1. [Implementation]()
     2. [Stack Implementation]()
@@ -195,7 +195,7 @@
     7. [Distance between 2 nodes in a binary Tree]()
     8. [Delete Node in a BST](q450)
 
-14. **Binary Tree Level Order Traversal (, 13)**:
+14. **Binary Tree Level Order Traversal (143-155, 13)**:
 
     1. [Implementation]()
     2. [Kth Largest Sum Of Binary Tree]()
@@ -210,7 +210,7 @@
     11. [Depth (Nodes)]()
     12. [Depth (Nodes)]()
 
-15. **Binary Tree Traversal (, 9)**:
+15. **Binary Tree Traversal (156-164, 9)**:
 
     3. [Binary Tree Upside Down (Flip Binary Tree)]()
     4. [Binary Tree Vertical Order Traversal]()
@@ -220,30 +220,30 @@
     8. [Symmetric Tree](q101)
     9. [Longest ZigZag Path In A Binary Tree](q1372)
 
-16. **Binary Search Tree (175, 3)**:
+16. **Binary Search Tree (165-168, 3)**:
 
     1. [Insert Operation]()
     2. [Delete Operation]()
     3. [Search Operation]()
 
-17. **Binary Search Tree PreOrder Traversal (176-178, 3)**:
+17. **Binary Search Tree PreOrder Traversal (169-172, 3)**:
 
     1. [Convert Sorted Array to Binary Search Tree](q108)
     2. [Convert Sorted List to Binary Search Tree](q109)
     3. [Split BST](q778)
 
-18. **Binary Search Tree InOrder Traversal (179-181, 3)**:
+18. **Binary Search Tree InOrder Traversal (173-175, 3)**:
 
     1. [Kth Smallest Element in a BST](q230)
     2. [Find Mode in Binary Search Tree](q501)
     3. [Minimum Absolute Difference in BST](q530)
 
-19. **Binary Search Tree PostOrder Traversal (182-183, 2)**:
+19. **Binary Search Tree PostOrder Traversal (176-178, 2)**:
 
     1. [Lowest Common Ancestor of a Binary Search Tree](q235)
     2. [Delete Node in a BST](q450)
 
-20. **N-Ary Tree (, 4)**:
+20. **N-Ary Tree (179-182, 4)**:
 
     1. [Traversal]()
     2. [Sum Of Distances In A N Ary Tree Using LCA and Depth]()
@@ -251,14 +251,14 @@
     4. [Amazon Away Team Peers]()
     5. [Binary Lifting For Sum Of Distances (N^2 Log N)]()
 
-21. **Trie (196-199, 3)**:
+21. **Trie (183-185, 3)**:
 
     1. [Implement Trie (Prefix Tree)](q208)
     2. [Design Add and Search Words Data Structure](q211)
     3. [Word Search II](q212)
     4. [Longest Word With All Prefixes](q1858)
 
-22. **Segment Tree (337-345, 9)**:
+22. **Segment Tree (186-194, 9)**:
 
     1. [Implementation]()
     2. [What is the sum from index l to r?]()
@@ -273,7 +273,7 @@
     11. [Range Module](q715)
     12. [My Calendar III](q732)
 
-23. **Binary Indexed Tree (Fenwick Tree)(346-352, 7)**:
+23. **Binary Indexed Tree (Fenwick Tree)(195-201, 7)**:
 
     1. [Implementation]()
     2. [Range Sum Query - Mutable](q307)
@@ -283,15 +283,15 @@
     6. [Create Sorted Array through Instructions Inversion Count]()
     7. [K-th smallest/largest elements Dynamic frequency counting]()
 
-24. **Red Black Tree (200, 1)**:
+24. **Red Black Tree (202, 1)**:
 
     1. [Implementation]()
 
-25. **AVL Tree (201, 1)**:
+25. **AVL Tree (203, 1)**:
 
     1. [Implementation]()
 
-26. **Union Find, Disjoint Set Union (254-258 , 5)**:
+26. **Union Find, Disjoint Set Union (204-209 , 5)**:
 
     1. [Union By Size]()
     2. [Union By Rank]()
@@ -302,7 +302,7 @@
     7. [Graph Valid Tree](q261)
     8. [Number of Connected Components in an Undirected Graph](q323)
 
-27. **Graph (184-190, 11)**:
+27. **Graph (210-220, 11)**:
 
     1. [Clone Graph](q133)
     2. [Is Graph Bipartite? (2 Colors)](q785)
@@ -317,29 +317,29 @@
     10. [All Paths From Root To Leaves Using Current Primitive Type Int Array]()
     11. [CRED OA: Visit All Cities Exactly Once]()
 
-28. **Graph Coloring (191, 1)**:
+28. **Graph Coloring (221, 1)**:
 
     1. [Implementation]()
     2. [For 2 Colors: BiPartile Check]()
 
-29. **Topological Sorting (192-195, 4)**:
+29. **Topological Sorting (222-225, 4)**:
 
     1. [DFS Implementation]()
     2. [Kahn's BFS Implementation]()
     3. [Course Schedule]()
     4. [Course Schedule 2]()
 
-30. **Minimum Spanning Tree: Kruskal Algorithm (250-251, 2)**:
+30. **Minimum Spanning Tree: Kruskal Algorithm (226-227, 2)**:
 
     1. [Implementation: MSTs exists only for undirected graphs]()
     2. [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](q1489)
 
-31. **Minimum Spanning Tree: Prims Algorithm (252-253, 3)**:
+31. **Minimum Spanning Tree: Prims Algorithm (228-230, 3)**:
 
     1. [Implementation: MSTs exists only for undirected graphs]()
     2. [Optimize Water Distribution in a Village](q1168)
 
-32. **Shortest Path Algorithms (259-265, 7)**:
+32. **Shortest Path Algorithms (231-237, 7)**:
 
     1. [Print Single Source Shortest Path & Its Distance: Dijkstra]()
     2. [Print Single Source Shortest Path With Negative Weights & Its Distance: Bellman-Ford]()
@@ -349,37 +349,37 @@
     6. [Uber Travel Agent]()
     7. [Microsoft OA]()
 
-33. **Strongly Connected Components (266-268, 3)**:
+33. **Strongly Connected Components (238-241, 3)**:
 
     1. [Kosaraju Algorithm]()
     2. [Tarjan's Algorithm]()
     3. [Critical Components in a Network (Bridges)]()
 
-34. **BiConnected Component (269, 1)**:
+34. **BiConnected Component (242, 1)**:
 
     1. [Detection]()
 
-35. **Articulation Points (270, 1)**:
+35. **Articulation Points (243, 1)**:
 
     1. [Detection]()
 
-36. **Eulerian Circuit (Edge) (271, 1)**:
+36. **Eulerian Circuit (Edge) (244, 1)**:
 
     1. [Detection]()
 
-37. **Hamiltonian Cycle (Vertex) (273, 1)**:
+37. **Hamiltonian Cycle (Vertex) (245, 1)**:
 
     1. [Detection]()
 
-38. **De Brujin Graph (272, 1)**:
+38. **De Brujin Graph (246, 1)**:
 
     1. [Detection]()
 
-39. **Recursion (, 1)**:
+39. **Recursion (247, 1)**:
 
     1. [Time Converter]()
 
-40. **Backtracking (202-223, 22)**:
+40. **Backtracking (248-269, 22)**:
 
     1. [Letter Combinations of a Phone Number](q17)
     2. [Generate Parentheses](q22)
@@ -404,7 +404,7 @@
     21. [Smallest String Starting From Leaf](q988)
     22. [The Knight’s Tour](q2664)
 
-41. **Matrixes (225-249, 25)**
+41. **Matrixes (270-294, 25)**
 
     1. [Islands: Number of Islands](./matrixes/islands/q200/NumberOfIslands.java)
     2. [Islands: Island Perimeter](q463)
@@ -432,7 +432,7 @@
     24. [Count number of subMatrixes with all 1]()
     25. [Coupang: Directions Q]()
 
-42. **Math (274-292, 19)**:
+42. **Math (295-313, 19)**:
 
     1. [Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space]()
     2. [Base 2 To Base 6]()
@@ -454,7 +454,7 @@
     18. [Count Anagrams](q2514)
     19. [Find Minimum Operations to Make All Elements Divisible by Three](q3190)
 
-43. **Design (354-360, 7)**:
+43. **Design (314-320, 7)**:
 
     1. [LRU Cache](q200)
     2. [LFU Cache](q460)
@@ -464,7 +464,7 @@
     6. [MRU Cache]()
     7. [TreeMap]()
 
-44. **Sorting (113-130, 18)**
+44. **Sorting (321-338, 18)**
 
     1. [Comparison: Bubble (Stable, Adaptive)]()
     2. [Comparison: Selection]()
@@ -484,7 +484,7 @@
     16. [Index Based: Bin/Bucket (Stable)]()
     17. [Index Based: Radix (Stable)]()
 
-45. **Suffix Array (302-307, 6)**:
+45. **Suffix Array (339-345, 6)**:
 
     1. [LCP Array]() (Kasai Algorithm)
     2. [Implementation]()
@@ -493,7 +493,7 @@
     5. [Number of Distinct Substrings](q1698)
     6. [MultiString LCP]()
 
-46. **String Matching (308-312, 5)**:
+46. **String Matching (346-350, 5)**:
 
     1. [Longest Prefix Suffix]() (KMP Algorithm)
     2. [Find All Anagrams Of A String]()
@@ -501,13 +501,13 @@
     4. [Naive String Matching]()
     5. [Rabin Karp Algorithm]() (Rolling Hash, Spurious Hits)
 
-47. **Rolling Hash (314-316, 3)**:
+47. **Rolling Hash (351-353, 3)**:
 
     1. [Implementation]()
     2. [strStr]()
     3. [findDuplicateSubstring]()
 
-48. **Greedy (318-329, 12)**:
+48. **Greedy (354-365, 12)**:
 
     1. [Fractional Knapsack]()
     2. [Activity Selection]()
@@ -523,7 +523,7 @@
     12. [Partition Labels]()
     13. [Maximum Number Of Distinct Elements After K Operations](q3397)
 
-49. **Hash Table (330-336, 7)**:
+49. **Hash Table (366-372, 7)**:
 
     1. [Two Sum]()
     2. [Design HashMap]()
@@ -533,54 +533,54 @@
     6. [4Sum II]()
     7. [Valid Anagram]()
 
-50. **Line Sweep (293-295, 3)**:
+50. **Line Sweep (373-375, 3)**:
 
     1. [Implementation]()
     2. [Minimum Meeting Rooms]()
     3. [Skyline Problem]()
 
-51. **Randomized (297-299, 3)**:
+51. **Randomized (376-378, 3)**:
 
     1. [Kth Largest Element in an Array](q215)
     2. [Linked List Random Node](q382)
     3. [Shuffle an Array](q384)
 
-52. **Reservoir Sampling (300, 1)**:
+52. **Reservoir Sampling (379, 1)**:
 
     1. [Linked List Random Node](q382)
 
-53. **Rejection Sampling (301, 1)**:
+53. **Rejection Sampling (380, 1)**:
 
     1. [Implement Rand10() Using Rand7()](q470)
 
-54. **Divide And Conquer (296, 1)**:
+54. **Divide And Conquer (381, 1)**:
 
     1. [Implementation]()
 
-55. **Traveling Salesman Problem (353, 1)**:
+55. **Traveling Salesman Problem (382, 1)**:
 
     1. [Implementation]()
 
-56. **GCD (515-517, 3)**:
+56. **GCD (383-385, 3)**:
 
     1. [Basic]()
     2. [Euclidean Algorithm]()
     3. [Stein’s Algorithm (Binary GCD, More Efficient)]()
 
-57. **NP Hard And NP Complete (313, 1)**:
+57. **NP Hard And NP Complete (386, 1)**:
 
     1. [NP Hard And NP Complete Examples]()
 
-58. **Concurrency (317, 1)**:
+58. **Concurrency (387, 1)**:
 
     1. [Implementation: Print In Order](./concurrency/q1114/)
 
-59. **DFS (513-514, 2)**:
+59. **DFS (388-389, 2)**:
 
     1. [All Paths From Source To Destination]()
     2. [Euler DFS: Valid Arrangement of Pairs]()
 
-60. **Linear Dynamic Programming (361-375, 15)**:
+60. **Linear Dynamic Programming (390-404, 15)**:
 
     1. [Climbing Stairs](q70)
     2. [House Robber](q198)
@@ -598,7 +598,7 @@
     14. [Jump Game 7](q1871)
     15. [Jump Game 8](q2297)
 
-61. **0/1 Bounded Knapsack DP (Subset Sum, Boolean DP) (376-385, 10)**:
+61. **0/1 Bounded Knapsack DP (Subset Sum, Boolean DP) (405-414, 10)**:
 
     1. [Classic 0/1 Knapsack]()
     2. [Subset Sum DFS]()
@@ -611,7 +611,7 @@
     9. [Nutanix OA1: Manufacturing Unit]()
     10. [Nutanix OA2: Intervals]()
 
-62. **Unbounded Knapsack DP (386-391, 6)**:
+62. **Unbounded Knapsack DP (415-420, 6)**:
 
     1. [Coin Change]()
     2. [Coin Change 2]()
@@ -620,23 +620,23 @@
     5. [Perfect Squares]()
     6. [Combination Sum IV]()
 
-63. **Limited Supply Bounded Knapsack DP (392, 1)**:
+63. **Limited Supply Bounded Knapsack DP (421, 1)**:
 
     1. [Coin Change with Limited Supply]()
 
-64. **Multiple Knapsack DP (393, 1)**:
+64. **Multiple Knapsack DP (422, 1)**:
 
     1. [Maximum Units on a Truck]()
 
-65. **Fractional Knapsack DP (394, 1)**:
+65. **Fractional Knapsack DP (423, 1)**:
 
     1. [Max value with fractional items]()
 
-66. **Fractional Knapsack DP (394, 1)**
+66. **Fractional Knapsack DP (424, 1)**
 
     1. [Max value with fractional items]()
 
-67. **Interval DP (395–403, 8)**
+67. **Interval DP (425-432, 8)**
 
     1. [Burst Balloons]()
     2. [Matrix Chain Multiplication]()
@@ -647,7 +647,7 @@
     7. [Evaluate Expression to True (Boolean Parenthesization)]()
     8. [Minimum Score Triangulation of Polygon]()
 
-68. **Subsequence DP (419, 19)**
+68. **Subsequence DP (433-451, 19)**
 
     1. [Longest Common Subsequence (LCS)]()
     2. [Print LCS]()
@@ -670,7 +670,7 @@
     19. [Longest Repeating Subsequence]()
     20. [Word Break]()
 
-69. **Substring DP (426–431, 6)**
+69. **Substring DP (452-457, 6)**
 
     1. [Longest Common Substring]()
     2. [Longest Repeating Substring]()
@@ -680,7 +680,7 @@
     6. [Minimum insertions/deletions to convert substring]()
     7. [Longest Duplicate Substring]()
 
-70. **Grid Based DP (432–440, 9)**
+70. **Grid Based DP (458-466, 9)**
 
     1. [Unique Paths]()
     2. [Unique Paths II]()
@@ -692,7 +692,7 @@
     8. [Coin Collection in Grid]()
     9. [Interleaving String]()
 
-71. **Matrix Based DP (441–447, 7)**
+71. **Matrix Based DP (467-473, 7)**
 
     1. [Maximal Square]()
     2. [Maximal Rectangle]()
@@ -702,7 +702,7 @@
     6. [Palindromic Substrings in a 2D Grid]()
     7. [Coin Change on Grid]()
 
-72. **Kadane’s Algorithm (448–452, 5)**
+72. **Kadane’s Algorithm (474-479, 5)**
 
     1. [1D Maximum Subarray Sum]()
     2. [2D Maximum Submatrix Sum (apply Kadane on column pairs)]()
@@ -710,7 +710,7 @@
     4. [Maximum Product Subarray (variation with min/max)]()
     5. [Maximum Alternating Subarray Sum]()
 
-73. **Subset DP (453–462, 10)**
+73. **Subset DP (480-489, 10)**
 
     1. [Binomial Coefficients]()
     2. [Pascal’s Triangle]()
@@ -723,7 +723,7 @@
     9. [Bitmask-based combinatorial counting]()
     10. [Minimum Cost Path covering all nodes (e.g., TSP)]()
 
-74. **Tree DP (463–470, 8)**
+74. **Tree DP (490-497, 8)**
 
     1. [Diameter of Binary Tree]()
     2. [Maximum Path Sum Between Two Nodes]()
@@ -734,7 +734,7 @@
     7. [Unique Binary Search Trees]()
     8. [LCA Queries (distance between nodes, kth ancestor with Binary Lifting)]()
 
-75. **Digit DP (471–478, 8)**
+75. **Digit DP (498-505, 8)**
 
     1. [Numbers with Same Consecutive Differences]()
     2. [Count Stepping Numbers in Range]()
@@ -745,7 +745,7 @@
     7. [Count Numbers with No Repeated Digits]()
     8. [Count Beautiful Numbers]()
 
-76. **Probability/Expectation DP (479–484, 6)**
+76. **Probability/Expectation DP (506-511, 6)**
 
     1. [New 21 Game]()
     2. [Dice Throw / Sum of Dice]()
@@ -754,7 +754,7 @@
     5. [Random Walk in a Grid]()
     6. [Probability of a Knight Staying on Board]()
 
-77. **Game Theory DP (485–491, 7)**
+77. **Game Theory DP (512-518, 7)**
 
     1. [Nim Game]()
     2. [Stone Game / Take-Away Game]()
@@ -764,7 +764,7 @@
     6. [Game of Removing Stones with Various Moves]()
     7. [Chess/Checkers Simplified States]()
 
-78. **State Machine DP (492–501, 10)**
+78. **State Machine DP (519-528, 10)**
 
     1. [Frog Jump]()
     2. [Super Egg Drop]()
@@ -777,30 +777,30 @@
     9. [Best Time to Buy and Sell Stock IV]()
     10. [Best Time to Buy and Sell Stock with Cooldown]()
 
-79. **State Compression DP (502–503, 2)**
+79. **State Compression DP (529-530, 2)**
 
     1. [Traveling Salesman Problem (TSP)]()
     2. [Counting Subsets]()
 
-80. **Decision DP (504–505, 2)**
+80. **Decision DP (531-532, 2)**
 
     1. [Egg Dropping Problem]()
     2. [Paint House]()
 
-81. **Counting/Combinatorial DP (506–508, 3)**
+81. **Counting/Combinatorial DP (533–535, 3)**
 
     1. [Friends Pairing Problem]()
     2. [Paint Fence]()
     3. [Ugly Number II]()
 
-82. **Job Scheduling DP (509–512, 4)**
+82. **Job Scheduling DP (536-539, 4)**
 
     1. [Maximum Profit in Job Scheduling]()
     2. [Weighted Interval Scheduling (with Profits)]()
     3. [Maximum Number of Non-overlapping Intervals]()
     4. [Scheduling with Deadlines and Profits]()
 
-83. **Additional (518-519)**:
+83. **Additional (540-542, 3)**:
 
     1. [Two Pointers: NextPermutation]()
     2. [Math: Add 0 or K]()
